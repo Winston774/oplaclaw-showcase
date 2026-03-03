@@ -13,7 +13,7 @@ from config import (
     YOUTUBE_API_KEY,
     GEMINI_API_KEY,
     GEMINI_MODEL,
-    SEARCH_QUERY,
+    SEARCH_QUERIES,
     DATA_FILE,
     CATEGORIES,
     CATEGORY_ICONS,
@@ -147,13 +147,21 @@ if __name__ == "__main__":
     existing_ids = {v["id"] for v in existing["videos"]}
     print(f"📦 Existing videos: {len(existing_ids)}")
 
-    # Search YouTube
-    print(f"🔍 Searching: '{SEARCH_QUERY}'...")
-    raw_videos = search_videos(youtube, SEARCH_QUERY, max_results=200)
-    print(f"📺 Found {len(raw_videos)} total videos")
+    # Search YouTube across all queries, deduplicate
+    seen_ids: set[str] = set(existing_ids)
+    raw_videos: list[dict] = []
+    for query, max_r in SEARCH_QUERIES:
+        print(f"🔍 Searching: '{query}' (max {max_r})...")
+        results = search_videos(youtube, query, max_results=max_r)
+        new_in_query = [v for v in results if v["id"] not in seen_ids]
+        seen_ids.update(v["id"] for v in new_in_query)
+        raw_videos.extend(new_in_query)
+        print(f"   +{len(new_in_query)} new (total so far: {len(raw_videos)})")
+
+    print(f"📺 Total new videos to process: {len(raw_videos)}")
 
     # Filter to new ones only
-    new_videos = [v for v in raw_videos if v["id"] not in existing_ids]
+    new_videos = raw_videos
     print(f"✨ New videos to process: {len(new_videos)}")
 
     if not new_videos:
