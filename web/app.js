@@ -158,7 +158,7 @@ function renderCard(v) {
 // ── Init ──
 async function init() {
   try {
-    const res = await fetch('../data/videos.json');
+    const res = await fetch('./data/videos.json');
     if (!res.ok) throw new Error('Failed to load videos.json');
     const data = await res.json();
     allVideos = data.videos || [];

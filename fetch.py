@@ -89,6 +89,23 @@ def enrich_video(client, video: dict) -> dict:
 
 影片說明：{video['description'][:1000]}
 
+## 分類規則（非常重要）
+
+「OpenClaw Setup」只用於影片的**主要目的**是教人「安裝、設定、配置 OpenClaw/Clawdbot 工具本身」時。
+
+如果影片展示了 OpenClaw 的**實際應用場景**，即使過程中有提到設定步驟，也應優先使用以下更具體的分類：
+- 「內容行銷」→ 自動化內容創作、SEO、社群媒體、YouTube、部落格
+- 「金融」→ 賺錢、交易、投資、加密貨幣、自動化收入
+- 「生產力」→ 工作流程自動化、提升效率、任務自動化
+- 「程式開發」→ 寫程式、建立應用、API 串接、工程師工作流
+- 「自我成長」→ 個人助理、學習、習慣、自我提升
+- 「生活管理」→ 生活日常自動化、行事曆、Email、待辦事項
+- 「智慧居家」→ 智慧家電、Home Assistant、語音助理、IoT
+- 「健康」→ 健康追蹤、運動、飲食、醫療
+- 「E-Commerce」→ 電商、Shopify、dropshipping、Amazon
+
+只有在影片**純粹是安裝教學、設定教學、安全設定、初始配置**，沒有明確應用場景時，才選「OpenClaw Setup」。
+
 請回傳以下 JSON（不要加任何其他文字，不要用 markdown code block）：
 {{
   "category": "從以下選一個: {categories_str}",

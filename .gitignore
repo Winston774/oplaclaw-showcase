@@ -1,5 +1,5 @@
 .env
-data/videos.json
+/data/
 __pycache__/
 *.pyc
 *.log
@@ -7,3 +7,5 @@ __pycache__/
 venv/
 env/
 .venv/
+.claude/
+.playwright-mcp/

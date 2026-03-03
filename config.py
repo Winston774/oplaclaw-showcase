@@ -63,4 +63,4 @@ CATEGORY_ICONS = {
     "其他": "📌",
 }
 
-DATA_FILE = "data/videos.json"
+DATA_FILE = "web/data/videos.json"
