@@ -119,13 +119,83 @@ def enrich_video(client, video: dict) -> dict:
     return result
 
 
-if __name__ == "__main__":
-    client = genai.Client(api_key=GEMINI_API_KEY)
+def load_existing() -> dict:
+    """Load existing videos.json or return empty structure."""
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"last_updated": "", "total": 0, "videos": []}
 
-    test_video = {
-        "title": "OpenClaw Use Cases That Are Actually Insane",
-        "description": "In this video I show you how to configure OpenClaw agents to automate your workflow using AI prompts and custom instructions..."
-    }
-    print("🧠 Testing Gemini enrichment...")
-    result = enrich_video(client, test_video)
-    print(json.dumps(result, ensure_ascii=False, indent=2))
+
+def save_data(data: dict) -> None:
+    """Save data to videos.json."""
+    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+if __name__ == "__main__":
+    print("🦞 OplacLaw Fetcher")
+    print("=" * 40)
+
+    # Build clients
+    youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
+    ai_client = genai.Client(api_key=GEMINI_API_KEY)
+
+    # Load existing data
+    existing = load_existing()
+    existing_ids = {v["id"] for v in existing["videos"]}
+    print(f"📦 Existing videos: {len(existing_ids)}")
+
+    # Search YouTube
+    print(f"🔍 Searching: '{SEARCH_QUERY}'...")
+    raw_videos = search_videos(youtube, SEARCH_QUERY, max_results=200)
+    print(f"📺 Found {len(raw_videos)} total videos")
+
+    # Filter to new ones only
+    new_videos = [v for v in raw_videos if v["id"] not in existing_ids]
+    print(f"✨ New videos to process: {len(new_videos)}")
+
+    if not new_videos:
+        print("✅ Nothing to update.")
+    else:
+        # Fetch durations for new videos
+        new_ids = [v["id"] for v in new_videos]
+        durations = fetch_video_durations(youtube, new_ids)
+
+        # Enrich with Gemini
+        enriched = []
+        for i, video in enumerate(new_videos, 1):
+            print(f"  [{i}/{len(new_videos)}] Enriching: {video['title'][:60]}...")
+            try:
+                ai_data = enrich_video(ai_client, video)
+                full_video = {
+                    "id": video["id"],
+                    "title": video["title"],
+                    "title_highlight": ai_data.get("title_highlight", ""),
+                    "url": video["url"],
+                    "thumbnail": video["thumbnail"],
+                    "published_at": video["published_at"],
+                    "duration": durations.get(video["id"], ""),
+                    "category": ai_data["category"],
+                    "category_icon": ai_data["category_icon"],
+                    "summary": ai_data.get("summary", ""),
+                    "tags": ai_data.get("tags", []),
+                    "prompts": ai_data.get("prompts", []),
+                }
+                enriched.append(full_video)
+            except Exception as e:
+                print(f"  ⚠️  Error processing {video['id']}: {e}")
+
+        # Merge and save
+        all_videos = enriched + existing["videos"]
+        all_videos.sort(key=lambda v: v["published_at"], reverse=True)
+
+        output = {
+            "last_updated": datetime.utcnow().isoformat(),
+            "total": len(all_videos),
+            "videos": all_videos,
+        }
+        save_data(output)
+        print(f"\n✅ Saved {len(all_videos)} videos to {DATA_FILE}")
+        print(f"   ({len(enriched)} new, {len(existing_ids)} existing)")
