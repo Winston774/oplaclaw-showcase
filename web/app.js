@@ -185,9 +185,10 @@ function renderCards() {
       const id = btn.dataset.id;
       const video = allVideos.find(v => v.id === id);
       if (!video) return;
-      const text = video.prompts?.length
-        ? video.prompts.join('\n\n')
-        : buildFallbackPrompt(video);
+      const parts = [];
+      if (video.prompts?.length) parts.push(video.prompts.join('\n\n'));
+      parts.push(buildFallbackPrompt(video));
+      const text = parts.join('\n\n---\n\n');
       navigator.clipboard.writeText(text).then(() => {
         btn.textContent = '✓ 已複製';
         btn.classList.add('copied');
