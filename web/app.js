@@ -202,13 +202,15 @@ function renderCards() {
 }
 
 function renderCard(v) {
-  // Safe title highlight — escape special regex chars before replace
-  let titleHtml = v.title;
-  if (v.title_highlight) {
-    const escaped = v.title_highlight.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    titleHtml = v.title.replace(new RegExp(escaped, 'i'), match =>
-      `<span class="highlight">${match}</span>`
-    );
+  // Display Chinese title if available, with original English below
+  let titleHtml = '';
+  if (v.title_zh) {
+    titleHtml = `${v.title_zh}<div class="card-title-en">${v.title}</div>`;
+  } else {
+    const escaped = (v.title_highlight || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    titleHtml = escaped
+      ? v.title.replace(new RegExp(escaped, 'i'), m => `<span class="highlight">${m}</span>`)
+      : v.title;
   }
 
   const tagsHtml = (v.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
