@@ -91,6 +91,22 @@ def enrich_video(client, video: dict) -> dict:
 
 影片說明：{video['description'][:1000]}
 
+## is_use_case 判斷規則（最優先）
+
+is_use_case = true 的條件：
+- 實際示範如何用 OpenClaw/Clawdbot 完成某個具體任務
+- Step-by-step 安裝或設定教學
+- 展示特定自動化工作流程
+- 真實使用場景 demo
+
+is_use_case = false 的條件（符合任一項即 false）：
+- 比較影片：標題含 "vs", "versus", "destroys", "alternatives", "alternative"
+- 訪談/Podcast 節目（如 Lex Fridman 等）
+- 爭議/戲劇性內容（scam、ban、malware 等）
+- 建立「像 OpenClaw 的替代品」（OpenClaw 不是主角）
+- 通用 AI 討論，OpenClaw 只是簡短提及
+- 純評論/意見文章，不含實際操作
+
 ## 分類規則（非常重要）
 
 「OpenClaw Setup」只用於影片的**主要目的**是教人「安裝、設定、配置 OpenClaw/Clawdbot 工具本身」時。
@@ -110,6 +126,7 @@ def enrich_video(client, video: dict) -> dict:
 
 請回傳以下 JSON（不要加任何其他文字，不要用 markdown code block）：
 {{
+  "is_use_case": true,
   "category": "從以下選一個: {categories_str}",
   "title_highlight": "標題中最重要的 2-4 個關鍵動作字詞（中文或英文）",
   "summary": "100字以內的繁體中文摘要，說明這部影片教什麼",
@@ -196,6 +213,9 @@ if __name__ == "__main__":
             print(f"  [{i}/{len(new_videos)}] Enriching: {video['title'][:60]}...")
             try:
                 ai_data = enrich_video(ai_client, video)
+                if not ai_data.get("is_use_case", True):
+                    print(f"  ⏭️  Not use case: {video['title'][:60]}")
+                    continue
                 full_video = {
                     "id": video["id"],
                     "title": video["title"],

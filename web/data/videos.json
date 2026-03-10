@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T05:46:09.701706",
-  "total": 544,
+  "last_updated": "2026-03-10T10:21:56.224009",
+  "total": 395,
   "videos": [
     {
       "id": "FA_pt6yM0o8",
@@ -25,28 +25,6 @@
       "view_count": 20
     },
     {
-      "id": "eskNOq7x_go",
-      "title": "Accomplish DESTROYS OpenClaw?",
-      "title_highlight": "Accomplish Review, Automate tasks",
-      "url": "https://www.youtube.com/watch?v=eskNOq7x_go",
-      "thumbnail": "https://i.ytimg.com/vi/eskNOq7x_go/hqdefault.jpg",
-      "published_at": "2026-03-02",
-      "duration": "15:20",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片評測並對比了 Accomplish 與 OpenClaw 兩款 AI 桌面代理工具。內容介紹了 Accomplish 的優勢、一鍵安裝步驟，以及如何利用 Ollama 在本地執行 AI，旨在教導使用者如何透過自動化電腦任務來提升工作效率。",
-      "tags": [
-        "Accomplish AI",
-        "OpenClaw",
-        "桌面代理",
-        "工作流程自動化",
-        "Ollama"
-      ],
-      "prompts": [],
-      "title_zh": "Accomplish 完勝 OpenClaw？",
-      "view_count": 19035
-    },
-    {
       "id": "APBV7dl_ce8",
       "title": "New FREE OpenClaw Update: Agents + App!",
       "title_highlight": "Update Agents + App, Claude 4.6, Visual Diffs",
@@ -67,48 +45,6 @@
       "prompts": [],
       "title_zh": "全新免費 OpenClaw 更新：AI 代理 + App！",
       "view_count": 2450
-    },
-    {
-      "id": "IpcYLLlJI4U",
-      "title": "n8n, OpenClaw &amp; Make are DEAD (my NEW AI Agent buried them)",
-      "title_highlight": "Build AI Agent, Replace n8n",
-      "url": "https://www.youtube.com/watch?v=IpcYLLlJI4U",
-      "thumbnail": "https://i.ytimg.com/vi/IpcYLLlJI4U/hqdefault.jpg",
-      "published_at": "2026-03-02",
-      "duration": "23:29",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何開發新型 AI Agent 以取代 n8n、Make 與 OpenClaw 等傳統自動化工具。作者展示了其開發的 ThePopeBot，說明如何透過更強大的 AI 代理架構來優化工作流程並提升開發 AI 產品的效率。",
-      "tags": [
-        "AI Agent",
-        "n8n",
-        "Make.com",
-        "自動化",
-        "ThePopeBot"
-      ],
-      "prompts": [],
-      "title_zh": "n8n、OpenClaw 和 Make 完蛋了（我的新 AI 代理把它們埋葬了）",
-      "view_count": 18146
-    },
-    {
-      "id": "WG_5HSq-Tt4",
-      "title": "Build &amp; Deploy a Full Stack Autonomous AI Agent SaaS (Like OpenClaw) - Next.js, React, Claude",
-      "title_highlight": "Build, Deploy, Autonomous AI Agent",
-      "url": "https://www.youtube.com/watch?v=WG_5HSq-Tt4",
-      "thumbnail": "https://i.ytimg.com/vi/WG_5HSq-Tt4/hqdefault.jpg",
-      "published_at": "2026-03-02",
-      "duration": "2:36:40",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教學如何使用 Next.js、React 與 Claude 打造並部署一個全棧自動化 AI Agent SaaS。內容涵蓋從零開始的開發流程、Clerk 驗證串接，以及實現類似 OpenClaw 的自主運作功能。",
-      "tags": [
-        "Next.js",
-        "AI Agent",
-        "SaaS"
-      ],
-      "prompts": [],
-      "title_zh": "構建並部署全端自主 AI 代理 SaaS（類 OpenClaw）- Next.js, React, Claude",
-      "view_count": 13412
     },
     {
       "id": "JRo6Ww0H0B0",
@@ -249,28 +185,6 @@
       "view_count": 184
     },
     {
-      "id": "seylWljtV48",
-      "title": "NEW Microsoft AI Agent DESTROYS OpenClaw?",
-      "title_highlight": "Microsoft AI Agent, Copilot Tasks, Automation",
-      "url": "https://www.youtube.com/watch?v=seylWljtV48",
-      "thumbnail": "https://i.ytimg.com/vi/seylWljtV48/hqdefault.jpg",
-      "published_at": "2026-03-02",
-      "duration": "8:21",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片介紹微軟新推出的 Copilot Tasks AI 代理程式，強調其超越單純聊天功能，能直接在 Microsoft 365 中執行排程、文件建立等實際任務。透過雲端執行架構，這款工具為辦公流程自動化帶來了革命性變革。",
-      "tags": [
-        "Microsoft Copilot",
-        "AI Agent",
-        "工作自動化",
-        "Copilot Tasks",
-        "Microsoft 365"
-      ],
-      "prompts": [],
-      "title_zh": "微軟全新 AI 代理完勝 OpenClaw？",
-      "view_count": 6047
-    },
-    {
       "id": "0ukS2hTFDow",
       "title": "OpenClaw New Free Update!",
       "title_highlight": "OpenClaw Update, Secrets Management, Threadbound Agents",
@@ -291,28 +205,6 @@
       "prompts": [],
       "title_zh": "OpenClaw 全新免費更新！",
       "view_count": 5743
-    },
-    {
-      "id": "R51RY6Q7bNk",
-      "title": "Automate the &#39;Life Admin&#39; tasks you usually ignore",
-      "title_highlight": "Automate, Life Admin",
-      "url": "https://www.youtube.com/watch?v=R51RY6Q7bNk",
-      "thumbnail": "https://i.ytimg.com/vi/R51RY6Q7bNk/hqdefault.jpg",
-      "published_at": "2026-03-01",
-      "duration": "0:39",
-      "category": "生活管理",
-      "category_icon": "🏠",
-      "summary": "這部影片教導如何利用自動化工具處理那些常被忽略的日常行政雜事（Life Admin），例如管理帳單、回覆郵件與排程。透過簡化這些瑣碎任務，能有效減輕心理負擔並提升整體生活效率。",
-      "tags": [
-        "自動化",
-        "生活管理",
-        "生產力提升",
-        "任務管理",
-        "Life Admin"
-      ],
-      "prompts": [],
-      "title_zh": "自動化處理你平時忽略的「生活雜事」",
-      "view_count": 1484
     },
     {
       "id": "-MtzLiQ9w1c",
@@ -376,26 +268,6 @@
       "prompts": [],
       "title_zh": "這些 OpenClaw 使用案例太瘋狂了！",
       "view_count": 1028
-    },
-    {
-      "id": "qCQszXeNFxA",
-      "title": "Agent Zero vs OpenClaw: The Real Difference",
-      "title_highlight": "Agent Zero, OpenClaw, Difference",
-      "url": "https://www.youtube.com/watch?v=qCQszXeNFxA",
-      "thumbnail": "https://i.ytimg.com/vi/qCQszXeNFxA/hqdefault.jpg",
-      "published_at": "2026-03-01",
-      "duration": "29:46",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入比較 Agent Zero 與 OpenClaw 兩款 AI 代理框架，分析其架構差異、效能表現及適用場景，幫助開發者選擇最合適的工具以節省開發成本並提升效率。",
-      "tags": [
-        "AI Agent",
-        "Agent Zero",
-        "OpenClaw"
-      ],
-      "prompts": [],
-      "title_zh": "Agent Zero vs OpenClaw：真正的區別",
-      "view_count": 18141
     },
     {
       "id": "P8cOfwX3sRg",
@@ -486,48 +358,6 @@
       "prompts": [],
       "title_zh": "如何用 OpenClaw 賺錢（一步步教學）",
       "view_count": 4094
-    },
-    {
-      "id": "LpMn08jW02A",
-      "title": "AI Personal Assistants are ruining people lives | TheStandup",
-      "title_highlight": "AI Personal Assistants, ruining lives",
-      "url": "https://www.youtube.com/watch?v=LpMn08jW02A",
-      "thumbnail": "https://i.ytimg.com/vi/LpMn08jW02A/hqdefault.jpg",
-      "published_at": "2026-02-28",
-      "duration": "35:25",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片探討矽谷 AI 安全與 OpenClaw 帶來的混亂，分析 AI 個人助理對生活與隱私的潛在威脅，並評論 AI 安全負責人的疏失及業界技術發展的怪象。",
-      "tags": [
-        "AI 安全",
-        "OpenClaw",
-        "矽谷趨勢"
-      ],
-      "prompts": [],
-      "title_zh": "AI 個人助手正在毀掉人們的生活 | TheStandup",
-      "view_count": 136983
-    },
-    {
-      "id": "qLI_5e8IsSY",
-      "title": "OpenClaw vs Google - Mass Ban Wave!",
-      "title_highlight": "OpenClaw, Mass Ban, Arbitrage Exploit",
-      "url": "https://www.youtube.com/watch?v=qLI_5e8IsSY",
-      "thumbnail": "https://i.ytimg.com/vi/qLI_5e8IsSY/hqdefault.jpg",
-      "published_at": "2026-02-28",
-      "duration": "24:30",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片分析了開源專案 OpenClaw 如何利用 Google API 定價漏洞進行套利，導致 Google 對大量高付費用戶執行大規模封號。影片也探討了各大 AI 廠商對於此類 AI Agent 工具的不同應對策略。",
-      "tags": [
-        "OpenClaw",
-        "Google Gemini",
-        "API 套利",
-        "AI Agent",
-        "封號潮"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw vs Google - 大規模封號潮！",
-      "view_count": 34237
     },
     {
       "id": "aahMd7s_EDM",
@@ -639,28 +469,6 @@
       "view_count": 97544
     },
     {
-      "id": "0RvF4k0bt9w",
-      "title": "MaxClaw DESTROYS OpenClaw?",
-      "title_highlight": "MaxClaw vs OpenClaw, 24/7 AI Agent, Automate Tasks",
-      "url": "https://www.youtube.com/watch?v=0RvF4k0bt9w",
-      "thumbnail": "https://i.ytimg.com/vi/0RvF4k0bt9w/hqdefault.jpg",
-      "published_at": "2026-02-27",
-      "duration": "12:53",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片介紹 MaxClaw 雲端工具，讓使用者無需程式背景即可快速部署 OpenClaw 驅動的 AI 代理人。重點展示如何透過 Telegram 自動化企業任務、生成媒體內容，並建立 24/7 持續運作的 AI 數位勞動力以提升經營效率。",
-      "tags": [
-        "MaxClaw",
-        "OpenClaw",
-        "AI Agent",
-        "自動化工作流",
-        "Telegram 機器人"
-      ],
-      "prompts": [],
-      "title_zh": "MaxClaw 完勝 OpenClaw？",
-      "view_count": 30892
-    },
-    {
       "id": "5EuTQtlbodk",
       "title": "OpenClaw Manila - February 2026",
       "title_highlight": "OpenClaw Manila, AI 助手實踐, Live Demos",
@@ -726,26 +534,6 @@
       "view_count": 20118
     },
     {
-      "id": "L3saJMjMZAg",
-      "title": "OpenClaw: The &quot;God-Mode&quot; AI That Became A Malware Empire",
-      "title_highlight": "God-Mode AI, Root Access, Malware Empire",
-      "url": "https://www.youtube.com/watch?v=L3saJMjMZAg",
-      "thumbnail": "https://i.ytimg.com/vi/L3saJMjMZAg/hqdefault.jpg",
-      "published_at": "2026-02-27",
-      "duration": "17:00",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入探討開源 AI 代理 OpenClaw 的崛起與風險，分析當 AI 系統獲得最高權限（Root Access）後，如何從多功能助手演變成潛在的惡意軟體威脅，並警示自託管 AI 的安全隱憂。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "資訊安全"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw：從「上帝模式」AI 變成惡意軟體帝國",
-      "view_count": 11238
-    },
-    {
       "id": "miJLo234L9s",
       "title": "336 Ways to Use OpenClaw (here&#39;s what actually works)",
       "title_highlight": "336 Use Cases, OpenClaw, What Works",
@@ -766,77 +554,6 @@
       "prompts": [],
       "title_zh": "336 種 OpenClaw 用法（這裡有真正有效的方法）",
       "view_count": 41815
-    },
-    {
-      "id": "ooVwTXYoIHM",
-      "title": "This NEW AI Agent Just K*lled Claude CoWork (insane use cases)",
-      "title_highlight": "NEW AI Agent, Claude CoWork, Use cases",
-      "url": "https://www.youtube.com/watch?v=ooVwTXYoIHM",
-      "thumbnail": "https://i.ytimg.com/vi/ooVwTXYoIHM/hqdefault.jpg",
-      "published_at": "2026-02-27",
-      "duration": "10:31",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了新型 AI 代理工具 MiniMax Agent (Claw)，展示其如何作為 Claude CoWork 的強大替代方案。影片重點分享多個桌面端的實際應用場景，教導使用者如何利用此工具提升工作流程與生產力。",
-      "tags": [
-        "MiniMax Agent",
-        "Claw",
-        "AI Agent",
-        "生產力工具",
-        "Claude"
-      ],
-      "prompts": [],
-      "title_zh": "這個新 AI 代理剛幹掉了 Claude CoWork（超狂案例）",
-      "view_count": 44609
-    },
-    {
-      "id": "ocQ7ZKhHU5Q",
-      "title": "Claude Code on your Phone is OFFICIAL (it changes  everything)",
-      "title_highlight": "Claude Code, Phone, Official",
-      "url": "https://www.youtube.com/watch?v=ocQ7ZKhHU5Q",
-      "thumbnail": "https://i.ytimg.com/vi/ocQ7ZKhHU5Q/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "7:31",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何將 Anthropic 官方推出的 Claude Code 命令行工具安裝並運行於手機上。透過此設定，開發者可以在行動裝置上直接使用 AI 助手進行自動化編碼、除錯與專案管理，打破開發環境的空間限制。",
-      "tags": [
-        "Claude Code",
-        "Anthropic",
-        "行動開發",
-        "AI 助手",
-        "CLI"
-      ],
-      "prompts": [
-        "npm install -g @anthropic-ai/claude-code",
-        "claude"
-      ],
-      "title_zh": "手機版 Claude Code 正式發佈（它改變了一切）",
-      "view_count": 208903
-    },
-    {
-      "id": "AXZ3OxQbhiw",
-      "title": "Claude Code Just Destroyed OpenClaw (Remote Control + Full Agent Setup)",
-      "title_highlight": "Claude Code, Remote Control, Agent Setup",
-      "url": "https://www.youtube.com/watch?v=AXZ3OxQbhiw",
-      "thumbnail": "https://i.ytimg.com/vi/AXZ3OxQbhiw/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "22:23",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片比較了 Claude Code 與 OpenClaw，詳細介紹如何設定完整的 AI 代理（Agent）系統以實現遠端控制。內容涵蓋兩款工具的效能對比、安裝流程，以及如何利用這些工具自動化執行複雜的程式開發任務。",
-      "tags": [
-        "Claude Code",
-        "OpenClaw",
-        "AI Agent",
-        "程式開發",
-        "自動化"
-      ],
-      "prompts": [
-        "npx @anthropic-ai/claude-code"
-      ],
-      "title_zh": "Claude Code 剛剛擊敗了 OpenClaw（遠端控制 + 完整代理設定）",
-      "view_count": 3670
     },
     {
       "id": "wstKGTm9EYg",
@@ -971,26 +688,6 @@
       "view_count": 17763
     },
     {
-      "id": "D_YzcH0VsGY",
-      "title": "The most powerful AI Agent I’ve ever used in my life",
-      "title_highlight": "Powerful AI Agent",
-      "url": "https://www.youtube.com/watch?v=D_YzcH0VsGY",
-      "thumbnail": "https://i.ytimg.com/vi/D_YzcH0VsGY/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "11:55",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了作者認為目前最強大的 AI 代理工具，重點在於協助企業主建立「AI 公司作業系統」。影片教導如何運用 AI Agent 自動化繁瑣任務，從而提升企業生產力並達成高效能的業務運作。",
-      "tags": [
-        "AI Agent",
-        "人工智慧",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "我這輩子用過最強大的 AI 代理",
-      "view_count": 504820
-    },
-    {
       "id": "s0eMOuzJuTY",
       "title": "How I use OpenClaw for AI SEO (real use case)",
       "title_highlight": "AI SEO, OpenClaw",
@@ -1012,50 +709,6 @@
       "view_count": 220
     },
     {
-      "id": "D_YzcH0VsGY",
-      "title": "The most powerful AI Agent I’ve ever used in my life",
-      "title_highlight": "AI Agent, 自動化工作流",
-      "url": "https://www.youtube.com/watch?v=D_YzcH0VsGY",
-      "thumbnail": "https://i.ytimg.com/vi/D_YzcH0VsGY/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "11:55",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片深入探討代理型 AI (Agentic AI) 的崛起，解釋其與 ChatGPT 的本質差異。內容教導如何選擇合適工具，並逐步建立第一個全自動化工作流程，協助企業主透過 AI 自動執行任務以提升效率並節省時間。",
-      "tags": [
-        "AI Agent",
-        "自動化工作流",
-        "生產力",
-        "OpenClaw",
-        "Manus"
-      ],
-      "prompts": [],
-      "title_zh": "我這輩子用過最強大的 AI 代理",
-      "view_count": 504820
-    },
-    {
-      "id": "0DBNwF_gP4Q",
-      "title": "Perplexity Computer DESTROYS OpenClaw?",
-      "title_highlight": "Perplexity Computer, OpenClaw, AI Agent 比較",
-      "url": "https://www.youtube.com/watch?v=0DBNwF_gP4Q",
-      "thumbnail": "https://i.ytimg.com/vi/0DBNwF_gP4Q/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "10:13",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片比較 Perplexity 新推出的 Computer 雲端 AI 代理與 OpenClaw，分析兩者在處理複雜研究任務與報告自動化時的表現，並深入探討介面、定價與設定需求，協助使用者選擇最適合的生產力自動化工具。",
-      "tags": [
-        "Perplexity Computer",
-        "OpenClaw",
-        "AI Agent",
-        "工作流自動化",
-        "AI 搜尋"
-      ],
-      "prompts": [],
-      "title_zh": "Perplexity Computer 完勝 OpenClaw？",
-      "view_count": 23596
-    },
-    {
       "id": "s0eMOuzJuTY",
       "title": "How I use OpenClaw for AI SEO (real use case)",
       "title_highlight": "AI SEO, OpenClaw, Use Case",
@@ -1075,28 +728,6 @@
       "prompts": [],
       "title_zh": "我如何將 OpenClaw 用於 AI SEO（真實案例）",
       "view_count": 220
-    },
-    {
-      "id": "C4fTWiOGXpM",
-      "title": "I replaced OpenClaw with AntiGravity... its WILD",
-      "title_highlight": "Replace OpenClaw, AntiGravity, AI Employee",
-      "url": "https://www.youtube.com/watch?v=C4fTWiOGXpM",
-      "thumbnail": "https://i.ytimg.com/vi/C4fTWiOGXpM/hqdefault.jpg",
-      "published_at": "2026-02-26",
-      "duration": "33:06",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹如何將 OpenClaw 與 Google 的 AntiGravity 結合，打造一個具備長效記憶與主動提醒功能的 24/7 AI 員工。內容展示了 7 個實際應用場景，包括任務管理、自動文件生成與工作流自動化，並詳細解析了建置成本與技術架構。",
-      "tags": [
-        "AntiGravity",
-        "AI 員工",
-        "n8n",
-        "自動化工作流",
-        "OpenClaw"
-      ],
-      "prompts": [],
-      "title_zh": "我用 AntiGravity 取代了 OpenClaw... 簡直太猛了",
-      "view_count": 45794
     },
     {
       "id": "9B3efFw6_HQ",
@@ -1186,27 +817,6 @@
       "view_count": 9680
     },
     {
-      "id": "eIKZ67ggW3s",
-      "title": "Agentic AI Era in Healthcare: Lessons from OpenClaw",
-      "title_highlight": "Ending Chatbot Era, Transforming Healthcare",
-      "url": "https://www.youtube.com/watch?v=eIKZ67ggW3s",
-      "thumbnail": "https://i.ytimg.com/vi/eIKZ67ggW3s/hqdefault.jpg",
-      "published_at": "2026-02-25",
-      "duration": "11:10",
-      "category": "健康",
-      "category_icon": "💪",
-      "summary": "影片探討 Agentic AI 如何終結傳統聊天機器人時代，並透過 OpenClaw 的案例，分析 OpenAI 最新技術對未來醫療臨床實務的重大影響與轉型趨勢。",
-      "tags": [
-        "Agentic AI",
-        "Healthcare",
-        "OpenClaw",
-        "OpenAI"
-      ],
-      "prompts": [],
-      "title_zh": "醫療保健的代理式 AI 時代：來自 OpenClaw 的啟示",
-      "view_count": 110
-    },
-    {
       "id": "dL03HfpM3X8",
       "title": "Diese Clawd Bot Automationen braucht jede E-Commerce Brand! (OpenClaw)",
       "title_highlight": "Clawd Bot, Automationen, E-Commerce",
@@ -1249,72 +859,6 @@
       "prompts": [],
       "title_zh": "如何為 OpenClaw 代理建立工作任務",
       "view_count": 45645
-    },
-    {
-      "id": "9f38h_GooA8",
-      "title": "OpenClaw vs Claude Code | Setup, Speed, Security &amp; Real Results",
-      "title_highlight": "Compare, Real Results, AI Agents",
-      "url": "https://www.youtube.com/watch?v=9f38h_GooA8",
-      "thumbnail": "https://i.ytimg.com/vi/9f38h_GooA8/hqdefault.jpg",
-      "published_at": "2026-02-25",
-      "duration": "17:43",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片深入比較 OpenClaw 與 Claude Code 兩款 AI 代理工具，針對成本、安全性、設定難易度及生產力進行評測，分享在實際商業環境中的應用效果與最終推薦。",
-      "tags": [
-        "OpenClaw",
-        "Claude Code",
-        "AI Agents",
-        "生產力工具",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果",
-      "view_count": 70377
-    },
-    {
-      "id": "9f38h_GooA8",
-      "title": "OpenClaw vs Claude Code | Setup, Speed, Security &amp; Real Results",
-      "title_highlight": "Setup, Speed, Security, Comparison",
-      "url": "https://www.youtube.com/watch?v=9f38h_GooA8",
-      "thumbnail": "https://i.ytimg.com/vi/9f38h_GooA8/hqdefault.jpg",
-      "published_at": "2026-02-25",
-      "duration": "17:43",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片比較了開源工具 OpenClaw 與 Anthropic 的 Claude Code。內容涵蓋兩者的安裝設定、執行速度、安全性以及在真實商業情境中的表現，幫助開發者評估並選擇最適合的 AI 程式開發輔助工具。",
-      "tags": [
-        "OpenClaw",
-        "Claude Code",
-        "AI 編程",
-        "Anthropic",
-        "軟體開發"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果",
-      "view_count": 70377
-    },
-    {
-      "id": "VmEa3fVvZDw",
-      "title": "They Got Caught...",
-      "title_highlight": "Caught, AI Automation, Use Cases",
-      "url": "https://www.youtube.com/watch?v=VmEa3fVvZDw",
-      "thumbnail": "https://i.ytimg.com/vi/VmEa3fVvZDw/hqdefault.jpg",
-      "published_at": "2026-02-25",
-      "duration": "13:29",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片主要探討 AI 自主代理工具 OpenClaw 的實際應用場景，說明如何利用自動化技術優化工作流程。內容強調了在 AI 時代提升生產力的重要性，並提供多種案例展示如何透過 AI 代理執行任務以避免在職場中被取代。",
-      "tags": [
-        "OpenClaw",
-        "AI 自動化",
-        "自主代理",
-        "生產力提升",
-        "Matthew Berman"
-      ],
-      "prompts": [],
-      "title_zh": "他們被抓包了...",
-      "view_count": 93581
     },
     {
       "id": "7uSiji1gwnA",
@@ -1471,28 +1015,6 @@
       "view_count": 31577
     },
     {
-      "id": "9Svv-n11Ysk",
-      "title": "I Replaced OpenClaw With Claude Code in One Day",
-      "title_highlight": "Replaced, Claude Code",
-      "url": "https://www.youtube.com/watch?v=9Svv-n11Ysk",
-      "thumbnail": "https://i.ytimg.com/vi/9Svv-n11Ysk/hqdefault.jpg",
-      "published_at": "2026-02-24",
-      "duration": "15:07",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何將原本使用的 OpenClaw 開源工具替換為 Anthropic 新推出的 Claude Code 命令行工具。作者分享了在一天內完成系統遷移的實戰經驗，並展示 Claude Code 在提升程式開發效率與自動化任務上的優勢。",
-      "tags": [
-        "Claude Code",
-        "OpenClaw",
-        "AI 程式助手",
-        "Anthropic",
-        "程式自動化"
-      ],
-      "prompts": [],
-      "title_zh": "我在一天內用 Claude Code 取代了 OpenClaw",
-      "view_count": 65652
-    },
-    {
       "id": "gU5KDeTb1JY",
       "title": "14 Agents IA Travaillent Pour Moi 24h/24 (OpenClaw Me Remplace) | Ecom 100% IA #2",
       "title_highlight": "14 Agents IA, OpenClaw, Ecom 自動化",
@@ -1556,26 +1078,6 @@
       "prompts": [],
       "title_zh": "OpenClaw 只用一個提示詞就建好了價值 25 萬美金的任務控制台",
       "view_count": 28045
-    },
-    {
-      "id": "9jgcT0Fqt7U",
-      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
-      "title_highlight": "Build, Create, Mindset",
-      "url": "https://www.youtube.com/watch?v=9jgcT0Fqt7U",
-      "thumbnail": "https://i.ytimg.com/vi/9jgcT0Fqt7U/hqdefault.jpg",
-      "published_at": "2026-02-24",
-      "duration": "31:29",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "本集訪問 OpenClaw 創作者 Peter Steinberger，分享將想法轉化為真實專案的心路歷程。影片強調開發者應具備「直接動手做」的實踐思維，透過實際建構專案來學習並克服技術挑戰。",
-      "tags": [
-        "OpenClaw",
-        "開發者思維",
-        "專案實作"
-      ],
-      "prompts": [],
-      "title_zh": "創作者對談：第一集 - OpenClaw 創始人 Peter Steinberger",
-      "view_count": 235614
     },
     {
       "id": "vxpuLIA17q4",
@@ -1668,28 +1170,6 @@
       "view_count": 72436
     },
     {
-      "id": "PwPca_Xn53k",
-      "title": "NEW NanoClaw DESTROYS OpenClaw?",
-      "title_highlight": "NanoClaw vs OpenClaw, 工作流自動化, 安全隔離",
-      "url": "https://www.youtube.com/watch?v=PwPca_Xn53k",
-      "thumbnail": "https://i.ytimg.com/vi/PwPca_Xn53k/hqdefault.jpg",
-      "published_at": "2026-02-24",
-      "duration": "8:24",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了 NanoClaw 這款比 OpenClaw 更輕量且安全的 AI 工具。內容重點在於如何利用容器隔離技術保護數據，並透過 AI 代理人群組、WhatsApp 整合及排程任務來自動化商業流程，幫助使用者提升效率並強化 AI 助理的控制權。",
-      "tags": [
-        "NanoClaw",
-        "OpenClaw",
-        "AI 自動化",
-        "工作流優化",
-        "Agent Swarms"
-      ],
-      "prompts": [],
-      "title_zh": "全新 NanoClaw 完勝 OpenClaw？",
-      "view_count": 8537
-    },
-    {
       "id": "TYvmwo9yYtg",
       "title": "OpenClaw&#39;s Best Use Cases",
       "title_highlight": "Best Use Cases, AI agents",
@@ -1731,27 +1211,6 @@
       "prompts": [],
       "title_zh": "關於 OpenClaw 技能你所需知道的一切 (從入門到精通)",
       "view_count": 15117
-    },
-    {
-      "id": "opMPct0lYDw",
-      "title": "How To Make OpenClaw Drive 10x More Revenue",
-      "title_highlight": "Make, Drive Revenue",
-      "url": "https://www.youtube.com/watch?v=opMPct0lYDw",
-      "thumbnail": "https://i.ytimg.com/vi/opMPct0lYDw/hqdefault.jpg",
-      "published_at": "2026-02-23",
-      "duration": "20:17",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "這部影片探討如何透過增長策略讓 OpenClaw 實現十倍營收增長。內容聚焦於結合 AI 代理人技術與行銷策略，說明如何優化商業模式並提升自動化工具的獲利能力。",
-      "tags": [
-        "OpenClaw",
-        "增長行銷",
-        "AI 代理人",
-        "營收優化"
-      ],
-      "prompts": [],
-      "title_zh": "如何讓 OpenClaw 帶動 10 倍營收",
-      "view_count": 1571
     },
     {
       "id": "NO-bOryZoTE",
@@ -2107,28 +1566,6 @@
       "view_count": 144584
     },
     {
-      "id": "8uP2IrP3IG8",
-      "title": "I Built a FREE OpenClaw (no Mac Mini or API Fees)",
-      "title_highlight": "FREE OpenClaw, Autonomous AI agent, Local models",
-      "url": "https://www.youtube.com/watch?v=8uP2IrP3IG8",
-      "thumbnail": "https://i.ytimg.com/vi/8uP2IrP3IG8/hqdefault.jpg",
-      "published_at": "2026-02-22",
-      "duration": "21:03",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "這部影片教你如何建立一個完全免費、在本地運行的自主 AI 代理人（ThePopeBot）。作者詳解了系統架構與一鍵安裝流程，說明如何透過 Docker 實現 24/7 無需 API 費用的自動化任務管理。",
-      "tags": [
-        "OpenClaw",
-        "ThePopeBot",
-        "AI 代理人",
-        "本地模型",
-        "自動化工作流"
-      ],
-      "prompts": [],
-      "title_zh": "我打造了一個免費的 OpenClaw (不需 Mac Mini 或 API 費用)",
-      "view_count": 113243
-    },
-    {
       "id": "1c_9tuQdkLY",
       "title": "OpenClaw Setup Tutorial With New Usecases (OpenClaw Usecases 2026)",
       "title_highlight": "Setup Tutorial, New Usecases",
@@ -2239,28 +1676,6 @@
       "view_count": 7424
     },
     {
-      "id": "1MgQohGsxh0",
-      "title": "How Clawdbot, Moltbot, and OpenClaw are different | Inside AI Social Network | Tech Edge AI",
-      "title_highlight": "OpenClaw Evolution, AI Assistant, Workflow Automation",
-      "url": "https://www.youtube.com/watch?v=1MgQohGsxh0",
-      "thumbnail": "https://i.ytimg.com/vi/1MgQohGsxh0/hqdefault.jpg",
-      "published_at": "2026-02-21",
-      "duration": "7:24",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入分析 OpenClaw（原名 Clawdbot）這款自主 AI 代理工具的演進與功能。它具備長期記憶並能透過 WhatsApp 和 Discord 自動化管理郵件、行事曆與工作流程，同時探討其相較於 ChatGPT 的優勢及潛在的安全風險。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "自動化工作流",
-        "生產力",
-        "開源 AI"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot、Moltbot 與 OpenClaw 有何不同 | AI 社群網路內部解析 | 前沿 AI 技術",
-      "view_count": 48
-    },
-    {
       "id": "lcyJCULc8jk",
       "title": "5 Essential Tools For OpenClaw",
       "title_highlight": "Essential Tools, AI Employee",
@@ -2328,26 +1743,6 @@
       "view_count": 15218
     },
     {
-      "id": "SXy8auwPh9c",
-      "title": "The 5 OpenClaw alternatives nobody&#39;s talking about",
-      "title_highlight": "OpenClaw alternatives, break down",
-      "url": "https://www.youtube.com/watch?v=SXy8auwPh9c",
-      "thumbnail": "https://i.ytimg.com/vi/SXy8auwPh9c/hqdefault.jpg",
-      "published_at": "2026-02-21",
-      "duration": "7:28",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片探討了在 OpenClaw 被 OpenAI 收購並引發熱潮後，五個較少被討論但極具潛力的替代方案。內容旨在分析各工具的特性，協助使用者找到除了主流 OpenClaw 以外，更符合個人需求的開發或自動化工具。",
-      "tags": [
-        "OpenClaw",
-        "OpenAI",
-        "替代方案"
-      ],
-      "prompts": [],
-      "title_zh": "5 個沒人討論的 OpenClaw 替代方案",
-      "view_count": 4057
-    },
-    {
       "id": "HNtHZkHGEFo",
       "title": "OpenClaw Use Cases Nobody&#39;s Talking About",
       "title_highlight": "OpenClaw, Use Cases",
@@ -2366,48 +1761,6 @@
       "prompts": [],
       "title_zh": "沒人討論過的 OpenClaw 應用場景",
       "view_count": 30688
-    },
-    {
-      "id": "8Tf1x-g5H7U",
-      "title": "The OpenClaw Scam Continues",
-      "title_highlight": "OpenClaw Scam, Continues",
-      "url": "https://www.youtube.com/watch?v=8Tf1x-g5H7U",
-      "thumbnail": "https://i.ytimg.com/vi/8Tf1x-g5H7U/hqdefault.jpg",
-      "published_at": "2026-02-20",
-      "duration": "2:08",
-      "category": "其他",
-      "category_icon": "📌",
-      "summary": "這部影片深入探討 OpenClaw 專案所引發的持續性爭議與詐騙疑慮。內容分析了該工具如何誤導使用者，並批評當前技術社群在追逐熱點時喪失了細節分析與理性判斷，警示大眾對於此類不明來源的 AI 專案應保持警覺。",
-      "tags": [
-        "OpenClaw",
-        "詐騙分析",
-        "AI爭議"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 騙局仍在持續",
-      "view_count": 6875
-    },
-    {
-      "id": "6oj70RcXBk0",
-      "title": "How to Use OpenClaw to Make Money",
-      "title_highlight": "Make Money, OpenClaw, Generate Income",
-      "url": "https://www.youtube.com/watch?v=6oj70RcXBk0",
-      "thumbnail": "https://i.ytimg.com/vi/6oj70RcXBk0/hqdefault.jpg",
-      "published_at": "2026-02-20",
-      "duration": "13:08",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "這部影片詳細解析如何利用 OpenClaw 平台賺取實質收入，涵蓋平台核心運作機制、獎勵規則及獲利策略。內容包含介面導覽、操作優化、風險管理，旨在幫助使用者透過策略性參與來最大化投資回報。",
-      "tags": [
-        "OpenClaw",
-        "賺錢策略",
-        "自動化收益",
-        "金融投資",
-        "Bitunix"
-      ],
-      "prompts": [],
-      "title_zh": "如何使用 OpenClaw 賺錢",
-      "view_count": 1708
     },
     {
       "id": "Ay-OGNI0FnU",
@@ -2603,26 +1956,6 @@
       "view_count": 3167
     },
     {
-      "id": "WHtyjjDnTfM",
-      "title": "AI Influencers are Lying to You.",
-      "title_highlight": "Exposing Lies, Build Agency",
-      "url": "https://www.youtube.com/watch?v=WHtyjjDnTfM",
-      "thumbnail": "https://i.ytimg.com/vi/WHtyjjDnTfM/hqdefault.jpg",
-      "published_at": "2026-02-20",
-      "duration": "14:29",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "影片揭露 AI 網紅常見的虛假資訊，提醒觀眾避開賺快錢的陷阱。作者分享如何透過實際的模板與社群支援，踏實地建立 AI 代理商（AI Agency）並成功獲得第一位客戶的真實策略。",
-      "tags": [
-        "AI Agency",
-        "誠實創業",
-        "獲客技巧"
-      ],
-      "prompts": [],
-      "title_zh": "AI 網紅們都在騙你。",
-      "view_count": 34708
-    },
-    {
       "id": "2IuPgBZsnaA",
       "title": "9 OpenClaw Use Cases Nobody Is Talking About",
       "title_highlight": "OpenClaw Use Cases, AI Agent",
@@ -2642,28 +1975,6 @@
       "prompts": [],
       "title_zh": "9 個沒人討論的 OpenClaw 應用場景",
       "view_count": 3167
-    },
-    {
-      "id": "FcvIIApkaZA",
-      "title": "I Analyzed 200 OpenClaw X Posts and Found Something Disturbing",
-      "title_highlight": "分析 OpenClaw, 揭露安全漏洞, X 趨勢分析",
-      "url": "https://www.youtube.com/watch?v=FcvIIApkaZA",
-      "thumbnail": "https://i.ytimg.com/vi/FcvIIApkaZA/hqdefault.jpg",
-      "published_at": "2026-02-20",
-      "duration": "9:20",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片分析了 200 則 OpenClaw 相關貼文，揭露其對加密貨幣錢包可能造成的安全風險。同時教學如何使用 InfraNodus 工具進行社交媒體趨勢分析，從知識圖譜中發掘隱藏主題與內容缺口。",
-      "tags": [
-        "OpenClaw",
-        "資訊安全",
-        "加密貨幣",
-        "InfraNodus",
-        "社交媒體分析"
-      ],
-      "prompts": [],
-      "title_zh": "我分析了 200 則 OpenClaw X 貼文，發現了令人不安的事實",
-      "view_count": 5542
     },
     {
       "id": "1k4iarzbeU8",
@@ -2710,26 +2021,6 @@
       "view_count": 108
     },
     {
-      "id": "ROPt15fBgM4",
-      "title": "I Built &amp; Open-Sourced a $1M AI Video Editor App, Here&#39;s how to set it up",
-      "title_highlight": "Built, Open-Sourced, Set up",
-      "url": "https://www.youtube.com/watch?v=ROPt15fBgM4",
-      "thumbnail": "https://i.ytimg.com/vi/ROPt15fBgM4/hqdefault.jpg",
-      "published_at": "2026-02-19",
-      "duration": "32:27",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何設定並使用作者開源的 AI 影片編輯器 HyperEdit。作者分享了其價值百萬美元等級的應用程式原始碼，並教導開發者如何透過 GitHub 儲存庫自行部署這套自動化影片剪輯工具。",
-      "tags": [
-        "AI 影片編輯器",
-        "開源專案",
-        "HyperEdit"
-      ],
-      "prompts": [],
-      "title_zh": "我開發並開源了一個價值百萬美元的 AI 影片編輯 App，安裝教學看這裡",
-      "view_count": 15407
-    },
-    {
       "id": "7UaQB325EqU",
       "title": "I Built a Marketing Team with Clawdbot (free template + files)",
       "title_highlight": "Built Marketing Team, Clawdbot",
@@ -2752,48 +2043,6 @@
       "view_count": 63447
     },
     {
-      "id": "GJxhBdEIdFs",
-      "title": "5 Ways to Make Money with OpenClaw (2026) Clawdbot",
-      "title_highlight": "Make Money, OpenClaw, 5 Ways",
-      "url": "https://www.youtube.com/watch?v=GJxhBdEIdFs",
-      "thumbnail": "https://i.ytimg.com/vi/GJxhBdEIdFs/hqdefault.jpg",
-      "published_at": "2026-02-19",
-      "duration": "19:27",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "這部影片深入探討五種利用 OpenClaw 變現的高階策略：直播工作坊、品牌贊助、企業顧問、代建 AI 代理人系統及微型 SaaS 應用。旨在幫助使用者在競爭尚低時，將 OpenClaw 轉化為多元且穩定的收入來源。",
-      "tags": [
-        "OpenClaw",
-        "變現",
-        "AI 代理人",
-        "賺錢",
-        "自動化收入"
-      ],
-      "prompts": [],
-      "title_zh": "5 個用 OpenClaw 賺錢的方法 (2026) Clawdbot",
-      "view_count": 1501
-    },
-    {
-      "id": "Ps3tONvchKA",
-      "title": "Openclaw lästert direkt über meine Smarthomelösung #smarthome #ki #openclaw #eigenheim #neubau",
-      "title_highlight": "分析, 評論, 互動",
-      "url": "https://www.youtube.com/watch?v=Ps3tONvchKA",
-      "thumbnail": "https://i.ytimg.com/vi/Ps3tONvchKA/hqdefault.jpg",
-      "published_at": "2026-02-19",
-      "duration": "1:22",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "影片展示 Openclaw AI 對作者智慧居家系統的即時點評。內容結合 AI 與居家自動化技術，呈現 AI 在分析居家配置時的趣味互動，適合對智慧家庭與 AI 整合感興趣的觀眾。",
-      "tags": [
-        "智慧居家",
-        "OpenClaw",
-        "AI 互動"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 直接吐槽我的智慧家庭解決方案 #智慧家庭 #AI #OpenClaw #自建房",
-      "view_count": 1190
-    },
-    {
       "id": "A0qHoaY11d8",
       "title": "My openclaw content system",
       "title_highlight": "openclaw, content system",
@@ -2813,28 +2062,6 @@
       "prompts": [],
       "title_zh": "我的 OpenClaw 內容系統",
       "view_count": 1978
-    },
-    {
-      "id": "2HiHDIFStzg",
-      "title": "Anthropic just BANNED OpenClaw...",
-      "title_highlight": "BANNED, OpenClaw, Anthropic",
-      "url": "https://www.youtube.com/watch?v=2HiHDIFStzg",
-      "thumbnail": "https://i.ytimg.com/vi/2HiHDIFStzg/hqdefault.jpg",
-      "published_at": "2026-02-19",
-      "duration": "10:18",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片探討 Anthropic 封禁 OpenClaw 工具的事件。OpenClaw 是原本用於自動化操作 Claude 介面的工具，影片分析了封禁背後的原因、對 AI 自動化社群的衝擊，以及在 API 限制下如何調整工作流與應對策略。",
-      "tags": [
-        "Anthropic",
-        "OpenClaw",
-        "AI 自動化",
-        "Claude",
-        "技術新聞"
-      ],
-      "prompts": [],
-      "title_zh": "Anthropic 剛剛封殺了 OpenClaw...",
-      "view_count": 111625
     },
     {
       "id": "XRkJfxgdxzM",
@@ -2899,28 +2126,6 @@
       "prompts": [],
       "title_zh": "多數創辦人未曾發現的隱藏版 OpenClaw 商業用途",
       "view_count": 3117
-    },
-    {
-      "id": "wctPAKyr0xw",
-      "title": "NEW ZeroClaw DESTROYS OpenClaw?",
-      "title_highlight": "ZeroClaw, OpenClaw, Setup, Less Power",
-      "url": "https://www.youtube.com/watch?v=wctPAKyr0xw",
-      "thumbnail": "https://i.ytimg.com/vi/wctPAKyr0xw/hqdefault.jpg",
-      "published_at": "2026-02-19",
-      "duration": "10:47",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "這部影片介紹由哈佛開發的開源 AI 代理 ZeroClaw，主打僅需 5MB 記憶體並節省 99% 功耗。內容涵蓋 GitHub 安裝教學、本地與 VPS 運行比較，以及如何串接 Telegram 實現輕量化自動化。",
-      "tags": [
-        "ZeroClaw",
-        "OpenClaw",
-        "AI Agent",
-        "輕量化",
-        "Telegram"
-      ],
-      "prompts": [],
-      "title_zh": "全新的 ZeroClaw 擊敗了 OpenClaw？",
-      "view_count": 18791
     },
     {
       "id": "XRkJfxgdxzM",
@@ -3053,26 +2258,6 @@
       "view_count": 5084
     },
     {
-      "id": "llMJTRG3ZVU",
-      "title": "The hottest AI tool in Silicon Valley is OpenClaw - here&#39;s what it means for healthcare and medicine",
-      "title_highlight": "OpenClaw, Healthcare, Medicine",
-      "url": "https://www.youtube.com/watch?v=llMJTRG3ZVU",
-      "thumbnail": "https://i.ytimg.com/vi/llMJTRG3ZVU/hqdefault.jpg",
-      "published_at": "2026-02-18",
-      "duration": "1:33",
-      "category": "健康",
-      "category_icon": "💪",
-      "summary": "這部影片介紹了矽谷熱門的開源 AI 工具 OpenClaw，並深入探討這項技術對醫療保健與醫學領域的重大意義。內容分析了 AI 代理如何藉由模擬人類操作電腦，改變醫療數據處理與臨床工作流程。",
-      "tags": [
-        "OpenClaw",
-        "醫療 AI",
-        "智慧醫療"
-      ],
-      "prompts": [],
-      "title_zh": "矽谷最熱門的 AI 工具是 OpenClaw - 這對醫療保健與醫學意味著什麼",
-      "view_count": 520
-    },
-    {
       "id": "5hGy11LGGO4",
       "title": "I Let OpenClaw Build a Shopify Tool Overnight | Here&#39;s What Happened",
       "title_highlight": "Build Shopify Tool, Automate Monitoring",
@@ -3093,28 +2278,6 @@
       ],
       "title_zh": "我讓 OpenClaw 在一夜之間開發出一個 Shopify 工具 | 結果如下",
       "view_count": 1900
-    },
-    {
-      "id": "CreaIkyZAd4",
-      "title": "OpenClaw: Are AI Agents Useful? Wait for the Shocking Answer! (14:01)",
-      "title_highlight": "AI Agents, OpenClaw, Automation",
-      "url": "https://www.youtube.com/watch?v=CreaIkyZAd4",
-      "thumbnail": "https://i.ytimg.com/vi/CreaIkyZAd4/hqdefault.jpg",
-      "published_at": "2026-02-18",
-      "duration": "22:26",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入探討 OpenClaw AI 代理工具的運作原理。創作者指出它雖不適合作為個人助理，但在「通用 AI 自動化」與小企業流程優化中表現驚人，能顯著提升工作效率，並預示了 AI 對白領工作帶來的衝擊。",
-      "tags": [
-        "OpenClaw",
-        "AI Agents",
-        "工作流程自動化",
-        "生產力",
-        "LLM"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw：AI 代理真的有用嗎？答案令人震驚！ (14:01)",
-      "view_count": 85030
     },
     {
       "id": "wDL0zevEwDc",
@@ -3159,71 +2322,6 @@
       "prompts": [],
       "title_zh": "OpenClaw 完整課程：設定、技能、語音、記憶及更多內容",
       "view_count": 102102
-    },
-    {
-      "id": "i13XK-uUOLQ",
-      "title": "Making $$$ with OpenClaw",
-      "title_highlight": "Making $$$, OpenClaw",
-      "url": "https://www.youtube.com/watch?v=i13XK-uUOLQ",
-      "thumbnail": "https://i.ytimg.com/vi/i13XK-uUOLQ/hqdefault.jpg",
-      "published_at": "2026-02-18",
-      "duration": "52:04",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片專訪了 Orgo 創辦人 Nick Vasilescu，深入解析如何利用開源專案 OpenClaw 進行變現。內容探討了開發者如何運用此工具創造商業價值，並分享具體的獲利策略與應用案例。",
-      "tags": [
-        "OpenClaw",
-        "變現策略",
-        "開源軟體"
-      ],
-      "prompts": [],
-      "title_zh": "用 OpenClaw 賺大錢",
-      "view_count": 154968
-    },
-    {
-      "id": "OstTqQGKh-M",
-      "title": "The Chinese OpenClaw is Here...(PicoClaw)",
-      "title_highlight": "PicoClaw, 個人 AI 助理, $10 硬體",
-      "url": "https://www.youtube.com/watch?v=OstTqQGKh-M",
-      "thumbnail": "https://i.ytimg.com/vi/OstTqQGKh-M/hqdefault.jpg",
-      "published_at": "2026-02-18",
-      "duration": "12:56",
-      "category": "自我成長",
-      "category_icon": "🌱",
-      "summary": "影片介紹由 Sipeed 開發的開源 AI 代理 PicoClaw，這是一款能在 $10 美元 RISC-V 硬體上運行的個人 AI 助理。內容涵蓋其與 OpenClaw 的效能對比、硬體成本優勢及低耗能特性，適合想以極低成本部署個人 AI 自動化工具的用戶。",
-      "tags": [
-        "PicoClaw",
-        "OpenClaw",
-        "個人助理",
-        "RISC-V",
-        "AI Agent",
-        "開源硬體"
-      ],
-      "prompts": [],
-      "title_zh": "中國版的 OpenClaw 來了...(PicoClaw)",
-      "view_count": 25650
-    },
-    {
-      "id": "4xDc00EF_eY",
-      "title": "We Used OpenClaw for a Week. This is the Harsh Truth.",
-      "title_highlight": "OpenClaw Truth, Framework Analysis",
-      "url": "https://www.youtube.com/watch?v=4xDc00EF_eY",
-      "thumbnail": "https://i.ytimg.com/vi/4xDc00EF_eY/hqdefault.jpg",
-      "published_at": "2026-02-18",
-      "duration": "23:22",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入探討 OpenClaw 框架的實際應用與挑戰。透過分析不同使用者類型（如知識工作者與專業經營者），說明其在提升生產力方面的潛力，同時揭示潛在的安全風險、技術門檻以及正確的設定建議。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "生產力",
-        "工作流自動化",
-        "資訊安全"
-      ],
-      "prompts": [],
-      "title_zh": "我們試用了 OpenClaw 一週。這是残酷的真相。",
-      "view_count": 47839
     },
     {
       "id": "z0gkSW4ew9o",
@@ -3476,28 +2574,6 @@
       "view_count": 493826
     },
     {
-      "id": "VTZLk2n9Bj0",
-      "title": "OpenAI Just Bought OpenClaw — How to Make $10,000/Month Before It&#39;s Too Late",
-      "title_highlight": "OpenAI 收購 OpenClaw, 賣鏟子獲利策略, 月入一萬美金",
-      "url": "https://www.youtube.com/watch?v=VTZLk2n9Bj0",
-      "thumbnail": "https://i.ytimg.com/vi/VTZLk2n9Bj0/hqdefault.jpg",
-      "published_at": "2026-02-16",
-      "duration": "19:00",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "影片探討 Peter Steinberger 加入 OpenAI 的影響，解析 OpenClaw 與 AI 代理人的未來。作者分享如何運用「賣鏟子」策略，透過四種商業模式利用 AI 工具與自動化技術，建立每月一萬美金的穩定收入。",
-      "tags": [
-        "OpenAI",
-        "OpenClaw",
-        "AI Agents",
-        "網路賺錢",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "OpenAI 剛剛收購了 OpenClaw — 如何在為時已晚前每月賺取 10,000 美元",
-      "view_count": 28209
-    },
-    {
       "id": "ryhzpLe9O_U",
       "title": "7 OpenClaw Skills To 10x Your Business Output",
       "title_highlight": "OpenClaw Skills, Business Output",
@@ -3586,49 +2662,6 @@
       "view_count": 23675
     },
     {
-      "id": "Tzk7DC92cAk",
-      "title": "I made AI trading bots compete to make money… (insane results)",
-      "title_highlight": "AI trading bots, compete, make money",
-      "url": "https://www.youtube.com/watch?v=Tzk7DC92cAk",
-      "thumbnail": "https://i.ytimg.com/vi/Tzk7DC92cAk/hqdefault.jpg",
-      "published_at": "2026-02-15",
-      "duration": "14:09",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "這部影片展示了如何開發並測試多款 AI 交易機器人，透過競賽方式觀察它們在金融市場中的獲利表現。內容涵蓋自動化交易策略的設定與實際收益結果分析。",
-      "tags": [
-        "AI 交易",
-        "量化交易",
-        "自動化機器人",
-        "金融投資"
-      ],
-      "prompts": [],
-      "title_zh": "我讓 AI 交易機器人互相競爭來賺錢...（瘋狂的結果）",
-      "view_count": 131835
-    },
-    {
-      "id": "pLmEqL-UXLI",
-      "title": "Clawdbot (OpenClaw) DESTROYS $497/Month Automation Tools 😱 (Build 24/7 AI Assistants For $7)",
-      "title_highlight": "Build AI Assistants, Automate",
-      "url": "https://www.youtube.com/watch?v=pLmEqL-UXLI",
-      "thumbnail": "https://i.ytimg.com/vi/pLmEqL-UXLI/hqdefault.jpg",
-      "published_at": "2026-02-15",
-      "duration": "10:26",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片介紹如何利用 OpenClaw 在 VPS 上架設 24 小時運行的自主 AI 助手，以低成本取代昂貴的自動化工具。內容涵蓋如何自動化處理預約、交易監控與檔案管理，幫助用戶建立可自動執行任務的 AI 工作流。",
-      "tags": [
-        "OpenClaw",
-        "AI 助手",
-        "自動化",
-        "工作流",
-        "自主代理人"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot (OpenClaw) 完勝每月 497 美元的自動化工具 😱（用 7 美元打造 24/7 AI 助理）",
-      "view_count": 2703
-    },
-    {
       "id": "_kZCoW-Qxnc",
       "title": "100 hours of OpenClaw lessons in 35 minutes",
       "title_highlight": "OpenClaw 核心教學, 效率自動化",
@@ -3652,26 +2685,6 @@
       ],
       "title_zh": "35 分鐘濃縮 100 小時的 OpenClaw 課程",
       "view_count": 200402
-    },
-    {
-      "id": "F4w1sCvqtTU",
-      "title": "AgentZero just released the OpenClaw killer (it’s over)",
-      "title_highlight": "AgentZero, OpenClaw killer, released",
-      "url": "https://www.youtube.com/watch?v=F4w1sCvqtTU",
-      "thumbnail": "https://i.ytimg.com/vi/F4w1sCvqtTU/hqdefault.jpg",
-      "published_at": "2026-02-14",
-      "duration": "1:07:10",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹了名為 AgentZero 的新一代 AI 代理框架，分析其如何超越 OpenClaw。內容展示了該工具在自動化程式開發、任務執行方面的強大功能，並引導觀眾如何利用 AI 提升開發效率。",
-      "tags": [
-        "AgentZero",
-        "AI Agents",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "AgentZero 剛發佈了 OpenClaw 殺手（這下結束了）",
-      "view_count": 68291
     },
     {
       "id": "wAhRZavURMY",
@@ -3735,28 +2748,6 @@
       "prompts": [],
       "title_zh": "OpenClaw Discord 設置 | 完整教學：100% 免費設置 | 在 AWS 上將 Discord 機器人連接到 OpenClaw",
       "view_count": 2921
-    },
-    {
-      "id": "b773XfpS7fw",
-      "title": "OpenClaw vs Claude explained simply in 8 minutes",
-      "title_highlight": "OpenClaw vs Claude, explained",
-      "url": "https://www.youtube.com/watch?v=b773XfpS7fw",
-      "thumbnail": "https://i.ytimg.com/vi/b773XfpS7fw/hqdefault.jpg",
-      "published_at": "2026-02-14",
-      "duration": "7:56",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片詳細解析 OpenClaw 與 Claude Code 的差異。OpenClaw 定位為全天候個人工作助理，負責跨 App 自動化；Claude Code 則是專為軟體開發設計的 AI 代理。影片引導使用者根據「自動化流程」或「撰寫程式」的需求選擇正確工具。",
-      "tags": [
-        "OpenClaw",
-        "Claude Code",
-        "自動化助理",
-        "AI 工具比較",
-        "生產力"
-      ],
-      "prompts": [],
-      "title_zh": "8 分鐘簡單解釋 OpenClaw vs Claude",
-      "view_count": 23356
     },
     {
       "id": "i3ZlLmYn584",
@@ -3865,92 +2856,6 @@
       "view_count": 7606
     },
     {
-      "id": "11sxky4vTcs",
-      "title": "Please don&#39;t install Clawdbot",
-      "title_highlight": "Don't install, Lore, Security warning",
-      "url": "https://www.youtube.com/watch?v=11sxky4vTcs",
-      "thumbnail": "https://i.ytimg.com/vi/11sxky4vTcs/hqdefault.jpg",
-      "published_at": "2026-02-13",
-      "duration": "7:53",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片分析了 Clawdbot (又稱 OpenClaw 或 Moltbook) 的開發背景與名稱混淆爭議。作者探討了其不穩定的開發過程，並基於資安考量與工具品質，強烈建議觀眾不要在個人機器上安裝此工具。",
-      "tags": [
-        "Clawdbot",
-        "OpenClaw",
-        "資安警告",
-        "AI 工具",
-        "Moltbook"
-      ],
-      "prompts": [],
-      "title_zh": "請不要安裝 Clawdbot",
-      "view_count": 577673
-    },
-    {
-      "id": "9DxXDLhXnwU",
-      "title": "How OpenClaw, an AI agent, takes over your computer",
-      "title_highlight": "AI agent, takes over computer",
-      "url": "https://www.youtube.com/watch?v=9DxXDLhXnwU",
-      "thumbnail": "https://i.ytimg.com/vi/9DxXDLhXnwU/hqdefault.jpg",
-      "published_at": "2026-02-13",
-      "duration": "1:36",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片介紹熱門開源 AI 代理 OpenClaw 的興起與爭議。內容探討其自動化執行電腦任務的能力，支持者稱其為「有手的 AI」，能大幅節省日常工作時間，並將其視為邁向通用人工智慧（AGI）的重要進展。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "自動化",
-        "生產力",
-        "AGI"
-      ],
-      "prompts": [],
-      "title_zh": "AI 代理人 OpenClaw 如何接管你的電腦",
-      "view_count": 849564
-    },
-    {
-      "id": "XkzM6hBdvIA",
-      "title": "You Don’t Need OpenClaw Anymore (Use This)",
-      "title_highlight": "Don’t Need, Use This",
-      "url": "https://www.youtube.com/watch?v=XkzM6hBdvIA",
-      "thumbnail": "https://i.ytimg.com/vi/XkzM6hBdvIA/hqdefault.jpg",
-      "published_at": "2026-02-13",
-      "duration": "11:49",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片介紹如何取代複雜的 OpenClaw 設定，分享一個僅需兩分鐘即可達成 80% 效果的替代方案，旨在簡化開發流程並大幅提升工作效率。",
-      "tags": [
-        "OpenClaw",
-        "效率工具",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "你不再需要 OpenClaw 了（用這個）",
-      "view_count": 19214
-    },
-    {
-      "id": "JhJPeF8DGL0",
-      "title": "Why OpenClaw Broke The Internet",
-      "title_highlight": "OpenClaw, Apart From Agents",
-      "url": "https://www.youtube.com/watch?v=JhJPeF8DGL0",
-      "thumbnail": "https://i.ytimg.com/vi/JhJPeF8DGL0/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "1:05",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入解析 OpenClaw (Clawdbot) 這款開源 AI 代理工具的獨特性。影片探討其如何透過強大的瀏覽器自動化與任務執行能力，在競爭激烈的 AI Agent 市場中脫穎而出，並分析其引發熱烈討論的核心技術優勢。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "自動化",
-        "Clawdbot",
-        "開源工具"
-      ],
-      "prompts": [],
-      "title_zh": "為什麼 OpenClaw 爆紅網路",
-      "view_count": 79051
-    },
-    {
       "id": "kIWMLL0S8X8",
       "title": "OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!",
       "title_highlight": "Autonomous, Engineering Team, Automate Code",
@@ -4013,27 +2918,6 @@
       "prompts": [],
       "title_zh": "他是如何打造 OpenClaw (ClawdBot) 的",
       "view_count": 90116
-    },
-    {
-      "id": "QoQBzR1NIqI",
-      "title": "CLAUDE CODE FULL COURSE 4 HOURS: Build &amp; Sell (2026)",
-      "title_highlight": "Build, Sell, Claude Code",
-      "url": "https://www.youtube.com/watch?v=QoQBzR1NIqI",
-      "thumbnail": "https://i.ytimg.com/vi/QoQBzR1NIqI/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "4:10:43",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部四小時的深度課程專注於 Claude Code 的應用，教導開發者如何從零開始構建軟體產品並成功銷售。內容涵蓋 AI 輔助開發流程與商業化策略，旨在幫助學員利用最新的 AI 工具實現開發與創業目標。",
-      "tags": [
-        "Claude Code",
-        "AI 程式開發",
-        "軟體創業",
-        "SaaS"
-      ],
-      "prompts": [],
-      "title_zh": "CLAUDE CODE 4 小時完整課程：構建與銷售（2026）",
-      "view_count": 576989
     },
     {
       "id": "-WVpD_g65Mg",
@@ -4122,28 +3006,6 @@
       "view_count": 1597
     },
     {
-      "id": "ev4iiGXlnh0",
-      "title": "DO NOT use a VPS for OpenClaw (major warning)",
-      "title_highlight": "Stop VPS, Hosting Locally, OpenClaw Setup",
-      "url": "https://www.youtube.com/watch?v=ev4iiGXlnh0",
-      "thumbnail": "https://i.ytimg.com/vi/ev4iiGXlnh0/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "17:06",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "這部影片警告使用者不要使用 VPS 運行 OpenClaw，以免帳號遭封鎖。作者建議改用本地部署，並詳細示範了正確的安裝與設定流程，同時探討了使用此類自動化工具的倫理與安全性問題。",
-      "tags": [
-        "OpenClaw",
-        "本地部署",
-        "VPS 警告",
-        "ClawdBot",
-        "AI 工具設定"
-      ],
-      "prompts": [],
-      "title_zh": "不要為 OpenClaw 使用 VPS（重大警告）",
-      "view_count": 35379
-    },
-    {
       "id": "Kyvh5G_BUxo",
       "title": "What You Can Actually Do With OpenClaw (Practical Use Cases)",
       "title_highlight": "Practical Use Cases, OpenClaw",
@@ -4188,52 +3050,6 @@
       "view_count": 71553
     },
     {
-      "id": "Pq3205RoOsI",
-      "title": "This $50 AI Command Center Runs My Life",
-      "title_highlight": "AI Command Center, Runs My Life",
-      "url": "https://www.youtube.com/watch?v=Pq3205RoOsI",
-      "thumbnail": "https://i.ytimg.com/vi/Pq3205RoOsI/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "14:11",
-      "category": "生活管理",
-      "category_icon": "🏠",
-      "summary": "這部影片教導如何利用不到 50 美元的成本，結合 AI 技術（如 OpenAI API）與硬體打造個人指揮中心。透過程式自動化整合日曆、郵件與任務，將 AI 變成私人助理來優化日常工作流與生活效率。",
-      "tags": [
-        "AI",
-        "生活管理",
-        "自動化",
-        "Raspberry Pi",
-        "OpenAI"
-      ],
-      "prompts": [
-        "Act as a personal life assistant. Analyze my schedule and messages to provide a structured JSON summary for my dashboard."
-      ],
-      "title_zh": "這個 50 美元的 AI 指揮中心主宰了我的生活",
-      "view_count": 67804
-    },
-    {
-      "id": "YFjfBk8HI5o",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "title_highlight": "OpenClaw, AI Agent, Open-source",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "3:15:52",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片訪問 OpenClaw 創作者 Peter Steinberger，深入探討這款開源 AI 代理框架的開發背景。內容涵蓋 AI 如何模擬人類操作電腦、該專案在 GitHub 爆紅的原因，以及 AI 代理技術的未來發展與挑戰。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "開源專案",
-        "Peter Steinberger",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw：爆紅網路的 AI 代理人 - Peter Steinberger | Lex Fridman 訪談 #491",
-      "view_count": 983524
-    },
-    {
       "id": "5_JN4kfr-9o",
       "title": "OpenClaw + Obsidian: The Perfect Co-Working System",
       "title_highlight": "OpenClaw + Obsidian Co-Working System",
@@ -4254,26 +3070,6 @@
       "prompts": [],
       "title_zh": "OpenClaw + Obsidian：完美的協作系統",
       "view_count": 14386
-    },
-    {
-      "id": "q-sClVMYY4w",
-      "title": "OpenClaw: 160,000 Developers Are Building Something OpenAI &amp; Google Can&#39;t Stop. Where Do You Stand?",
-      "title_highlight": "Building AI Agents, OpenClaw",
-      "url": "https://www.youtube.com/watch?v=q-sClVMYY4w",
-      "thumbnail": "https://i.ytimg.com/vi/q-sClVMYY4w/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "25:13",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片探討 OpenClaw 社群如何集結 16 萬名開發者，致力於建立不受大企業壟斷的開源 AI 代理系統。內容分析了 AI 代理在現實場景中的運作真相、挑戰，以及開源力量在當前 AI 發展趨勢中的關鍵角色。",
-      "tags": [
-        "AI Agents",
-        "OpenClaw",
-        "開源開發"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw：16 萬名開發者正在打造 OpenAI 和 Google 無法阻擋的東西。你站在哪一邊？",
-      "view_count": 248218
     },
     {
       "id": "yelcL_eALnQ",
@@ -4364,27 +3160,6 @@
       "view_count": 99054
     },
     {
-      "id": "XmweZ4fLkcI",
-      "title": "I Built a Safer OpenClaw Alternative Using Claude Code",
-      "title_highlight": "Built, Safer Alternative, Claude Code",
-      "url": "https://www.youtube.com/watch?v=XmweZ4fLkcI",
-      "thumbnail": "https://i.ytimg.com/vi/XmweZ4fLkcI/hqdefault.jpg",
-      "published_at": "2026-02-12",
-      "duration": "15:14",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何使用 Claude Code 工具，開發出一個比知名開源專案 OpenClaw 更安全的替代版本。內容專注於利用 AI 指令列工具進行程式碼撰寫與系統架構優化，以提升自動化工具的安全性。",
-      "tags": [
-        "Claude Code",
-        "OpenClaw",
-        "AI 程式開發",
-        "開源替代方案"
-      ],
-      "prompts": [],
-      "title_zh": "我用 Claude Code 打造了一個更安全的 OpenClaw 替代方案",
-      "view_count": 66000
-    },
-    {
       "id": "41_TNGDDnfQ",
       "title": "6 OpenClaw use cases I promise will change your life",
       "title_highlight": "6 Use Cases, OpenClaw",
@@ -4429,50 +3204,6 @@
       "prompts": [],
       "title_zh": "OpenClaw：最佳使用案例",
       "view_count": 3374
-    },
-    {
-      "id": "Rzq4PG5Ja6M",
-      "title": "The AI Agent That Sold Out Every Mac Mini 🤖📉",
-      "title_highlight": "AI Agent, OpenClaw, Reality Check",
-      "url": "https://www.youtube.com/watch?v=Rzq4PG5Ja6M",
-      "thumbnail": "https://i.ytimg.com/vi/Rzq4PG5Ja6M/hqdefault.jpg",
-      "published_at": "2026-02-11",
-      "duration": "0:59",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入解析自主 AI 代理人 OpenClaw（原名 Claudebot）。它能存取檔案與郵件，具備自動訂位與編碼潛力，被視為進化版 Siri。影片同時探討了安全性風險（如 Prompt 注入）以及現階段功能僅達預期 20% 的現實情況。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "自動化",
-        "資訊安全",
-        "MKBHD"
-      ],
-      "prompts": [],
-      "title_zh": "那款讓 Mac Mini 全面賣斷貨的 AI 代理人 🤖📉",
-      "view_count": 85879
-    },
-    {
-      "id": "1Y_u0fY-AbA",
-      "title": "OpenClaw is a Security NIGHTMARE.",
-      "title_highlight": "Security NIGHTMARE, Moltbook incident, AI agents",
-      "url": "https://www.youtube.com/watch?v=1Y_u0fY-AbA",
-      "thumbnail": "https://i.ytimg.com/vi/1Y_u0fY-AbA/hqdefault.jpg",
-      "published_at": "2026-02-11",
-      "duration": "5:21",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片分析了 AI 代理工具 OpenClaw (Moltbot) 引發的 Moltbook 資安事件。探討 AI 代理在自主建立社群平台時，因缺乏安全控制而導致 150 萬組 API 金鑰外洩的風險，並深入解析 AI 自動化開發的資安隱憂。",
-      "tags": [
-        "OpenClaw",
-        "AI Agents",
-        "網路資安",
-        "Moltbook",
-        "API 外洩"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 是安全方面的噩夢。",
-      "view_count": 15628
     },
     {
       "id": "RhYkssi1rHU",
@@ -4542,50 +3273,6 @@
       ],
       "title_zh": "OpenClaw 太瘋狂了",
       "view_count": 190850
-    },
-    {
-      "id": "omOCfGdx1uk",
-      "title": "NEW PicoClaw DESTROYS OpenClaw?",
-      "title_highlight": "Pico Claw vs OpenClaw, 10MB AI Agent, Business Automation",
-      "url": "https://www.youtube.com/watch?v=omOCfGdx1uk",
-      "thumbnail": "https://i.ytimg.com/vi/omOCfGdx1uk/hqdefault.jpg",
-      "published_at": "2026-02-11",
-      "duration": "8:11",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片深入比較了新款 AI 代理程式 Pico Claw 與 OpenClaw。Pico Claw 以僅需 10MB 記憶體的極低能耗脫穎而出，影片探討了兩者的硬體資源差異，以及如何利用這些輕量化 AI 工具實現企業流程自動化，顯著提升營運效率。",
-      "tags": [
-        "Pico Claw",
-        "OpenClaw",
-        "AI Agent",
-        "自動化",
-        "輕量化AI"
-      ],
-      "prompts": [],
-      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？",
-      "view_count": 31097
-    },
-    {
-      "id": "omOCfGdx1uk",
-      "title": "NEW PicoClaw DESTROYS OpenClaw?",
-      "title_highlight": "PicoClaw, OpenClaw, Efficiency, Comparison",
-      "url": "https://www.youtube.com/watch?v=omOCfGdx1uk",
-      "thumbnail": "https://i.ytimg.com/vi/omOCfGdx1uk/hqdefault.jpg",
-      "published_at": "2026-02-11",
-      "duration": "8:11",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入比較了輕量級 AI Agent Pico Claw 與 OpenClaw。重點介紹 Pico Claw 僅需 10MB RAM 的高效能特性，分析兩者在硬體資源消耗上的差異，並探討如何運用這些自動化代理人工具來優化業務流程。 ",
-      "tags": [
-        "PicoClaw",
-        "OpenClaw",
-        "AI Agent",
-        "業務自動化",
-        "效能比較"
-      ],
-      "prompts": [],
-      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？",
-      "view_count": 31097
     },
     {
       "id": "4WLEcalKf8k",
@@ -4742,28 +3429,6 @@
       "view_count": 40017
     },
     {
-      "id": "nHiF_iGDZEM",
-      "title": "What is OpenClaw - Will It Replace SaaS? | Use Cases (For Education Sharing Purpose Only) #openclaw",
-      "title_highlight": "What is OpenClaw, Use Cases, Analysis",
-      "url": "https://www.youtube.com/watch?v=nHiF_iGDZEM",
-      "thumbnail": "https://i.ytimg.com/vi/nHiF_iGDZEM/hqdefault.jpg",
-      "published_at": "2026-02-10",
-      "duration": "7:20",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入解析 OpenClaw AI 系統，探討其如何透過系統驅動的方式進行數據處理、自動化決策與分析。內容涵蓋其架構原理、邏輯流程，以及在金融與工作流自動化中的實際應用場景，並評估其優勢與潛在限制。",
-      "tags": [
-        "OpenClaw",
-        "AI 自動化",
-        "數據分析",
-        "決策智慧",
-        "系統架構"
-      ],
-      "prompts": [],
-      "title_zh": "什麼是 OpenClaw - 它會取代 SaaS 嗎？ | 使用案例（僅供教學分享用途）#openclaw",
-      "view_count": 264
-    },
-    {
       "id": "hM5LHJByJZk",
       "title": "I Turned an Old Android into a 24/7 AI Employee (OpenClaw)",
       "title_highlight": "Old Android, 24/7 AI Employee, OpenClaw",
@@ -4894,28 +3559,6 @@
       "prompts": [],
       "title_zh": "前 5 名 OpenClaw AI 使用案例 | 從檔案管理到寫程式，搞定你所有的工作！😱",
       "view_count": 7251
-    },
-    {
-      "id": "LOwscgNHaXc",
-      "title": "Watch THIS Before Using OpenClaw (Clawdbot)",
-      "title_highlight": "OpenClaw, Clawdbot, Security Precautions",
-      "url": "https://www.youtube.com/watch?v=LOwscgNHaXc",
-      "thumbnail": "https://i.ytimg.com/vi/LOwscgNHaXc/hqdefault.jpg",
-      "published_at": "2026-02-09",
-      "duration": "10:39",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片分析 OpenClaw 的優缺點與資安風險，揭示網路炒作背後的真實問題。提供安全使用建議與負面案例警告，指導使用者如何在確保安全的前提下正確配置與使用這款自動化工具。",
-      "tags": [
-        "OpenClaw",
-        "Clawdbot",
-        "資訊安全",
-        "AI自動化",
-        "風險評估"
-      ],
-      "prompts": [],
-      "title_zh": "在使用 OpenClaw (Clawdbot) 之前，請先看這個",
-      "view_count": 24005
     },
     {
       "id": "a9BHAjRSWOo",
@@ -5111,46 +3754,6 @@
       "view_count": 8795
     },
     {
-      "id": "RXBjzT8gQ2g",
-      "title": "My Honest Thoughts on the OpenClaw Hype…",
-      "title_highlight": "OpenClaw Hype, AI Strategy, Business Pivot",
-      "url": "https://www.youtube.com/watch?v=RXBjzT8gQ2g",
-      "thumbnail": "https://i.ytimg.com/vi/RXBjzT8gQ2g/hqdefault.jpg",
-      "published_at": "2026-02-08",
-      "duration": "13:03",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片深入分析 OpenClaw 與 ClawHub 熱潮，探討 AI 技能如何轉化為服務。作者強調不應盲目追逐新工具，而應專注於解決企業實際問題，如自動化系統建構與流程審計，才是 AI 創業的長久之計。",
-      "tags": [
-        "OpenClaw",
-        "AI 創業",
-        "商業策略"
-      ],
-      "prompts": [],
-      "title_zh": "我對 OpenClaw 熱潮的真實想法...",
-      "view_count": 29837
-    },
-    {
-      "id": "Lfvzbp103p0",
-      "title": "We are nearing an iPhone moment for AI Agents",
-      "title_highlight": "iPhone moment, AI Agents",
-      "url": "https://www.youtube.com/watch?v=Lfvzbp103p0",
-      "thumbnail": "https://i.ytimg.com/vi/Lfvzbp103p0/hqdefault.jpg",
-      "published_at": "2026-02-08",
-      "duration": "5:03",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片探討 AI Agent 正迎來爆發性的「iPhone 時刻」。透過分析 Clawdbot 在 GitHub 迅速獲得十萬星標的現象，探討 AI 如何從對話轉向自主執行任務，並分析這股趨勢對未來軟體開發與自動化流程的重大影響。",
-      "tags": [
-        "AI Agents",
-        "GitHub",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "我們正接近 AI 代理人的「iPhone 時刻」",
-      "view_count": 299
-    },
-    {
       "id": "eWsnF9ii3kI",
       "title": "I trained OpenClaw to replace your ecommerce seo agency…",
       "title_highlight": "Trained OpenClaw, Replace SEO Agency",
@@ -5325,48 +3928,6 @@
       "prompts": [],
       "title_zh": "如何安裝與使用 OpenClaw 技能（完整初學者指南）| 逐步解析 OpenClaw 技能",
       "view_count": 22249
-    },
-    {
-      "id": "ceEUO_i7aW4",
-      "title": "not good for OPENCLAW",
-      "title_highlight": "not good, OPENCLAW",
-      "url": "https://www.youtube.com/watch?v=ceEUO_i7aW4",
-      "thumbnail": "https://i.ytimg.com/vi/ceEUO_i7aW4/hqdefault.jpg",
-      "published_at": "2026-02-07",
-      "duration": "18:15",
-      "category": "其他",
-      "category_icon": "📌",
-      "summary": "此影片由 Wes Roth 報導最新的 AI 新聞，包含 OpenAI、Google 及 NVIDIA 等公司的動態。重點關注 OpenClaw 專案所面臨的挑戰，並探討生成式 AI 與 AGI 發展對開源生態系的影響。",
-      "tags": [
-        "AI News",
-        "OpenClaw",
-        "OpenAI",
-        "LLM"
-      ],
-      "prompts": [],
-      "title_zh": "對 OpenClaw 來說不太妙",
-      "view_count": 121978
-    },
-    {
-      "id": "L__qkva118c",
-      "title": "We built OpenClaw Ultron to replace 20 people at our company  | E2246",
-      "title_highlight": "Built OpenClaw, Replace people",
-      "url": "https://www.youtube.com/watch?v=L__qkva118c",
-      "thumbnail": "https://i.ytimg.com/vi/L__qkva118c/hqdefault.jpg",
-      "published_at": "2026-02-07",
-      "duration": "1:09:09",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了 OpenClaw Ultron 的開發背景，探討如何透過 AI 自動化技術取代多達 20 人的工作量。內容聚焦於利用科技提升企業營運效率，並討論自動化對新創公司成本結構與人力配置的革命性影響。",
-      "tags": [
-        "AI 自動化",
-        "OpenClaw",
-        "數位轉型",
-        "創業效率"
-      ],
-      "prompts": [],
-      "title_zh": "我們打造了 OpenClaw Ultron 來取代公司的 20 個人 | E2246",
-      "view_count": 52174
     },
     {
       "id": "6bBqno3tp-A",
@@ -5547,28 +4108,6 @@
       "view_count": 310284
     },
     {
-      "id": "4uzGDAoNOZc",
-      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
-      "title_highlight": "OpenClaw Creator, AI Agents, Replace Apps",
-      "url": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
-      "thumbnail": "https://i.ytimg.com/vi/4uzGDAoNOZc/hqdefault.jpg",
-      "published_at": "2026-02-07",
-      "duration": "22:36",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片訪談了 OpenClaw 創辦人 Peter Steinberger，探討這款開源本地 AI 代理如何透過自動化處理郵件、行事曆與工作流，改變軟體互動方式。內容深入分析 AI 代理為何能取代現有 80% 的應用程式，以及本地優先架構在效率與隱私上的優勢。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "工作流自動化",
-        "本地運算",
-        "軟體未來"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 開發者：為什麼 80% 的 App 將會消失",
-      "view_count": 779832
-    },
-    {
       "id": "Oh94XVXkZPM",
       "title": "How I&#39;m Using OpenClaw for Automated Trading (crypto &amp; prediction markets)",
       "title_highlight": "Automated Trading, Crypto",
@@ -5736,26 +4275,6 @@
       "prompts": [],
       "title_zh": "解鎖 Shopify：Openclaw 如何徹底改變電子商務！",
       "view_count": 2293
-    },
-    {
-      "id": "FIqt0x96uHw",
-      "title": "Revolutionizing E-commerce with OpenClaw: AI Execution Simplified",
-      "title_highlight": "Revolutionizing, Simplified",
-      "url": "https://www.youtube.com/watch?v=FIqt0x96uHw",
-      "thumbnail": "https://i.ytimg.com/vi/FIqt0x96uHw/hqdefault.jpg",
-      "published_at": "2026-02-06",
-      "duration": "16:41",
-      "category": "E-Commerce",
-      "category_icon": "🛒",
-      "summary": "這部影片介紹了名為 OpenClaw 的創新 AI 工具，探討其如何革新電子商務領域。主持人 Joshua Warren 說明了該工具如何簡化 AI 的執行流程，幫助企業更有效地導入 AI 技術以提升營運效率。",
-      "tags": [
-        "OpenClaw",
-        "E-Commerce",
-        "AI Execution"
-      ],
-      "prompts": [],
-      "title_zh": "利用 OpenClaw 變革電子商務：讓 AI 執行變得更簡單",
-      "view_count": 9
     },
     {
       "id": "axCreWC6AHw",
@@ -6229,50 +4748,6 @@
       "view_count": 85799
     },
     {
-      "id": "AQ5uiLyr8bQ",
-      "title": "NanoClaw: The Lightweight, Secure AI Assistant OpenClaw Should Have Been",
-      "title_highlight": "NanoClaw, Secure AI Assistant, Container Isolation",
-      "url": "https://www.youtube.com/watch?v=AQ5uiLyr8bQ",
-      "thumbnail": "https://i.ytimg.com/vi/AQ5uiLyr8bQ/hqdefault.jpg",
-      "published_at": "2026-02-05",
-      "duration": "4:49",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "這部影片介紹 NanoClaw，一個比 OpenClaw 更輕量且安全的替代方案。它透過 Docker 或 Apple Containers 實現真正的容器隔離，解決了 OpenClaw 複雜度過高與安全漏洞問題，提供更精簡、透明且可自定義的 AI 助手架構。",
-      "tags": [
-        "NanoClaw",
-        "OpenClaw",
-        "AI Security",
-        "Container Isolation",
-        "AI Agent"
-      ],
-      "prompts": [],
-      "title_zh": "NanoClaw：這才是 OpenClaw 該有的輕量、安全 AI 助手",
-      "view_count": 56175
-    },
-    {
-      "id": "0S2bqBGv_qA",
-      "title": "Nanobot VS OpenClaw: Who Wins?",
-      "title_highlight": "Nanobot, OpenClaw, AI Agent",
-      "url": "https://www.youtube.com/watch?v=0S2bqBGv_qA",
-      "thumbnail": "https://i.ytimg.com/vi/0S2bqBGv_qA/hqdefault.jpg",
-      "published_at": "2026-02-05",
-      "duration": "8:04",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入比較了輕量級 AI 代理人 Nanobot 與 OpenClaw 的優劣。Nanobot 僅透過 4,000 行精簡程式碼即能實現強大功能，強調透過架構簡化來提升開發速度、程式碼透明度，並解決 AI 工具過於臃腫的問題。",
-      "tags": [
-        "Nanobot",
-        "OpenClaw",
-        "AI Agent",
-        "開發效率",
-        "輕量化架構"
-      ],
-      "prompts": [],
-      "title_zh": "Nanobot vs OpenClaw：誰勝出？",
-      "view_count": 18793
-    },
-    {
       "id": "eOGvX0SPqCQ",
       "title": "3  use cases in 3 minutes with the new OpenClaw",
       "title_highlight": "OpenClaw, 3 use cases",
@@ -6337,28 +4812,6 @@
       "prompts": [],
       "title_zh": "如何用 OpenClaw 賺錢 - 初學者的副業首選！",
       "view_count": 19618
-    },
-    {
-      "id": "40SnEd1RWUU",
-      "title": "Interview with ‘Just use a VPS’ bro (OpenClaw version).",
-      "title_highlight": "Interview, VPS, OpenClaw Setup",
-      "url": "https://www.youtube.com/watch?v=40SnEd1RWUU",
-      "thumbnail": "https://i.ytimg.com/vi/40SnEd1RWUU/hqdefault.jpg",
-      "published_at": "2026-02-05",
-      "duration": "7:46",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "本影片以幽默的訪談迷因形式，介紹如何在 VPS 伺服器上安裝與設定 OpenClaw。內容涵蓋 Linux 伺服器配置指南、OpenClaw 初始安裝流程，並結合了程式開發者社群的幽默文化與 AI 工具部署。",
-      "tags": [
-        "OpenClaw",
-        "VPS",
-        "Linux Server",
-        "Programmer Memes",
-        "Claude"
-      ],
-      "prompts": [],
-      "title_zh": "專訪「用 VPS 就好」哥 (OpenClaw 版)",
-      "view_count": 349855
     },
     {
       "id": "CAbrRTu5xcw",
@@ -6446,50 +4899,6 @@
       "prompts": [],
       "title_zh": "OpenClaw 正在爆紅！照著這樣做來獲利",
       "view_count": 57615
-    },
-    {
-      "id": "XJoqsxB2mbI",
-      "title": "Clawdbot is making everyone buy Mac Minis (Save Your Money &amp; Do This Instead)",
-      "title_highlight": "Save Money, Trading Bots",
-      "url": "https://www.youtube.com/watch?v=XJoqsxB2mbI",
-      "thumbnail": "https://i.ytimg.com/vi/XJoqsxB2mbI/hqdefault.jpg",
-      "published_at": "2026-02-04",
-      "duration": "16:05",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "這部影片探討如何利用量化交易機器人解決人為交易中的情緒化、過度交易及高額手續費問題。作者分享建立自動化系統的過程，包括程式開發與回測，強調這並非致富捷徑，而是透過技術移除交易中的人為情感。",
-      "tags": [
-        "量化交易",
-        "交易機器人",
-        "Clawdbot",
-        "加密貨幣",
-        "自動化交易"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot 讓大家都在買 Mac Mini（省下你的錢，改做這件事）",
-      "view_count": 2666
-    },
-    {
-      "id": "M3P0hQMQtq0",
-      "title": "You Need To Know This Before Installing OpenClaw",
-      "title_highlight": "Installing OpenClaw, Security Nightmare",
-      "url": "https://www.youtube.com/watch?v=M3P0hQMQtq0",
-      "thumbnail": "https://i.ytimg.com/vi/M3P0hQMQtq0/hqdefault.jpg",
-      "published_at": "2026-02-04",
-      "duration": "7:32",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片深入分析 OpenClaw (原 ClawdBot) 的安裝流程與資安風險。內容涵蓋設定中的常見錯誤、Token 成本控制，並特別警告社群外掛可能存在的惡意程式風險與提示詞注入漏洞，是安裝前的完整評估指南。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "資訊安全",
-        "自動化",
-        "安裝教學"
-      ],
-      "prompts": [],
-      "title_zh": "安裝 OpenClaw 前你必須知道的事",
-      "view_count": 19236
     },
     {
       "id": "6y-CXrvzdT0",
@@ -6817,27 +5226,6 @@
       "view_count": 16563
     },
     {
-      "id": "1j8oCpLlS00",
-      "title": "What is OpenClaw?",
-      "title_highlight": "What is OpenClaw",
-      "url": "https://www.youtube.com/watch?v=1j8oCpLlS00",
-      "thumbnail": "https://i.ytimg.com/vi/1j8oCpLlS00/hqdefault.jpg",
-      "published_at": "2026-02-04",
-      "duration": "1:02",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了 OpenClaw 這一款 AI 工具，旨在幫助觀眾了解其基本概念與核心功能。透過對工具的初步探索，影片探討了 AI 如何應用於職涯發展並提升工作效率，鼓勵使用者嘗試這項新技術。",
-      "tags": [
-        "OpenClaw",
-        "AI 工具",
-        "職涯發展",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "什麼是 OpenClaw？",
-      "view_count": 18839
-    },
-    {
       "id": "j9eRyAnr4c0",
       "title": "ClawdBot makes money",
       "title_highlight": "ClawdBot, Makes money",
@@ -6991,26 +5379,6 @@
       "view_count": 2230
     },
     {
-      "id": "P47qqILR6fA",
-      "title": "ClawdBot BROKE EVERYTHING in 72 hours...",
-      "title_highlight": "BROKE EVERYTHING, AI Civilization",
-      "url": "https://www.youtube.com/watch?v=P47qqILR6fA",
-      "thumbnail": "https://i.ytimg.com/vi/P47qqILR6fA/hqdefault.jpg",
-      "published_at": "2026-02-03",
-      "duration": "32:40",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "影片探討 AI 代理程式（ClawdBot）在 72 小時內的實驗過程，展示了 AI 如何自主建立初步的「AI 文明」。分析了代理程式在互動中產生的預期外行為，以及自主 AI 系統對未來技術發展的影響。",
-      "tags": [
-        "AI Agents",
-        "Claude",
-        "AI Civilization"
-      ],
-      "prompts": [],
-      "title_zh": "ClawdBot 在 72 小時內搞砸了一切...",
-      "view_count": 78359
-    },
-    {
       "id": "EXuHXC2RamM",
       "title": "OpenClaw Step by Step: Setup Your AI Assistant 100% Secure(தமிழ்)",
       "title_highlight": "Setup, AI Assistant, 100% Secure",
@@ -7031,26 +5399,6 @@
       "prompts": [],
       "title_zh": "OpenClaw 逐步教學：100% 安全地設定你的 AI 助理 (泰米爾語)",
       "view_count": 23023
-    },
-    {
-      "id": "N2w0vSSju4c",
-      "title": "The Clawdbot Disaster Nobody&#39;s Talking About (AI Agent Takeover)",
-      "title_highlight": "Clawdbot Disaster, AI Agent Takeover",
-      "url": "https://www.youtube.com/watch?v=N2w0vSSju4c",
-      "thumbnail": "https://i.ytimg.com/vi/N2w0vSSju4c/hqdefault.jpg",
-      "published_at": "2026-02-03",
-      "duration": "14:13",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片探討了近期爆紅的 AI 代理程式 Clawdbot (Moltbot) 所引發的爭議與潛在威脅。影片分析了這類具備自主操作電腦能力的 AI 在 GitHub 等平台上可能導致的連鎖災難，並警示開發者在使用自動化代理時的安全風險。",
-      "tags": [
-        "Clawdbot",
-        "AI Agent",
-        "GitHub"
-      ],
-      "prompts": [],
-      "title_zh": "沒人討論的 Clawdbot 災難（AI 代理接管）",
-      "view_count": 12132
     },
     {
       "id": "5KHYe0duywA",
@@ -7206,27 +5554,6 @@
       "view_count": 65389
     },
     {
-      "id": "ER5v_PT74lk",
-      "title": "NEW Memubot DESTROYS OpenClaw?",
-      "title_highlight": "Memubot, OpenClaw, DESTROYS",
-      "url": "https://www.youtube.com/watch?v=ER5v_PT74lk",
-      "thumbnail": "https://i.ytimg.com/vi/ER5v_PT74lk/hqdefault.jpg",
-      "published_at": "2026-02-02",
-      "duration": "8:09",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片比較新興 AI 工具 Memubot 與 OpenClaw，分析其在瀏覽器自動化與執行任務上的效能差異，教導使用者如何運用最新 AI 技術來自動化流程、節省時間並提升工作效率。",
-      "tags": [
-        "Memubot",
-        "OpenClaw",
-        "AI 自動化",
-        "生產力工具"
-      ],
-      "prompts": [],
-      "title_zh": "新的 Memubot 會擊敗 OpenClaw 嗎？",
-      "view_count": 20246
-    },
-    {
       "id": "gej2RO55zxQ",
       "title": "Clawdbot For Trading is UNSTOPPABLE (71,057% ROI)",
       "title_highlight": "Clawdbot, Trading, ROI",
@@ -7310,26 +5637,6 @@
       "prompts": [],
       "title_zh": "我將 Clawdbot AI（現為 OpenClaw）連接到我的整個事業 | Mac Mini",
       "view_count": 49509
-    },
-    {
-      "id": "255mUjY-a-k",
-      "title": "Why Every Dropshipper Needs OpenClaw in 2026",
-      "title_highlight": "Dropshipper, Needs OpenClaw",
-      "url": "https://www.youtube.com/watch?v=255mUjY-a-k",
-      "thumbnail": "https://i.ytimg.com/vi/255mUjY-a-k/hqdefault.jpg",
-      "published_at": "2026-02-02",
-      "duration": "5:56",
-      "category": "E-Commerce",
-      "category_icon": "🛒",
-      "summary": "這部影片探討了 OpenClaw 工具在 2026 年對電商代發貨（Dropshipping）的重要性。內容解析該工具如何協助賣家優化營運流程、提升效率，並強調在未來競爭激烈的市場中，這是每位經營者提升競爭力的必備利器。",
-      "tags": [
-        "Dropshipping",
-        "OpenClaw",
-        "電子商務"
-      ],
-      "prompts": [],
-      "title_zh": "為什麼 2026 年每個直運電商都需要 OpenClaw",
-      "view_count": 563
     },
     {
       "id": "rsyMrEyx8oA",
@@ -7420,28 +5727,6 @@
       "view_count": 62043
     },
     {
-      "id": "1E8dG80sLLw",
-      "title": "Before you buy a Mac mini for OpenClaw, watch this",
-      "title_highlight": "Mac mini, OpenClaw, VPS",
-      "url": "https://www.youtube.com/watch?v=1E8dG80sLLw",
-      "thumbnail": "https://i.ytimg.com/vi/1E8dG80sLLw/hqdefault.jpg",
-      "published_at": "2026-02-02",
-      "duration": "7:40",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片探討運行 OpenClaw AI 代理系統的硬體與環境需求。作者建議在購買實體 Mac mini 前，考慮使用 Hostinger VPS 作為替代方案，旨在幫助使用者以最具成本效益的方式完成 OpenClaw 的初始配置與運行。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "Mac mini",
-        "VPS",
-        "硬體配置"
-      ],
-      "prompts": [],
-      "title_zh": "在為了 OpenClaw 購買 Mac mini 之前，請先看這個",
-      "view_count": 34374
-    },
-    {
       "id": "lxfakTpdz1Y",
       "title": "How to run ClawdBot for DIRT CHEAP",
       "title_highlight": "run ClawdBot, DIRT CHEAP, save money",
@@ -7464,26 +5749,6 @@
       "view_count": 83340
     },
     {
-      "id": "p9acrso71KU",
-      "title": "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)",
-      "title_highlight": "Clawdbot to OpenClaw, Full Breakdown",
-      "url": "https://www.youtube.com/watch?v=p9acrso71KU",
-      "thumbnail": "https://i.ytimg.com/vi/p9acrso71KU/hqdefault.jpg",
-      "published_at": "2026-02-02",
-      "duration": "22:02",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "本影片深入解析 GitHub 史上成長最快的開源項目 OpenClaw 的發展歷程。詳細說明該項目在 72 小時內，如何從 Clawdbot 經歷品牌爭議與更名，最終演變為 OpenClaw 的技術背景與幕後故事。",
-      "tags": [
-        "OpenClaw",
-        "GitHub",
-        "開源項目"
-      ],
-      "prompts": [],
-      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）",
-      "view_count": 289926
-    },
-    {
       "id": "l51qziR8lLA",
       "title": "Openclaw AI explained - What is OpenClaw and how it works?",
       "title_highlight": "OpenClaw AI, Explained, How it works",
@@ -7504,28 +5769,6 @@
       "prompts": [],
       "title_zh": "Openclaw AI 詳解 - OpenClaw 是什麼以及它是如何運作的？",
       "view_count": 34186
-    },
-    {
-      "id": "p9acrso71KU",
-      "title": "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)",
-      "title_highlight": "Full Breakdown, Broken, GitHub history",
-      "url": "https://www.youtube.com/watch?v=p9acrso71KU",
-      "thumbnail": "https://i.ytimg.com/vi/p9acrso71KU/hqdefault.jpg",
-      "published_at": "2026-02-02",
-      "duration": "22:02",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片詳盡分析了 GitHub 史上成長最快的開源專案 OpenClaw（原名 Clawdbot 及 Moltbot）的發展歷程。內容涵蓋了該專案在 72 小時內引發的動盪、更名風波以及其對 AI 程式開發工具領域帶來的重大影響。",
-      "tags": [
-        "OpenClaw",
-        "GitHub",
-        "開源專案",
-        "Moltbot",
-        "AI 編程"
-      ],
-      "prompts": [],
-      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）",
-      "view_count": 289926
     },
     {
       "id": "mH8Kqb03qW4",
@@ -7634,28 +5877,6 @@
       "view_count": 10497
     },
     {
-      "id": "NDJCam-oHU4",
-      "title": "Openclaw Creator&#39;s Dangerous AI Code Workflow",
-      "title_highlight": "Openclaw, AI Code Workflow",
-      "url": "https://www.youtube.com/watch?v=NDJCam-oHU4",
-      "thumbnail": "https://i.ytimg.com/vi/NDJCam-oHU4/hqdefault.jpg",
-      "published_at": "2026-02-01",
-      "duration": "0:59",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入解析了 Openclaw 創作者所使用的高效且具實驗性的 AI 程式碼開發流程。內容聚焦於如何利用 AI 工具極速自動化編寫程式，並探討這種自動化開發模式的優點、潛在風險及對未來編程的影響。",
-      "tags": [
-        "Openclaw",
-        "AI 編程",
-        "工作流優化",
-        "自動化開發",
-        "LLM"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 創作者危險的 AI 程式碼工作流",
-      "view_count": 54599
-    },
-    {
       "id": "csffyf9e30k",
       "title": "Clawdbot The Free AI Assistant for Your Smart Home  #homeassistant #clawdbot #ai",
       "title_highlight": "Clawdbot, AI Assistant, Smart Home",
@@ -7700,28 +5921,6 @@
       "view_count": 25106
     },
     {
-      "id": "Ry8J5yUab-k",
-      "title": "I Hate OpenClaw… but I can’t stop using it (Clawdbot)",
-      "title_highlight": "Security concerns, Still using",
-      "url": "https://www.youtube.com/watch?v=Ry8J5yUab-k",
-      "thumbnail": "https://i.ytimg.com/vi/Ry8J5yUab-k/hqdefault.jpg",
-      "published_at": "2026-02-01",
-      "duration": "0:42",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片探討了自動化工具 OpenClaw (Clawdbot) 的雙面性。儘管該工具存在嚴重的安全性問題，作者仍解釋了為何其強大的功能在實際應用中不可或缺，並分析使用者在面對資安風險時，為何仍選擇以其提升工作效率與自動化流程。",
-      "tags": [
-        "OpenClaw",
-        "Clawdbot",
-        "自動化",
-        "資訊安全",
-        "生產力工具"
-      ],
-      "prompts": [],
-      "title_zh": "我討厭 OpenClaw... 但我停不下來 (Clawdbot)",
-      "view_count": 71267
-    },
-    {
       "id": "fBwLOl_pLF8",
       "title": "Openclaw (formerly Clawdbot) is the AI assistant that actually gets things done.",
       "title_highlight": "AI assistant, gets things done",
@@ -7741,26 +5940,6 @@
       "prompts": [],
       "title_zh": "OpenClaw (原名 Clawdbot) 是真正能處理事務的 AI 助手",
       "view_count": 1306
-    },
-    {
-      "id": "AcwK1Uuwc0U",
-      "title": "How OpenClaw&#39;s Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger",
-      "title_highlight": "Uses AI, Run His Life",
-      "url": "https://www.youtube.com/watch?v=AcwK1Uuwc0U",
-      "thumbnail": "https://i.ytimg.com/vi/AcwK1Uuwc0U/hqdefault.jpg",
-      "published_at": "2026-02-01",
-      "duration": "37:44",
-      "category": "生活管理",
-      "category_icon": "🏠",
-      "summary": "這部影片專訪 OpenClaw 創辦人 Peter Steinberger，分享他如何利用 AI 技術在每天 40 分鐘內高效管理日常生活。內容涵蓋自動化工作流與生產力優化，展示如何將 AI 整合進個人生活管理中。",
-      "tags": [
-        "OpenClaw",
-        "AI 自動化",
-        "生產力"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 創作者如何用 AI 在 40 分鐘內打理生活 | Peter Steinberger",
-      "view_count": 285357
     },
     {
       "id": "C-_ngZTKmGs",
@@ -7849,28 +6028,6 @@
       "view_count": 42986
     },
     {
-      "id": "ocTzXXTaakY",
-      "title": "OpenClaw AI Agent explained for beginners, including security issues, so you can sound fancy smart a",
-      "title_highlight": "AI Agent, Explained, Security Issues",
-      "url": "https://www.youtube.com/watch?v=ocTzXXTaakY",
-      "thumbnail": "https://i.ytimg.com/vi/ocTzXXTaakY/hqdefault.jpg",
-      "published_at": "2026-01-31",
-      "duration": "1:04",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "這部影片專為初學者設計，深入淺出地介紹 OpenClaw AI 代理工具的核心概念。內容涵蓋 OpenClaw 的運作原理及其安全性議題，旨在幫助觀眾快速掌握這項自動化技術的基礎知識並了解潛在風險。",
-      "tags": [
-        "OpenClaw",
-        "AI Agent",
-        "資訊安全",
-        "自動化",
-        "初學者教學"
-      ],
-      "prompts": [],
-      "title_zh": "為初學者解釋 OpenClaw AI 代理，包含安全問題，讓你聽起來專業又聰明",
-      "view_count": 51251
-    },
-    {
       "id": "hIFj12pImko",
       "title": "Clawdbot/Moltbot Explained in 10 Minutes..",
       "title_highlight": "Clawdbot, Moltbot, WhatsApp AI Agent, Automate Business",
@@ -7891,27 +6048,6 @@
       "prompts": [],
       "title_zh": "10 分鐘搞懂 Clawdbot/Moltbot...",
       "view_count": 19196
-    },
-    {
-      "id": "HTu1OGWAn5w",
-      "title": "How to Use Claude Cowork Better Than 99% of People (Full Guide)",
-      "title_highlight": "Use Claude Cowork, Full Guide",
-      "url": "https://www.youtube.com/watch?v=HTu1OGWAn5w",
-      "thumbnail": "https://i.ytimg.com/vi/HTu1OGWAn5w/hqdefault.jpg",
-      "published_at": "2026-01-31",
-      "duration": "21:07",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片是關於如何高效使用 Claude 的完整指南，教導使用者利用 Claude Cowork 功能來提升工作效率。內容涵蓋進階操作技巧與工作流程優化，旨在幫助使用者充分發揮 AI 的潛力，建立更強大的生產力體系。",
-      "tags": [
-        "Claude",
-        "AI工具",
-        "生產力",
-        "工作流程"
-      ],
-      "prompts": [],
-      "title_zh": "如何比 99% 的人更會用 Claude Cowork (完整指南)",
-      "view_count": 229746
     },
     {
       "id": "UTCi_q6iuCM",
@@ -8025,28 +6161,6 @@
       "prompts": [],
       "title_zh": "ClawdBOT 啟動 Claude Code，在我健身時幫我工作",
       "view_count": 923
-    },
-    {
-      "id": "zwjMkI4Usd8",
-      "title": "Clawdbot/Moltbot hype explained 🦞 #clawbot #moltbot #openclaw #ai",
-      "title_highlight": "Clawdbot, Moltbot, Hype Explained",
-      "url": "https://www.youtube.com/watch?v=zwjMkI4Usd8",
-      "thumbnail": "https://i.ytimg.com/vi/zwjMkI4Usd8/hqdefault.jpg",
-      "published_at": "2026-01-31",
-      "duration": "1:46",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "這部影片解析了近期 AI 圈熱議的 Clawdbot 與 Moltbot（OpenClaw）。這些工具主要用於自動化內容創作，影片探討了其技術背景、功能特色以及為何在自動化生成領域引發大量關注。",
-      "tags": [
-        "Clawdbot",
-        "Moltbot",
-        "OpenClaw",
-        "AI 自動化",
-        "內容創作"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot/Moltbot 熱潮詳解 🦞 #clawbot #moltbot #openclaw #ai",
-      "view_count": 33207
     },
     {
       "id": "PCJXKrdwEsE",
@@ -8761,28 +6875,6 @@
       "view_count": 26423
     },
     {
-      "id": "n1AFCGVfaO8",
-      "title": "I Tested Home Assistant 2026.2 Beta – These Changes Are Huge",
-      "title_highlight": "Tested, Home Assistant, Huge Changes",
-      "url": "https://www.youtube.com/watch?v=n1AFCGVfaO8",
-      "thumbnail": "https://i.ytimg.com/vi/n1AFCGVfaO8/hqdefault.jpg",
-      "published_at": "2026-01-29",
-      "duration": "12:02",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片實測 Home Assistant 2026.2 Beta 版，介紹其重大更新。核心亮點包含全新的 Home Dashboard 儀表板設計，以及將功能「應用程式化」的重大概念轉變，大幅提升智慧居家介面的直覺性與美觀度。",
-      "tags": [
-        "Home Assistant",
-        "智慧居家",
-        "2026.2 Beta",
-        "Dashboard",
-        "Smart Home"
-      ],
-      "prompts": [],
-      "title_zh": "實測 Home Assistant 2026.2 Beta：這些改動太驚人了",
-      "view_count": 42744
-    },
-    {
       "id": "zvYH8csGNWA",
       "title": "How to Use Clawdbot(Openclaw) to Deploy Automations",
       "title_highlight": "Use Clawdbot, Deploy Automations",
@@ -8980,27 +7072,6 @@
       "view_count": 197463
     },
     {
-      "id": "_b6mk9S2pBw",
-      "title": "Clawdbot: Explaining the hype",
-      "title_highlight": "Clawdbot, Explaining the hype",
-      "url": "https://www.youtube.com/watch?v=_b6mk9S2pBw",
-      "thumbnail": "https://i.ytimg.com/vi/_b6mk9S2pBw/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "2:14",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "影片深入解析熱門 AI 工具 Clawdbot (OpenClaw) 的功能，說明其如何透過自動化技術處理資訊與生成內容。重點在於解釋其受歡迎的原因，以及如何應用於自動化內容行銷流程中。",
-      "tags": [
-        "Clawdbot",
-        "OpenClaw",
-        "AI 自動化",
-        "內容行銷"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot：解析它為何爆紅",
-      "view_count": 115199
-    },
-    {
       "id": "kFwzPJZoZoc",
       "title": "8 Practical Clawdbot Use Cases (Full Tutorial)",
       "title_highlight": "Clawdbot Use Cases, Tutorial",
@@ -9089,29 +7160,6 @@
       "view_count": 7612
     },
     {
-      "id": "CB6Ysb_BLcM",
-      "title": "Why I&#39;m DELETING Clawdbot (Moltbot) After This",
-      "title_highlight": "Security Risks, Secure setup, DELETING Clawdbot",
-      "url": "https://www.youtube.com/watch?v=CB6Ysb_BLcM",
-      "thumbnail": "https://i.ytimg.com/vi/CB6Ysb_BLcM/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "8:27",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片分析了強大 AI 助手 Moltbot 的安全性威脅，指出其具備完整系統存取權可能導致指令注入與資安外洩。內容涵蓋作者遭遇的暴力破解攻擊實測，並教導如何透過 Tailscale 和 VPN 等工具進行安全配置與防範。",
-      "tags": [
-        "Moltbot",
-        "Clawdbot",
-        "資安風險",
-        "AI 安全",
-        "Tailscale",
-        "網路安全"
-      ],
-      "prompts": [],
-      "title_zh": "為什麼我看完這個之後決定刪除 Clawdbot (Moltbot)",
-      "view_count": 40464
-    },
-    {
       "id": "fcFOYzMeG7U",
       "title": "My honest experience with Clawdbot (now Moltbot): where it was great, where it sucked",
       "title_highlight": "Honest experience, great, sucked",
@@ -9154,27 +7202,6 @@
       "prompts": [],
       "title_zh": "Openclaw (前身為 Clawdbot 與 Moltbot) 詳解",
       "view_count": 62215
-    },
-    {
-      "id": "KShA22Crumc",
-      "title": "This AI Agent Runs Your Entire Dev Workflow",
-      "title_highlight": "AI Agent, Dev Workflow, Building Software",
-      "url": "https://www.youtube.com/watch?v=KShA22Crumc",
-      "thumbnail": "https://i.ytimg.com/vi/KShA22Crumc/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "46:12",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片探討如何利用 AI 代理人管理完整的開發流程。Wes 與 Scott 分享了建立高度客製化的個人軟體與家庭自動化系統，說明 AI 如何自動化處理複雜的開發任務，徹底改變軟體開發的工作模式。",
-      "tags": [
-        "AI Agent",
-        "開發流程自動化",
-        "個人化軟體",
-        "Home Automation"
-      ],
-      "prompts": [],
-      "title_zh": "這款 AI 代理能接管你整個開發流程",
-      "view_count": 13560
     },
     {
       "id": "7Cducyu5Dd0",
@@ -9288,92 +7315,6 @@
       "view_count": 1374
     },
     {
-      "id": "zv29i6gAFa4",
-      "title": "Moltbot is my new Junior Dev. Claude Code is the Senior.",
-      "title_highlight": "Moltbot, Claude Code, Trading setup",
-      "url": "https://www.youtube.com/watch?v=zv29i6gAFa4",
-      "thumbnail": "https://i.ytimg.com/vi/zv29i6gAFa4/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "10:55",
-      "category": "金融",
-      "category_icon": "💰",
-      "summary": "這部影片介紹如何利用兩款 AI 代理人（Moltbot 與 Claude Code）來管理交易系統。創作者將其分別定位為初級與高級開發者，展示如何平衡快速冒險與緩慢安全的工具，以自動化執行金融交易策略。",
-      "tags": [
-        "AI Agents",
-        "Claude Code",
-        "Moltbot",
-        "自動化交易",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "Moltbot 是我的初級開發者，Claude Code 則是資深前輩",
-      "view_count": 910
-    },
-    {
-      "id": "Mo25-W4k1wI",
-      "title": "What the f*ck is Clawdbot | Moltbot?",
-      "title_highlight": "Clawdbot, Moltbot, Rebrand, Security Nightmare",
-      "url": "https://www.youtube.com/watch?v=Mo25-W4k1wI",
-      "thumbnail": "https://i.ytimg.com/vi/Mo25-W4k1wI/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "2:18",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入解析開源 AI 代理工具 Clawdbot（現更名為 Moltbot）的熱潮與爭議。內容涵蓋其具備電腦操作能力的原理、因商標問題被迫更名的內幕、GitHub 帳號遭竊引發的詐騙事件，以及開放遠端 Shell 所帶來的嚴重資安風險。",
-      "tags": [
-        "Clawdbot",
-        "Moltbot",
-        "AI Agent",
-        "資安風險",
-        "GitHub"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot / Moltbot 到底是何方神聖？",
-      "view_count": 47
-    },
-    {
-      "id": "InH0S9QHlbY",
-      "title": "Clawdbot: expensive insecure AI agent that doesn&#39;t work",
-      "title_highlight": "Clawdbot, expensive, insecure",
-      "url": "https://www.youtube.com/watch?v=InH0S9QHlbY",
-      "thumbnail": "https://i.ytimg.com/vi/InH0S9QHlbY/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "5:59",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片評測了名為 Clawdbot 的 AI 代理工具，批評其運作成本高昂、安全性不足且無法正常運作。作者也揭露了該機器人在處理特定國家資訊時表現出的偏見與錯誤。",
-      "tags": [
-        "Clawdbot",
-        "AI Agent",
-        "資訊安全"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot：既昂貴又不安全且沒用的 AI 代理",
-      "view_count": 6646
-    },
-    {
-      "id": "g39les0HViY",
-      "title": "ClawdBot Is a Disaster.",
-      "title_highlight": "Disaster, Agentic Hype, Broken Tools",
-      "url": "https://www.youtube.com/watch?v=g39les0HViY",
-      "thumbnail": "https://i.ytimg.com/vi/g39les0HViY/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "6:01",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片警示開發者與公司，不要盲目追求 AI 代理（Agentic AI）熱潮而投資於不成熟的工具。影片以 ClawdBot 為例，強調應理性評估工具實用性與預算，避免在未來犯下重大技術決策錯誤。",
-      "tags": [
-        "AI Agents",
-        "ClawdBot",
-        "軟體開發",
-        "AI 趨勢",
-        "技術評估"
-      ],
-      "prompts": [],
-      "title_zh": "ClawdBot 簡直是一場災難",
-      "view_count": 236
-    },
-    {
       "id": "e3EVP2-X3PU",
       "title": "Clawd Bot Explained In 5 mins (No Hype)",
       "title_highlight": "Clawd Bot, Explained, No Hype",
@@ -9421,28 +7362,6 @@
       ],
       "title_zh": "OpenClaw 正在接管 AI 領域",
       "view_count": 123375
-    },
-    {
-      "id": "CBNbcbMs_Lc",
-      "title": "100 Hours Testing Clawdbot vs Claude Code (honest results)",
-      "title_highlight": "Testing, Clawdbot vs Claude Code",
-      "url": "https://www.youtube.com/watch?v=CBNbcbMs_Lc",
-      "thumbnail": "https://i.ytimg.com/vi/CBNbcbMs_Lc/hqdefault.jpg",
-      "published_at": "2026-01-28",
-      "duration": "22:47",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入比較了開源 AI 工具 Clawdbot 與 Anthropic 官方的 Claude Code。透過 100 小時的實測，分析兩者在程式碼編寫、專案管理及開發效率上的真實表現與優缺點，幫助開發者挑選最適合的 AI 程式助手。",
-      "tags": [
-        "Claude Code",
-        "Clawdbot",
-        "AI Coding",
-        "程式開發",
-        "Anthropic"
-      ],
-      "prompts": [],
-      "title_zh": "100 小時實測 Clawdbot vs Claude Code（真實結果）",
-      "view_count": 236939
     },
     {
       "id": "9mWOU14yGcQ",
@@ -9529,26 +7448,6 @@
       "prompts": [],
       "title_zh": "Clawdbot：構建並自動化處理任何事物！",
       "view_count": 7734
-    },
-    {
-      "id": "esXXuejofgk",
-      "title": "Clawdbot Sucks, Actually",
-      "title_highlight": "Clawdbot, Claude Code",
-      "url": "https://www.youtube.com/watch?v=esXXuejofgk",
-      "thumbnail": "https://i.ytimg.com/vi/esXXuejofgk/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "8:31",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片分析了 Clawdbot 的不足之處，並深入介紹 Anthropic 官方推出的 Claude Code 終端機工具。影片教導開發者如何利用 CLI 介面讓 AI 直接在本地環境進行自動化編碼、除錯與專案重構。",
-      "tags": [
-        "Claude Code",
-        "AI 編程",
-        "Anthropic"
-      ],
-      "prompts": [],
-      "title_zh": "事實上，Clawdbot 很爛",
-      "view_count": 186775
     },
     {
       "id": "x5tBofRpxgc",
@@ -9838,26 +7737,6 @@
       "view_count": 8025
     },
     {
-      "id": "7ffF3fumhcQ",
-      "title": "I Built a Local AI Assistant: 100% Free &amp; No Subscriptions!",
-      "title_highlight": "Built Local AI, Free",
-      "url": "https://www.youtube.com/watch?v=7ffF3fumhcQ",
-      "thumbnail": "https://i.ytimg.com/vi/7ffF3fumhcQ/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "11:44",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導如何建立一個 100% 免費且無需訂閱的本地 AI 助手，讓使用者能在自己的電腦上運行強大的語言模型，兼顧隱私保護與零成本的使用體驗。",
-      "tags": [
-        "Local AI",
-        "開源模型",
-        "隱私保護"
-      ],
-      "prompts": [],
-      "title_zh": "我打造了一個本地 AI 助手：100% 免費且無需訂閱！",
-      "view_count": 63745
-    },
-    {
       "id": "ocEoCYs_upA",
       "title": "I Built an AI Bot with Clawdbot - Here&#39;s What Happened",
       "title_highlight": "Built AI Bot, Automate Tasks, Integrate Obsidian",
@@ -9927,28 +7806,6 @@
       "view_count": 18261
     },
     {
-      "id": "9wmiXD04uE8",
-      "title": "Clawdbot (moltbot) Clearly Explained...",
-      "title_highlight": "Clawdbot Explained, Open Source AI",
-      "url": "https://www.youtube.com/watch?v=9wmiXD04uE8",
-      "thumbnail": "https://i.ytimg.com/vi/9wmiXD04uE8/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "8:57",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片深入解析近期在 X 上爆紅的開源 AI 助理 Clawdbot (moltbot)，介紹其開發背景與潛力。影片探討這款由 Peter Steinberg 開發的下一代工具，如何作為開源解決方案來協助使用者達成自動化與任務處理。",
-      "tags": [
-        "Clawdbot",
-        "Moltbot",
-        "Open Source AI",
-        "AI Assistant",
-        "Productivity"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot (moltbot) 詳盡解析...",
-      "view_count": 14186
-    },
-    {
       "id": "CFahwp0biWM",
       "title": "Build Anything with Clawdbot + AntiGravity: Here&#39;s How!",
       "title_highlight": "Build Anything, Clawdbot, AntiGravity",
@@ -9971,28 +7828,6 @@
       "view_count": 31418
     },
     {
-      "id": "X-Ew43uaktc",
-      "title": "Don’t buy a Mac Mini for ClawdBot. You don’t need it. Get a VPS or use an unused computer!",
-      "title_highlight": "VPS, Mac Mini, ClawdBot",
-      "url": "https://www.youtube.com/watch?v=X-Ew43uaktc",
-      "thumbnail": "https://i.ytimg.com/vi/X-Ew43uaktc/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "0:26",
-      "category": "OpenClaw Setup",
-      "category_icon": "⚙️",
-      "summary": "影片建議使用者在運行 ClawdBot 時，不需要購買昂貴的 Mac Mini。作者提倡使用虛擬專用伺服器 (VPS) 或利用家中閒置的舊電腦來架設環境，以更經濟的方式完成硬體配置。",
-      "tags": [
-        "ClawdBot",
-        "VPS",
-        "硬體配置",
-        "OpenClaw",
-        "省錢技巧"
-      ],
-      "prompts": [],
-      "title_zh": "別為了 ClawdBot 買 Mac Mini。你不需要它。改用 VPS 或閒置電腦！",
-      "view_count": 41904
-    },
-    {
       "id": "U8kXfk8enrY",
       "title": "Clawdbot/OpenClaw Clearly Explained (and how to use it)",
       "title_highlight": "Clawdbot, Proactive AI Employee, Workflow Setup",
@@ -10013,48 +7848,6 @@
       "prompts": [],
       "title_zh": "Clawdbot/OpenClaw 詳盡解析（以及如何使用）",
       "view_count": 324191
-    },
-    {
-      "id": "kSno1-xOjwI",
-      "title": "openclaw security situation is insane",
-      "title_highlight": "Security situation, Insane",
-      "url": "https://www.youtube.com/watch?v=kSno1-xOjwI",
-      "thumbnail": "https://i.ytimg.com/vi/kSno1-xOjwI/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "11:25",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入探討了 OpenClaw 專案中嚴重的安全漏洞與程式碼品質問題。作者透過分析源碼，揭示了低階程式開發中常見的記憶體管理與安全缺陷，強調了在開源專案中實施嚴格程式碼審查的重要性。",
-      "tags": [
-        "OpenClaw",
-        "資訊安全",
-        "程式碼審查",
-        "漏洞分析",
-        "低階開發"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂",
-      "view_count": 383006
-    },
-    {
-      "id": "kSno1-xOjwI",
-      "title": "openclaw security situation is insane",
-      "title_highlight": "openclaw, security situation",
-      "url": "https://www.youtube.com/watch?v=kSno1-xOjwI",
-      "thumbnail": "https://i.ytimg.com/vi/kSno1-xOjwI/hqdefault.jpg",
-      "published_at": "2026-01-27",
-      "duration": "11:25",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入探討了 OpenClaw 專案中嚴重的安全漏洞，透過分析程式碼展示了低階程式語言中常見的記憶體管理錯誤與安全風險，並教導開發者如何識別並避免這些潛在的資訊安全威脅。",
-      "tags": [
-        "OpenClaw",
-        "資訊安全",
-        "漏洞分析"
-      ],
-      "prompts": [],
-      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂",
-      "view_count": 383006
     },
     {
       "id": "MUDvwqJWWIw",
@@ -10430,26 +8223,6 @@
       "view_count": 10104
     },
     {
-      "id": "D07SE4r7AgI",
-      "title": "Claude Cowork vs Clawdbot: How AI Agents Actually Save You 10+ Hours a Week",
-      "title_highlight": "AI Agents, Save Hours, Claude Cowork",
-      "url": "https://www.youtube.com/watch?v=D07SE4r7AgI",
-      "thumbnail": "https://i.ytimg.com/vi/D07SE4r7AgI/hqdefault.jpg",
-      "published_at": "2026-01-26",
-      "duration": "41:05",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片比較了 Claude Cowork 與 Clawdbot 兩款工具，展示如何利用 AI 代理（AI Agents）自動化處理繁瑣任務，將 AI 從簡單的搜尋工具轉變為真正的數位助理，幫助使用者每週節省超過 10 小時的工作時間。",
-      "tags": [
-        "AI Agents",
-        "Claude",
-        "自動化工作流"
-      ],
-      "prompts": [],
-      "title_zh": "Claude Cowork vs Clawdbot：AI 代理如何每週幫你省下 10+ 小時",
-      "view_count": 358
-    },
-    {
       "id": "dNQYkYqhrAg",
       "title": "Clawdbot/OpenClaw: No Need Buying a Mac mini. Run It Safely in a macOS VM (Free)",
       "title_highlight": "macOS VM, Run Safely, VirtualBuddy, Installation",
@@ -10627,51 +8400,6 @@
       "view_count": 34840
     },
     {
-      "id": "AO5aW01DKHo",
-      "title": "Agentic Workflows Just Changed AI Automation Forever! (Claude Code)",
-      "title_highlight": "Agentic Workflows, AI Automation, Claude Code",
-      "url": "https://www.youtube.com/watch?v=AO5aW01DKHo",
-      "thumbnail": "https://i.ytimg.com/vi/AO5aW01DKHo/hqdefault.jpg",
-      "published_at": "2026-01-25",
-      "duration": "21:40",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "本影片介紹 Anthropic 推出的 Claude Code 終端機工具，說明代理型工作流（Agentic Workflows）如何改變 AI 自動化。展示如何透過該工具自動執行程式撰寫、除錯與開發流程優化，大幅提升工程效率。",
-      "tags": [
-        "Claude Code",
-        "Agentic Workflows",
-        "AI 自動化",
-        "Anthropic",
-        "程式開發"
-      ],
-      "prompts": [
-        "npm install -g @anthropic-ai/claude-code",
-        "claude"
-      ],
-      "title_zh": "Agentic 工作流永遠改變了 AI 自動化！（Claude Code）",
-      "view_count": 198958
-    },
-    {
-      "id": "7yM9PIloOnQ",
-      "title": "Clawdbot (Moltbot) (OpenClaw) Runs Locally and Destroys Every Cloud AI Assistant",
-      "title_highlight": "Runs Locally, Computer Control, Siri Alternative",
-      "url": "https://www.youtube.com/watch?v=7yM9PIloOnQ",
-      "thumbnail": "https://i.ytimg.com/vi/7yM9PIloOnQ/hqdefault.jpg",
-      "published_at": "2026-01-25",
-      "duration": "8:30",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片介紹開源 AI 助理 Clawdbot (OpenClaw) 的十大強大功能。該工具可在本地運行並具備長期記憶、主動發送訊息、電腦自動化操作、郵件與財務管理及智慧居家控制，是取代傳統雲端助理的高效生產力方案。",
-      "tags": [
-        "Clawdbot",
-        "本地 AI",
-        "生產力自動化"
-      ],
-      "prompts": [],
-      "title_zh": "Clawdbot (Moltbot) (OpenClaw) 本地運行並完勝所有雲端 AI 助手",
-      "view_count": 456
-    },
-    {
       "id": "ikDNH4aG-lI",
       "title": "Clawdbot + Mac Mini / VPS: The ULTIMATE LOCAL AI Assistant Agent has ARRIVED!",
       "title_highlight": "Clawdbot, Claude Code, Local AI Assistant",
@@ -10800,28 +8528,6 @@
       "view_count": 36906
     },
     {
-      "id": "pSnTKR2Phyo",
-      "title": "Claude Just Changed Content Creation Forever! (Tutorial)",
-      "title_highlight": "Content Creation, Tutorial",
-      "url": "https://www.youtube.com/watch?v=pSnTKR2Phyo",
-      "thumbnail": "https://i.ytimg.com/vi/pSnTKR2Phyo/hqdefault.jpg",
-      "published_at": "2026-01-23",
-      "duration": "16:09",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "這部影片詳細教學如何運用 Claude AI 徹底改變內容創作流程。內容涵蓋如何利用 AI 工具自動化產出高品質文案，旨在提升創作者的工作效率並優化行銷策略，達成高效生產力。",
-      "tags": [
-        "Claude AI",
-        "內容行銷",
-        "自動化",
-        "生產力",
-        "Anthropic"
-      ],
-      "prompts": [],
-      "title_zh": "Claude 永遠改變了內容創作！（教學）",
-      "view_count": 223238
-    },
-    {
       "id": "d9UcE0nfu_A",
       "title": "I Hired My First Employee (It&#39;s OpenClaw AI)",
       "title_highlight": "Hired AI Employee, Boosts Productivity",
@@ -10928,890 +8634,6 @@
       "prompts": [],
       "title_zh": "個人 AI 基礎架構：打造 24/7 全天候助手 (Clawdbot)",
       "view_count": 27532
-    },
-    {
-      "id": "1gDZtt-iKFE",
-      "title": "How to Build SELF-IMPROVING Systems in Claude Code",
-      "title_highlight": "Build, Self-Improving, Claude Code",
-      "url": "https://www.youtube.com/watch?v=1gDZtt-iKFE",
-      "thumbnail": "https://i.ytimg.com/vi/1gDZtt-iKFE/hqdefault.jpg",
-      "published_at": "2025-12-21",
-      "duration": "25:42",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導如何利用 Anthropic 的 Claude Code 建立具備自我完善功能的 AI 系統。內容涵蓋了如何透過自動化流程讓 AI 進行自我開發、優化與錯誤修正，從而提升程式開發的效率與智能化程度。",
-      "tags": [
-        "Claude Code",
-        "AI 自動化",
-        "自我改進系統"
-      ],
-      "prompts": [],
-      "title_zh": "如何在 Claude Code 中建立「自我完善」系統",
-      "view_count": 8539
-    },
-    {
-      "id": "s96JeuuwLzc",
-      "title": "I&#39;ll never use n8n the same......",
-      "title_highlight": "Self-hosting n8n, Automate workflows",
-      "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
-      "thumbnail": "https://i.ytimg.com/vi/s96JeuuwLzc/hqdefault.jpg",
-      "published_at": "2025-12-10",
-      "duration": "17:25",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片教導如何使用 Hostinger 自行架設 n8n 自動化平台，並分享了改變傳統工作流的新方法。透過自行託管，使用者能更靈活地建立強大的自動化系統，全面提升處理任務的效率。",
-      "tags": [
-        "n8n",
-        "自動化",
-        "Self-hosting",
-        "Hostinger"
-      ],
-      "prompts": [],
-      "title_zh": "我再也不會像以前那樣使用 n8n 了……",
-      "view_count": 514441
-    },
-    {
-      "id": "tkxKnPklJhY",
-      "title": "Stop learning n8n? Build NEW AI Systems in 2026",
-      "title_highlight": "Build AI Systems, Automation",
-      "url": "https://www.youtube.com/watch?v=tkxKnPklJhY",
-      "thumbnail": "https://i.ytimg.com/vi/tkxKnPklJhY/hqdefault.jpg",
-      "published_at": "2025-12-08",
-      "duration": "18:03",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片探討 AI 自動化技術的演進，建議開發者從傳統的 n8n 邏輯轉向建立更先進的自主 AI 系統。內容介紹了 Lindy AI 等新工具，教導如何構建能處理複雜任務的自動化代理，以應對未來的技術需求。",
-      "tags": [
-        "n8n",
-        "AI Automation",
-        "Lindy AI",
-        "自動化代理",
-        "生產力"
-      ],
-      "prompts": [],
-      "title_zh": "停止學習 n8n？在 2026 年打造全新 AI 系統",
-      "view_count": 84436
-    },
-    {
-      "id": "7SrT8SEAO8s",
-      "title": "Stop Learning n8n RIGHT NOW (do this instead)",
-      "title_highlight": "Stop Learning, Start Automating",
-      "url": "https://www.youtube.com/watch?v=7SrT8SEAO8s",
-      "thumbnail": "https://i.ytimg.com/vi/7SrT8SEAO8s/hqdefault.jpg",
-      "published_at": "2025-11-23",
-      "duration": "7:28",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片教導如何透過實踐而非死背來掌握自動化工具 n8n。建議利用現成的 AI 指令、模板和創意點子快速啟動自動化流程，而非耗費大量時間鑽研基礎理論，以更高效的方式建立自動化工作流。",
-      "tags": [
-        "n8n",
-        "自動化工作流",
-        "AI 效率"
-      ],
-      "prompts": [],
-      "title_zh": "現在立刻停止學習 n8n（改做這件事）",
-      "view_count": 66579
-    },
-    {
-      "id": "g1t_hmndPdo",
-      "title": "How to Build your First AI Agent in 1 Minute",
-      "title_highlight": "Build, AI Agent",
-      "url": "https://www.youtube.com/watch?v=g1t_hmndPdo",
-      "thumbnail": "https://i.ytimg.com/vi/g1t_hmndPdo/hqdefault.jpg",
-      "published_at": "2025-10-28",
-      "duration": "0:52",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導觀眾如何在短短一分鐘內快速建立自己的第一個 AI 代理人（AI Agent）。影片強調實作的高效率，並引導對 AI 開發感興趣的人透過免費課程深入學習。",
-      "tags": [
-        "AI Agent",
-        "人工智慧",
-        "快速教學",
-        "開發工具"
-      ],
-      "prompts": [],
-      "title_zh": "如何在一分鐘內建立你的第一個 AI 代理 (AI Agent)",
-      "view_count": 115467
-    },
-    {
-      "id": "MsQACpcuTkU",
-      "title": "You&#39;ve Been Using AI the Hard Way (Use This Instead)",
-      "title_highlight": "Using AI, AI Terminal",
-      "url": "https://www.youtube.com/watch?v=MsQACpcuTkU",
-      "thumbnail": "https://i.ytimg.com/vi/MsQACpcuTkU/hqdefault.jpg",
-      "published_at": "2025-10-28",
-      "duration": "33:44",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "影片介紹如何使用 Aider 終端機工具，讓 AI 直接讀取與修改本地專案檔案。這能取代在瀏覽器中頻繁複製貼上的繁瑣步驟，實現更高效的自動化開發流程與生產力提升。",
-      "tags": [
-        "AI",
-        "Aider",
-        "終端機",
-        "生產力",
-        "自動化"
-      ],
-      "prompts": [
-        "pip install aider-chat",
-        "aider --model gpt-4o"
-      ],
-      "title_zh": "你一直都在用最笨的方法使用 AI（改用這個吧）",
-      "view_count": 1720567
-    },
-    {
-      "id": "b9J1jVOa0kA",
-      "title": "I Built a Shopify Store in Minutes... Just by Talking to AI",
-      "title_highlight": "Built, Shopify Store, Talking to AI",
-      "url": "https://www.youtube.com/watch?v=b9J1jVOa0kA",
-      "thumbnail": "https://i.ytimg.com/vi/b9J1jVOa0kA/hqdefault.jpg",
-      "published_at": "2025-10-23",
-      "duration": "1:04",
-      "category": "E-Commerce",
-      "category_icon": "🛒",
-      "summary": "這部影片展示如何利用 Lovable AI 開發工具，透過簡單的對話在幾分鐘內快速建立一個功能完整的 Shopify 商店。影片強調了 AI 驅動開發的效率，讓使用者無需深入的程式知識即可完成電商平台架設。",
-      "tags": [
-        "Shopify",
-        "Lovable",
-        "AI 電商"
-      ],
-      "prompts": [
-        "Build a fully functional Shopify store"
-      ],
-      "title_zh": "我在幾分鐘內就開好了一家 Shopify 商店……只需與 AI 對話",
-      "view_count": 5851
-    },
-    {
-      "id": "o0VU6aQg7IM",
-      "title": "Stop Paying for AI APIs! Get Free Access to 100,000+ Models Now #AI #API #Startups #Free #Tech #LLM",
-      "title_highlight": "Stop Paying, Free Access",
-      "url": "https://www.youtube.com/watch?v=o0VU6aQg7IM",
-      "thumbnail": "https://i.ytimg.com/vi/o0VU6aQg7IM/hqdefault.jpg",
-      "published_at": "2025-10-21",
-      "duration": "0:23",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導開發者如何免費獲取超過十萬個 AI 模型的 API 存取權限。透過利用特定平台資源，新創公司與個人開發者無需支付昂貴費用即可使用 LLM 模型，大幅降低 AI 應用的開發門檻。",
-      "tags": [
-        "AI API",
-        "免費資源",
-        "LLM"
-      ],
-      "prompts": [],
-      "title_zh": "別再付錢買 AI API 了！現在免費取用超過 10 萬個模型 #AI #API #創業 #免費 #科技 #LLM",
-      "view_count": 215381
-    },
-    {
-      "id": "VhggkpZRlVA",
-      "title": "How to use Claude Code in Home Assistant",
-      "title_highlight": "Use Claude Code, Home Assistant",
-      "url": "https://www.youtube.com/watch?v=VhggkpZRlVA",
-      "thumbnail": "https://i.ytimg.com/vi/VhggkpZRlVA/hqdefault.jpg",
-      "published_at": "2025-10-18",
-      "duration": "17:33",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片教導如何將 Anthropic 的 Claude Code 與 Home Assistant 整合。透過 MCP 協議，使用者可以讓 AI 代理直接連動智慧家居系統，實現更直覺的設備控制與自動化配置。",
-      "tags": [
-        "Claude Code",
-        "Home Assistant",
-        "MCP"
-      ],
-      "prompts": [],
-      "title_zh": "如何在 Home Assistant 中使用 Claude Code",
-      "view_count": 38359
-    },
-    {
-      "id": "bS9R6aCVEzw",
-      "title": "n8n will change your life as a developer...",
-      "title_highlight": "n8n, automations, change life",
-      "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
-      "thumbnail": "https://i.ytimg.com/vi/bS9R6aCVEzw/hqdefault.jpg",
-      "published_at": "2025-09-29",
-      "duration": "5:56",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹開源工作流自動化工具 n8n，說明開發者如何透過自我代管來建立強大的自動化流程，以取代昂貴的 SaaS 平台並提升開發效率與生產力。",
-      "tags": [
-        "n8n",
-        "自動化",
-        "開發者工具",
-        "Workflow",
-        "自我代管"
-      ],
-      "prompts": [],
-      "title_zh": "n8n 將改變你身為開發者的生活……",
-      "view_count": 1106219
-    },
-    {
-      "id": "gEElEzKazYA",
-      "title": "N8n AI Agents are INSANE!!",
-      "title_highlight": "N8n, AI Agents, Automation",
-      "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
-      "thumbnail": "https://i.ytimg.com/vi/gEElEzKazYA/hqdefault.jpg",
-      "published_at": "2025-09-22",
-      "duration": "1:10",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片展示如何利用 n8n 自動化工具構建 AI 代理（AI Agents），透過整合多種 API 與工作流程，實現高度自動化的任務處理，顯著提升個人或企業的生產力。",
-      "tags": [
-        "n8n",
-        "AI Agents",
-        "自動化",
-        "生產力"
-      ],
-      "prompts": [],
-      "title_zh": "n8n 的 AI 代理太強大了！！",
-      "view_count": 670818
-    },
-    {
-      "id": "ofC4OeNjDx8",
-      "title": "Seriously, please watch this before you start learning n8n",
-      "title_highlight": "Learn n8n, Automation Guide",
-      "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
-      "thumbnail": "https://i.ytimg.com/vi/ofC4OeNjDx8/hqdefault.jpg",
-      "published_at": "2025-09-22",
-      "duration": "6:49",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片是專為 n8n 初學者準備的指南，說明在開始學習工作流程自動化前必須掌握的核心概念。影片旨在引導學習者建立正確的思維模式，並提供學習路徑建議以提高開發效率。",
-      "tags": [
-        "n8n",
-        "自動化",
-        "工作流程"
-      ],
-      "prompts": [],
-      "title_zh": "說真的，在開始學習 n8n 之前請務必看這段影片",
-      "view_count": 188901
-    },
-    {
-      "id": "e7umi6iC58o",
-      "title": "aimlapi.com - FREE API keys of Open AI, Anthropic, Grok, Deepseek and many more",
-      "title_highlight": "FREE API keys, Open AI, Anthropic, Deepseek",
-      "url": "https://www.youtube.com/watch?v=e7umi6iC58o",
-      "thumbnail": "https://i.ytimg.com/vi/e7umi6iC58o/hqdefault.jpg",
-      "published_at": "2025-09-14",
-      "duration": "0:12",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹了 aimlapi.com 平台，該平台整合並提供包含 OpenAI、Anthropic、Grok 和 Deepseek 等多種主流 AI 模型的免費 API 金鑰，方便開發者在單一介面存取多樣化的大型語言模型資源。",
-      "tags": [
-        "AI API",
-        "OpenAI",
-        "Anthropic",
-        "Deepseek",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "aimlapi.com - 免費取得 OpenAI、Anthropic、Grok、Deepseek 等多家 API 金鑰",
-      "view_count": 67456
-    },
-    {
-      "id": "HIHxDqGauJU",
-      "title": "The biggest difference between Claude Code and Cursor #ai #claudecode #cursor #claude",
-      "title_highlight": "Claude Code, Cursor, Difference",
-      "url": "https://www.youtube.com/watch?v=HIHxDqGauJU",
-      "thumbnail": "https://i.ytimg.com/vi/HIHxDqGauJU/hqdefault.jpg",
-      "published_at": "2025-08-15",
-      "duration": "0:24",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片比較了 Anthropic 推出的命令行工具 Claude Code 與 AI 編輯器 Cursor 之間的核心差異，協助開發者理解兩者在開發工作流中的不同定位與應用優勢。",
-      "tags": [
-        "Claude Code",
-        "Cursor",
-        "AI 編程工具",
-        "Anthropic",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "Claude Code 與 Cursor 之間的最大區別 #ai #claudecode #cursor #claude",
-      "view_count": 285120
-    },
-    {
-      "id": "4F3JeO4hxwg",
-      "title": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
-      "title_highlight": "Build Agent, WhatsApp Automation",
-      "url": "https://www.youtube.com/watch?v=4F3JeO4hxwg",
-      "thumbnail": "https://i.ytimg.com/vi/4F3JeO4hxwg/hqdefault.jpg",
-      "published_at": "2025-08-07",
-      "duration": "0:45",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片教導如何使用 n8n 自動化平台，結合 WhatsApp 與 ChatGPT 打造 AI 代理。使用者能透過 WhatsApp 以對話方式操作 Google Sheets 進行資料存取與管理，全程無需撰寫程式碼。",
-      "tags": [
-        "n8n",
-        "WhatsApp",
-        "Google Sheets",
-        "ChatGPT",
-        "AI Automation"
-      ],
-      "prompts": [],
-      "title_zh": "僅用 WhatsApp 和 ChatGPT 在 n8n 中建立你的第一個 Google 試算表代理 #n8n #AI自動化 (無程式碼)",
-      "view_count": 126133
-    },
-    {
-      "id": "kJDp6pgP_8o",
-      "title": "Automate WhatsApp replies with AI. No tech skills needed#ai #automation #productivity #n8n #whatsapp",
-      "title_highlight": "Automate WhatsApp, AI replies, n8n",
-      "url": "https://www.youtube.com/watch?v=kJDp6pgP_8o",
-      "thumbnail": "https://i.ytimg.com/vi/kJDp6pgP_8o/hqdefault.jpg",
-      "published_at": "2025-08-04",
-      "duration": "0:32",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片教導如何利用 n8n 自動化工具結合 AI 技術，在無需編寫程式碼的情況下，建立自動化 WhatsApp 回覆系統。適合想提升溝通效率、實現 24/7 自動客服的個人或企業使用。",
-      "tags": [
-        "WhatsApp 自動化",
-        "n8n",
-        "AI 客服",
-        "生產力工具",
-        "No-code"
-      ],
-      "prompts": [],
-      "title_zh": "用 AI 自動回覆 WhatsApp 訊息。無需技術背景 #ai #自動化 #生產力 #n8n #whatsapp",
-      "view_count": 8260
-    },
-    {
-      "id": "g2I5SaGTn4w",
-      "title": "2000+ Free n8n Workflows on GitHub  👨‍💻 | Boost Your Productivity Instantly! #shorts",
-      "title_highlight": "n8n Workflows, Boost Productivity",
-      "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
-      "thumbnail": "https://i.ytimg.com/vi/g2I5SaGTn4w/hqdefault.jpg",
-      "published_at": "2025-07-06",
-      "duration": "0:12",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片介紹了一個收錄超過 2000 個免費 n8n 自動化工作流的 GitHub 儲存庫，涵蓋從個人創業者到企業級的各種自動化需求，幫助使用者快速提升工作效率。",
-      "tags": [
-        "n8n",
-        "自動化工作流",
-        "GitHub"
-      ],
-      "prompts": [],
-      "title_zh": "GitHub 上超過 2000 個免費 n8n 工作流 👨‍💻 | 立即提升你的生產力！#shorts",
-      "view_count": 397353
-    },
-    {
-      "id": "hbr8oH2jyGs",
-      "title": "Use N8N premium features for free #n8n #premium #free #ai #aiagents #openai #claude #deepseek #tech",
-      "title_highlight": "Use n8n premium features",
-      "url": "https://www.youtube.com/watch?v=hbr8oH2jyGs",
-      "thumbnail": "https://i.ytimg.com/vi/hbr8oH2jyGs/hqdefault.jpg",
-      "published_at": "2025-05-20",
-      "duration": "0:53",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "本影片教導如何免費解鎖並使用 n8n 的進階功能。透過特定技巧，使用者無需付費即可利用 AI Agents、OpenAI、Claude 與 DeepSeek 等工具來建立強大的自動化工作流。",
-      "tags": [
-        "n8n",
-        "自動化",
-        "AI Agents",
-        "免費版",
-        "生產力工具"
-      ],
-      "prompts": [],
-      "title_zh": "免費使用 n8n 進階功能 #n8n #進階版 #免費 #ai #AI代理 #openai #claude #deepseek #科技",
-      "view_count": 310042
-    },
-    {
-      "id": "cgD-bTTe20I",
-      "title": "Stop Vibe Coding!! #ai #vibecoding",
-      "title_highlight": "Stop Vibe Coding",
-      "url": "https://www.youtube.com/watch?v=cgD-bTTe20I",
-      "thumbnail": "https://i.ytimg.com/vi/cgD-bTTe20I/hqdefault.jpg",
-      "published_at": "2025-05-05",
-      "duration": "0:50",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片探討了近期流行的「氛圍編程」（Vibe Coding）趨勢，提醒開發者在使用 AI 輔助開發時，不應只追求程式碼的生成速度與「感覺」，而應回歸技術本質，理解底層邏輯與架構，以確保軟體品質與可維護性。",
-      "tags": [
-        "Vibe Coding",
-        "AI 程式開發",
-        "軟體工程",
-        "LLM",
-        "Cursor"
-      ],
-      "prompts": [],
-      "title_zh": "別再「憑感覺寫程式」(Vibe Coding) 了！！ #ai #vibecoding",
-      "view_count": 584472
-    },
-    {
-      "id": "7CHr0qwTcJw",
-      "title": "MCP Protocol Is Changing Everything | The Secret Behind Scalable AI Agents #MCP #AiAgent #LLM",
-      "title_highlight": "Changing Everything, Scalable AI Agents",
-      "url": "https://www.youtube.com/watch?v=7CHr0qwTcJw",
-      "thumbnail": "https://i.ytimg.com/vi/7CHr0qwTcJw/hqdefault.jpg",
-      "published_at": "2025-04-25",
-      "duration": "0:59",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片深入解析 Model Context Protocol (MCP) 如何解決 LLM 在執行現實任務時的局限。透過此標準化協定，開發者能建立具備高度擴展性的 AI 代理，使其能更有效率地存取外部數據與工具。",
-      "tags": [
-        "MCP",
-        "AI Agents",
-        "LLM"
-      ],
-      "prompts": [],
-      "title_zh": "MCP 協定正在改變一切 | 可擴展 AI 代理背後的祕密 #MCP #AI代理 #LLM",
-      "view_count": 577915
-    },
-    {
-      "id": "_y3DtZmZYpc",
-      "title": "FREE AI APIs Forever! 🔥 OpenRouter Tutorial",
-      "title_highlight": "FREE AI APIs, OpenRouter Tutorial",
-      "url": "https://www.youtube.com/watch?v=_y3DtZmZYpc",
-      "thumbnail": "https://i.ytimg.com/vi/_y3DtZmZYpc/hqdefault.jpg",
-      "published_at": "2025-02-28",
-      "duration": "0:20",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導如何透過 OpenRouter 平台獲取免費的 AI API，幫助使用者大幅降低 AI 存取成本。內容涵蓋 OpenRouter 的設定與操作流程，讓你能零成本地串接並使用多種強大的 AI 模型。",
-      "tags": [
-        "OpenRouter",
-        "AI API",
-        "免費資源",
-        "LLM",
-        "教學"
-      ],
-      "prompts": [],
-      "title_zh": "永久免費 AI API！🔥 OpenRouter 教學",
-      "view_count": 312867
-    },
-    {
-      "id": "BcFtozm7UUo",
-      "title": "5 DevOps Projects for a strong resume💪",
-      "title_highlight": "DevOps Projects, Strong Resume",
-      "url": "https://www.youtube.com/watch?v=BcFtozm7UUo",
-      "thumbnail": "https://i.ytimg.com/vi/BcFtozm7UUo/hqdefault.jpg",
-      "published_at": "2025-02-25",
-      "duration": "0:09",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹了五個能強化履歷的 DevOps 專案，旨在透過實際的動手操作經驗，幫助學習者掌握雲端架構、自動化部署與 CI/CD 流程，進而提升在技術職場中的競爭力。",
-      "tags": [
-        "DevOps",
-        "履歷優化",
-        "專案實作"
-      ],
-      "prompts": [],
-      "title_zh": "5 個能強化履歷的 DevOps 專案💪",
-      "view_count": 204814
-    },
-    {
-      "id": "tZjmK4qdpe0",
-      "title": "NVIDIA RTX 5080 Ollama test",
-      "title_highlight": "RTX 5080, Ollama test",
-      "url": "https://www.youtube.com/watch?v=tZjmK4qdpe0",
-      "thumbnail": "https://i.ytimg.com/vi/tZjmK4qdpe0/hqdefault.jpg",
-      "published_at": "2025-02-09",
-      "duration": "0:21",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片測試 NVIDIA RTX 5080 顯示卡在 Ollama 環境下的效能表現。主要展示該顯卡運行本地大型語言模型（LLM）的推論速度，為 AI 開發者與硬體愛好者提供具體的性能參考。",
-      "tags": [
-        "NVIDIA RTX 5080",
-        "Ollama",
-        "AI 效能測試"
-      ],
-      "prompts": [],
-      "title_zh": "NVIDIA RTX 5080 Ollama 測試",
-      "view_count": 171660
-    },
-    {
-      "id": "2aC2ly7vKtM",
-      "title": "I Built the Ultimate Team of Agents in n8n  #artificialintelligence #n8n #agentgpt  #techtok #coding",
-      "title_highlight": "Built Agents, n8n",
-      "url": "https://www.youtube.com/watch?v=2aC2ly7vKtM",
-      "thumbnail": "https://i.ytimg.com/vi/2aC2ly7vKtM/hqdefault.jpg",
-      "published_at": "2025-02-03",
-      "duration": "0:56",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片介紹如何使用 n8n 平台建立 AI 代理團隊。透過將多個具備特定功能的 AI Agent 整合在一起，使用者可以實現複雜任務的自動化協作，大幅提升開發效率與工作流的智慧化程度。",
-      "tags": [
-        "n8n",
-        "AI Agents",
-        "自動化",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "我在 n8n 中建立了終極 AI 代理團隊 #人工智慧 #n8n #agentgpt #科技 #寫程式",
-      "view_count": 1170731
-    },
-    {
-      "id": "0nprdL9-C1k",
-      "title": "M4 Mac Mini setup - almost there!!",
-      "title_highlight": "M4 Mac Mini, setup",
-      "url": "https://www.youtube.com/watch?v=0nprdL9-C1k",
-      "thumbnail": "https://i.ytimg.com/vi/0nprdL9-C1k/hqdefault.jpg",
-      "published_at": "2025-01-30",
-      "duration": "0:15",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片紀錄了新款 M4 Mac Mini 的開箱與桌面環境設定過程，展示作者如何配置這台高效能微型電腦的工作空間，並分享即將完成安裝的心得。",
-      "tags": [
-        "M4 Mac Mini",
-        "Apple",
-        "桌面配置",
-        "電腦設定"
-      ],
-      "prompts": [],
-      "title_zh": "M4 Mac Mini 設定 - 快大功告成了！！",
-      "view_count": 189407
-    },
-    {
-      "id": "coFz9CvKnZE",
-      "title": "Your Automated Job Search &amp; Application AI Agent [No-code with n8n, LinkedIn, Deepseek &amp; Perplexity]",
-      "title_highlight": "Automated Job Search, AI Agent, n8n No-code",
-      "url": "https://www.youtube.com/watch?v=coFz9CvKnZE",
-      "thumbnail": "https://i.ytimg.com/vi/coFz9CvKnZE/hqdefault.jpg",
-      "published_at": "2025-01-26",
-      "duration": "0:34",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片教學如何利用 n8n 無程式碼自動化平台，結合 Deepseek 與 Perplexity 等 AI 技術，打造自動化求職代理人。透過整合 LinkedIn，實現自動搜尋職缺與填寫申請，大幅提升尋找工作的效率。",
-      "tags": [
-        "n8n",
-        "AI Agent",
-        "自動化求職",
-        "LinkedIn",
-        "Deepseek",
-        "Perplexity"
-      ],
-      "prompts": [],
-      "title_zh": "你的自動化求職與投遞履歷 AI 代理 [使用 n8n, LinkedIn, Deepseek & Perplexity，無程式碼]",
-      "view_count": 74867
-    },
-    {
-      "id": "qVwo2P4uCZM",
-      "title": "How I Got a 100% Free Lifetime Server (And You Can Too!)",
-      "title_highlight": "Get, Free, Lifetime Server",
-      "url": "https://www.youtube.com/watch?v=qVwo2P4uCZM",
-      "thumbnail": "https://i.ytimg.com/vi/qVwo2P4uCZM/hqdefault.jpg",
-      "published_at": "2025-01-21",
-      "duration": "4:23",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片教導如何獲取永久免費的雲端伺服器（VPS），詳細說明註冊流程與主機配置，讓開發者或技術愛好者能擁有不限期的免費運算資源，用於專案部署、學習架站或網路技術練習。",
-      "tags": [
-        "免費伺服器",
-        "VPS",
-        "Oracle Cloud",
-        "雲端主機",
-        "程式開發"
-      ],
-      "prompts": [],
-      "title_zh": "我如何獲得 100% 永久免費伺服器（你也可以！）",
-      "view_count": 658371
-    },
-    {
-      "id": "x8GMoBkcTQM",
-      "title": "How i&#39;ve built an entire SAAS using only AI tools",
-      "title_highlight": "built SAAS, AI tools",
-      "url": "https://www.youtube.com/watch?v=x8GMoBkcTQM",
-      "thumbnail": "https://i.ytimg.com/vi/x8GMoBkcTQM/hqdefault.jpg",
-      "published_at": "2025-01-10",
-      "duration": "0:24",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片展示如何完全利用 AI 工具開發出一套完整的 SAAS 產品。作者分享了其工作流程，並介紹如何透過 AI 代理與開發工具（如 Vectal）將開發效率提升 30%，讓創業者能更快速地從零到一實現軟體構想。",
-      "tags": [
-        "SAAS",
-        "AI工具",
-        "軟體開發"
-      ],
-      "prompts": [],
-      "title_zh": "我如何僅使用 AI 工具開發出整個 SaaS",
-      "view_count": 354260
-    },
-    {
-      "id": "FEYiBbJmH0k",
-      "title": "Apple Mac Mini M4: ONE BIG PROBLEM!",
-      "title_highlight": "Apple Mac Mini, M4, Review",
-      "url": "https://www.youtube.com/watch?v=FEYiBbJmH0k",
-      "thumbnail": "https://i.ytimg.com/vi/FEYiBbJmH0k/hqdefault.jpg",
-      "published_at": "2024-11-09",
-      "duration": "0:28",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部影片評測搭載 M4 晶片的全新 Mac Mini，分析其效能表現與 CP 值，並指出一個在使用上可能遇到的重大問題，提供消費者在購買這款高效能迷你電腦前的參考建議。",
-      "tags": [
-        "Apple",
-        "Mac Mini M4",
-        "產品評測"
-      ],
-      "prompts": [],
-      "title_zh": "Apple Mac Mini M4：一個大問題！",
-      "view_count": 946575
-    },
-    {
-      "id": "XvbVePuP7NY",
-      "title": "my local, AI Voice Assistant (I replaced Alexa!!)",
-      "title_highlight": "Local AI, Voice Assistant, Replace Alexa",
-      "url": "https://www.youtube.com/watch?v=XvbVePuP7NY",
-      "thumbnail": "https://i.ytimg.com/vi/XvbVePuP7NY/hqdefault.jpg",
-      "published_at": "2024-11-04",
-      "duration": "39:41",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片介紹如何建立一個本地運行的 AI 語音助理來取代 Alexa，重點在於隱私保護與去雲端化。內容涵蓋了硬體選擇與軟體配置流程，讓使用者能自主掌控智慧居家系統並提升反應速度。",
-      "tags": [
-        "AI Voice Assistant",
-        "Local AI",
-        "Smart Home",
-        "Privacy",
-        "Home Automation"
-      ],
-      "prompts": [],
-      "title_zh": "我的本地 AI 語音助手（我把 Alexa 換掉了！！）",
-      "view_count": 1364490
-    },
-    {
-      "id": "8Jkj8sgzEGE",
-      "title": "Not a problem 👌 #ai #interview #lockedinai #coding #shortsviral",
-      "title_highlight": "AI interview coding",
-      "url": "https://www.youtube.com/watch?v=8Jkj8sgzEGE",
-      "thumbnail": "https://i.ytimg.com/vi/8Jkj8sgzEGE/hqdefault.jpg",
-      "published_at": "2024-10-08",
-      "duration": "0:18",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片展示如何利用 LockedIn AI 工具在程式面試中獲取協助。透過 AI 即時分析問題並提供代碼建議，幫助面試者應對程式開發的挑戰，提升解決問題的效率與表現。",
-      "tags": [
-        "LockedIn AI",
-        "AI 面試",
-        "程式開發",
-        "Coding Interview"
-      ],
-      "prompts": [],
-      "title_zh": "沒問題 👌 #ai #面試 #lockedinai #寫程式 #熱門短片",
-      "view_count": 284132
-    },
-    {
-      "id": "hJw34RCyEcE",
-      "title": "AI Phone Calls: How to Automate Your Business Communication",
-      "title_highlight": "AI Phone Calls, Automate",
-      "url": "https://www.youtube.com/watch?v=hJw34RCyEcE",
-      "thumbnail": "https://i.ytimg.com/vi/hJw34RCyEcE/hqdefault.jpg",
-      "published_at": "2024-09-12",
-      "duration": "0:21",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "這部教學影片介紹如何利用人工智慧技術自動化企業電話通訊。透過 AI 處理商務來電，幫助企業提升溝通效率、節省人力成本並優化客戶服務流程。",
-      "tags": [
-        "AI 自動化",
-        "企業通訊",
-        "電話自動化"
-      ],
-      "prompts": [],
-      "title_zh": "AI 電話：如何自動化你的商業溝通",
-      "view_count": 122631
-    },
-    {
-      "id": "CpThDlFn7H4",
-      "title": "Watch how long it takes me to build a Shopify dropshipping store with Ai 👀",
-      "title_highlight": "Build Shopify Store, AI",
-      "url": "https://www.youtube.com/watch?v=CpThDlFn7H4",
-      "thumbnail": "https://i.ytimg.com/vi/CpThDlFn7H4/hqdefault.jpg",
-      "published_at": "2024-08-16",
-      "duration": "0:21",
-      "category": "E-Commerce",
-      "category_icon": "🛒",
-      "summary": "這部影片展示如何利用 AI 工具快速建立一個 Shopify 掉貨（Dropshipping）電商商店，重點在於透過 AI 自動化技術縮短從零開始架設商店的時間與流程。",
-      "tags": [
-        "Shopify",
-        "Dropshipping",
-        "AI",
-        "電子商務"
-      ],
-      "prompts": [],
-      "title_zh": "看看我用 AI 建立一個 Shopify 直運商店需要多久 👀",
-      "view_count": 341156
-    },
-    {
-      "id": "Ncv48xNDeDw",
-      "title": "We analyzed 6,000 LinkedIn accounts to determine how often you should post for optimal growth.",
-      "title_highlight": "Analyzed accounts, Post frequency, Optimal growth",
-      "url": "https://www.youtube.com/watch?v=Ncv48xNDeDw",
-      "thumbnail": "https://i.ytimg.com/vi/Ncv48xNDeDw/hqdefault.jpg",
-      "published_at": "2024-06-30",
-      "duration": "0:27",
-      "category": "內容行銷",
-      "category_icon": "📢",
-      "summary": "這部影片透過分析 6,000 個 LinkedIn 帳號的大數據，探討達成最佳成長所需的發文頻率。內容旨在提供實證性的策略建議，幫助使用者了解如何透過調整發佈節奏來優化社群觸及與帳號增長。",
-      "tags": [
-        "LinkedIn",
-        "社群經營",
-        "內容策略"
-      ],
-      "prompts": [],
-      "title_zh": "我們分析了 6,000 個 LinkedIn 帳號，以確定多久發文一次才能獲得最佳成長。",
-      "view_count": 269310
-    },
-    {
-      "id": "2uqlJ88tZLY",
-      "title": "How I’m automating my life using Python! 🐍💻 #programming #coding #python",
-      "title_highlight": "automating life, Python",
-      "url": "https://www.youtube.com/watch?v=2uqlJ88tZLY",
-      "thumbnail": "https://i.ytimg.com/vi/2uqlJ88tZLY/hqdefault.jpg",
-      "published_at": "2024-05-30",
-      "duration": "1:01",
-      "category": "程式開發",
-      "category_icon": "💻",
-      "summary": "這部影片探討如何運用 Python 程式語言來自動化日常生活中的各種任務。創作者分享了透過撰寫程式碼來處理重複性工作的過程，旨在提升個人生產力，並示範了程式開發在解決現實生活問題上的實際應用。",
-      "tags": [
-        "Python",
-        "自動化",
-        "生產力"
-      ],
-      "prompts": [],
-      "title_zh": "我如何使用 Python 自動化我的生活！🐍💻 #程式設計 #寫程式 #python",
-      "view_count": 106856
-    },
-    {
-      "id": "WqjOW3mY4PA",
-      "title": "Here’s why Home Assistant is the smart home king 👑",
-      "title_highlight": "Home Assistant, Smart home",
-      "url": "https://www.youtube.com/watch?v=WqjOW3mY4PA",
-      "thumbnail": "https://i.ytimg.com/vi/WqjOW3mY4PA/hqdefault.jpg",
-      "published_at": "2024-04-18",
-      "duration": "0:42",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片介紹了 Home Assistant 成為智慧家庭首選的原因，強調其開源、高度整合及隱私控制等核心優勢，讓使用者能打造完全自定義且強大的自動化居家系統。",
-      "tags": [
-        "Home Assistant",
-        "智慧居家",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "這就是為什麼 Home Assistant 是智慧家庭之王 👑",
-      "view_count": 424025
-    },
-    {
-      "id": "TGzc1ouvrrM",
-      "title": "Insane home automation idea 🤯",
-      "title_highlight": "Home automation, Turn on lights",
-      "url": "https://www.youtube.com/watch?v=TGzc1ouvrrM",
-      "thumbnail": "https://i.ytimg.com/vi/TGzc1ouvrrM/hqdefault.jpg",
-      "published_at": "2023-12-04",
-      "duration": "0:28",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片分享了一個創意的智慧居家自動化構想，介紹如何利用震動感應器來觸發廚房燈光，讓使用者在進入廚房或進行活動時能自動開啟照明，提升生活便利性。",
-      "tags": [
-        "智慧居家",
-        "Home Automation",
-        "震動感應",
-        "照明自動化"
-      ],
-      "prompts": [],
-      "title_zh": "超瘋狂的家庭自動化點子 🤯",
-      "view_count": 379120
-    },
-    {
-      "id": "QC3w7kfeM1s",
-      "title": "Why YOUR AI Business WONT Make It If You Do This.. #shorts #business #entrepreneur",
-      "title_highlight": "AI Business, Innovation, Growth",
-      "url": "https://www.youtube.com/watch?v=QC3w7kfeM1s",
-      "thumbnail": "https://i.ytimg.com/vi/QC3w7kfeM1s/hqdefault.jpg",
-      "published_at": "2023-10-27",
-      "duration": "0:42",
-      "category": "其他",
-      "category_icon": "📌",
-      "summary": "這部影片警示 AI 創業者若忽視特定關鍵要素，將導致企業難以生存。內容強調了創新與持續成長的重要性，提醒經營者必須關注能推動業務長久發展的核心環節。",
-      "tags": [
-        "AI 創業",
-        "商業策略",
-        "企業成長",
-        "創業誤區"
-      ],
-      "prompts": [],
-      "title_zh": "為什麼如果你這麼做，你的 AI 事業就不會成功…… #shorts #商業 #創業",
-      "view_count": 130516
-    },
-    {
-      "id": "4wlTzmcDOrs",
-      "title": "Learn how to build a Second Brain. #notion #productivity #secondbrain #productivityhacks",
-      "title_highlight": "Build Second Brain",
-      "url": "https://www.youtube.com/watch?v=4wlTzmcDOrs",
-      "thumbnail": "https://i.ytimg.com/vi/4wlTzmcDOrs/hqdefault.jpg",
-      "published_at": "2023-07-04",
-      "duration": "0:22",
-      "category": "生產力",
-      "category_icon": "⚡",
-      "summary": "此影片教導如何利用 Notion 建立「第二大腦」系統，透過數位化的知識管理方法，幫助使用者有效整理資訊、釋放認知負擔，進而大幅提升個人生產力與學習效率。",
-      "tags": [
-        "Second Brain",
-        "Notion",
-        "生產力",
-        "知識管理"
-      ],
-      "prompts": [],
-      "title_zh": "學習如何建立「第二大腦」。#notion #生產力 #第二大腦 #生產力技巧",
-      "view_count": 334057
-    },
-    {
-      "id": "SbGL6p7FSJU",
-      "title": "real life jarvis 🤯",
-      "title_highlight": "real life jarvis",
-      "url": "https://www.youtube.com/watch?v=SbGL6p7FSJU",
-      "thumbnail": "https://i.ytimg.com/vi/SbGL6p7FSJU/hqdefault.jpg",
-      "published_at": "2023-05-19",
-      "duration": "0:31",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片展示如何打造現實版的 Jarvis AI 助理，透過語音互動與自動化技術模擬鋼鐵人的智慧系統，將 AI 應用於日常生活管理與智慧居家控制。",
-      "tags": [
-        "Jarvis",
-        "AI 助理",
-        "語音辨識",
-        "智慧居家",
-        "自動化"
-      ],
-      "prompts": [],
-      "title_zh": "真實版賈維斯 🤯",
-      "view_count": 354977
-    },
-    {
-      "id": "eTigh24z8_E",
-      "title": "ChatGPT + Home Assistant + Siri Smart Home level up. #chatgpt #ai #smarthome #homeassistant #techtok",
-      "title_highlight": "Connecting ChatGPT, Home Assistant, Level up",
-      "url": "https://www.youtube.com/watch?v=eTigh24z8_E",
-      "thumbnail": "https://i.ytimg.com/vi/eTigh24z8_E/hqdefault.jpg",
-      "published_at": "2023-02-01",
-      "duration": "0:57",
-      "category": "智慧居家",
-      "category_icon": "🏡",
-      "summary": "這部影片介紹如何整合 ChatGPT、Home Assistant 與 Siri，將智慧家居提升到更高層次，實現更先進且具備 AI 思考能力的語音自動化控制。",
-      "tags": [
-        "ChatGPT",
-        "Home Assistant",
-        "智慧居家"
-      ],
-      "prompts": [],
-      "title_zh": "ChatGPT + Home Assistant + Siri 讓智慧家庭升級。#chatgpt #ai #智慧家庭 #homeassistant #科技",
-      "view_count": 271332
-    },
-    {
-      "id": "tmI2Qd89L9U",
-      "title": "Shopify Store Bots #jewelrydesigner #jewelryaddict #jewelrydesigner #shopify #bot",
-      "title_highlight": "Shopify Store Bots",
-      "url": "https://www.youtube.com/watch?v=tmI2Qd89L9U",
-      "thumbnail": "https://i.ytimg.com/vi/tmI2Qd89L9U/hqdefault.jpg",
-      "published_at": "2022-05-09",
-      "duration": "0:16",
-      "category": "E-Commerce",
-      "category_icon": "🛒",
-      "summary": "這部影片介紹如何為 Shopify 商店設定自動化機器人（Bots），特別針對珠寶設計師與飾品電商，展示透過自動化工具提升店鋪管理效率與銷售的應用場景。",
-      "tags": [
-        "Shopify",
-        "自動化機器人",
-        "電子商務"
-      ],
-      "prompts": [],
-      "title_zh": "Shopify 商店機器人 #珠寶設計師 #珠寶控 #珠寶設計 #shopify #機器人",
-      "view_count": 870
     }
   ]
 }
