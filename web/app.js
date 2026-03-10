@@ -2,6 +2,7 @@
 let allVideos = [];
 let activeCategory = 'All';
 let searchQuery = '';
+let sortOrder = 'default';
 
 // ── Helpers ──
 function formatViews(n) {
@@ -163,7 +164,7 @@ function buildFallbackPrompt(v) {
 
 // ── Cards ──
 function getFiltered() {
-  return allVideos.filter(v => {
+  const filtered = allVideos.filter(v => {
     const matchCat = activeCategory === 'All' || v.category === activeCategory;
     const matchSearch = !searchQuery ||
       v.title.toLowerCase().includes(searchQuery) ||
@@ -171,6 +172,11 @@ function getFiltered() {
       (v.tags || []).some(t => t.toLowerCase().includes(searchQuery));
     return matchCat && matchSearch;
   });
+
+  if (sortOrder === 'views_desc') filtered.sort((a, b) => (b.view_count || 0) - (a.view_count || 0));
+  else if (sortOrder === 'views_asc') filtered.sort((a, b) => (a.view_count || 0) - (b.view_count || 0));
+
+  return filtered;
 }
 
 function renderCards() {
@@ -269,5 +275,15 @@ document.addEventListener('DOMContentLoaded', () => {
     searchQuery = e.target.value.toLowerCase();
     renderCards();
   });
+
+  document.querySelectorAll('.sort-pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      sortOrder = pill.dataset.sort;
+      document.querySelectorAll('.sort-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      renderCards();
+    });
+  });
+
   init();
 });

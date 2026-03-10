@@ -133,6 +133,22 @@ body {
 .pill:hover { border-color: var(--accent); color: var(--accent); }
 .pill.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
 
+.sort-row { display: flex; align-items: center; gap: 8px; }
+.sort-label { font-size: 13px; color: var(--muted); white-space: nowrap; }
+.sort-pill {
+  padding: 5px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--muted);
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.sort-pill:hover { border-color: var(--accent); color: var(--accent); }
+.sort-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+
 /* ── Card Grid ── */
 .card-grid {
   display: grid;
