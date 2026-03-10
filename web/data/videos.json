@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:46:15.609974",
+  "last_updated": "2026-03-10T05:46:09.701706",
   "total": 544,
   "videos": [
     {
@@ -21,7 +21,8 @@
         "AI 代理"
       ],
       "prompts": [],
-      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！"
+      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！",
+      "view_count": 20
     },
     {
       "id": "eskNOq7x_go",
@@ -42,7 +43,8 @@
         "Ollama"
       ],
       "prompts": [],
-      "title_zh": "Accomplish 完勝 OpenClaw？"
+      "title_zh": "Accomplish 完勝 OpenClaw？",
+      "view_count": 19035
     },
     {
       "id": "APBV7dl_ce8",
@@ -63,7 +65,8 @@
         "自動化工具"
       ],
       "prompts": [],
-      "title_zh": "全新免費 OpenClaw 更新：AI 代理 + App！"
+      "title_zh": "全新免費 OpenClaw 更新：AI 代理 + App！",
+      "view_count": 2450
     },
     {
       "id": "IpcYLLlJI4U",
@@ -84,7 +87,8 @@
         "ThePopeBot"
       ],
       "prompts": [],
-      "title_zh": "n8n、OpenClaw 和 Make 完蛋了（我的新 AI 代理把它們埋葬了）"
+      "title_zh": "n8n、OpenClaw 和 Make 完蛋了（我的新 AI 代理把它們埋葬了）",
+      "view_count": 18146
     },
     {
       "id": "WG_5HSq-Tt4",
@@ -103,7 +107,8 @@
         "SaaS"
       ],
       "prompts": [],
-      "title_zh": "構建並部署全端自主 AI 代理 SaaS（類 OpenClaw）- Next.js, React, Claude"
+      "title_zh": "構建並部署全端自主 AI 代理 SaaS（類 OpenClaw）- Next.js, React, Claude",
+      "view_count": 13412
     },
     {
       "id": "JRo6Ww0H0B0",
@@ -124,7 +129,8 @@
         "數位產品"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新 AI 什麼都能做！（完全免費！）"
+      "title_zh": "OpenClaw 全新 AI 什麼都能做！（完全免費！）",
+      "view_count": 4862
     },
     {
       "id": "ehfTs0wdW5g",
@@ -145,7 +151,8 @@
         "VPS"
       ],
       "prompts": [],
-      "title_zh": "我用 Python 打造了 24/7 全天候找工作的 OpenClaw 代理 🦞🤖"
+      "title_zh": "我用 Python 打造了 24/7 全天候找工作的 OpenClaw 代理 🦞🤖",
+      "view_count": 24020
     },
     {
       "id": "0E_jrH5zSz4",
@@ -165,7 +172,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 與 Home Assistant 智慧家庭的連動。#homeassistant #openclaw"
+      "title_zh": "OpenClaw 與 Home Assistant 智慧家庭的連動。#homeassistant #openclaw",
+      "view_count": 8328
     },
     {
       "id": "p0fllSIj2Yo",
@@ -186,7 +194,8 @@
         "自動化教學"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整教學 (2026) 🚀 Windows 安裝 + 免費 API Key + Telegram 機器人設定 #openclaw"
+      "title_zh": "OpenClaw 完整教學 (2026) 🚀 Windows 安裝 + 免費 API Key + Telegram 機器人設定 #openclaw",
+      "view_count": 50
     },
     {
       "id": "cI_to-yFojY",
@@ -207,7 +216,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：全新免費任務控制中心"
+      "title_zh": "OpenClaw：全新免費任務控制中心",
+      "view_count": 4510
     },
     {
       "id": "iG_KxUSLm1o",
@@ -235,7 +245,8 @@
         "openclaw dashboard",
         "openclaw pairing list telegram"
       ],
-      "title_zh": "如何將 OpenClaw 連接到 Telegram + 開啟瀏覽器存取 | 逐步指南 | TechSober"
+      "title_zh": "如何將 OpenClaw 連接到 Telegram + 開啟瀏覽器存取 | 逐步指南 | TechSober",
+      "view_count": 184
     },
     {
       "id": "seylWljtV48",
@@ -256,7 +267,8 @@
         "Microsoft 365"
       ],
       "prompts": [],
-      "title_zh": "微軟全新 AI 代理完勝 OpenClaw？"
+      "title_zh": "微軟全新 AI 代理完勝 OpenClaw？",
+      "view_count": 6047
     },
     {
       "id": "0ukS2hTFDow",
@@ -277,7 +289,8 @@
         "自動化配置"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新免費更新！"
+      "title_zh": "OpenClaw 全新免費更新！",
+      "view_count": 5743
     },
     {
       "id": "R51RY6Q7bNk",
@@ -298,7 +311,8 @@
         "Life Admin"
       ],
       "prompts": [],
-      "title_zh": "自動化處理你平時忽略的「生活雜事」"
+      "title_zh": "自動化處理你平時忽略的「生活雜事」",
+      "view_count": 1484
     },
     {
       "id": "-MtzLiQ9w1c",
@@ -319,7 +333,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "我如何以每月 6 美元運行 19 個 OpenClaw 代理 | Clawdbot API 成本優化"
+      "title_zh": "我如何以每月 6 美元運行 19 個 OpenClaw 代理 | Clawdbot API 成本優化",
+      "view_count": 33980
     },
     {
       "id": "Wwm8QhLpecs",
@@ -338,7 +353,8 @@
         "智慧居家"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 管理 Home Assistant 智慧家庭"
+      "title_zh": "使用 OpenClaw 管理 Home Assistant 智慧家庭",
+      "view_count": 10802
     },
     {
       "id": "P8cOfwX3sRg",
@@ -358,7 +374,8 @@
         "開源專案"
       ],
       "prompts": [],
-      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！"
+      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！",
+      "view_count": 1028
     },
     {
       "id": "qCQszXeNFxA",
@@ -377,7 +394,8 @@
         "OpenClaw"
       ],
       "prompts": [],
-      "title_zh": "Agent Zero vs OpenClaw：真正的區別"
+      "title_zh": "Agent Zero vs OpenClaw：真正的區別",
+      "view_count": 18141
     },
     {
       "id": "P8cOfwX3sRg",
@@ -398,7 +416,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！"
+      "title_zh": "這些 OpenClaw 使用案例太瘋狂了！",
+      "view_count": 1028
     },
     {
       "id": "TZya5hsVAzg",
@@ -421,7 +440,8 @@
         "Search for the latest news about SpaceX and summarize the top 3 headlines.",
         "Find a one-way flight from New York to London on July 1st for under $500."
       ],
-      "title_zh": "34 個超瘋狂的 OpenClaw 使用案例！"
+      "title_zh": "34 個超瘋狂的 OpenClaw 使用案例！",
+      "view_count": 5102
     },
     {
       "id": "w_fsQttQ9fY",
@@ -442,7 +462,8 @@
         "InfraNodus"
       ],
       "prompts": [],
-      "title_zh": "針對文件智能的 OpenClaw 安全 AI 代理設定"
+      "title_zh": "針對文件智能的 OpenClaw 安全 AI 代理設定",
+      "view_count": 1420
     },
     {
       "id": "AbcQjO8mIB4",
@@ -463,7 +484,8 @@
         "VPS"
       ],
       "prompts": [],
-      "title_zh": "如何用 OpenClaw 賺錢（一步步教學）"
+      "title_zh": "如何用 OpenClaw 賺錢（一步步教學）",
+      "view_count": 4094
     },
     {
       "id": "LpMn08jW02A",
@@ -482,7 +504,8 @@
         "矽谷趨勢"
       ],
       "prompts": [],
-      "title_zh": "AI 個人助手正在毀掉人們的生活 | TheStandup"
+      "title_zh": "AI 個人助手正在毀掉人們的生活 | TheStandup",
+      "view_count": 136983
     },
     {
       "id": "qLI_5e8IsSY",
@@ -503,7 +526,8 @@
         "封號潮"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw vs Google - 大規模封號潮！"
+      "title_zh": "OpenClaw vs Google - 大規模封號潮！",
+      "view_count": 34237
     },
     {
       "id": "aahMd7s_EDM",
@@ -524,7 +548,8 @@
         "AI Agents"
       ],
       "prompts": [],
-      "title_zh": "一鍵讓 OpenClaw 強大 10 倍的方法！"
+      "title_zh": "一鍵讓 OpenClaw 強大 10 倍的方法！",
+      "view_count": 10817
     },
     {
       "id": "wXTqHgIfyuE",
@@ -544,7 +569,8 @@
         "AI 工具設定"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 太貴了？試試這個替代方案（成本降低 97%）"
+      "title_zh": "OpenClaw 太貴了？試試這個替代方案（成本降低 97%）",
+      "view_count": 20159
     },
     {
       "id": "yI_IeCkRiR4",
@@ -565,7 +591,8 @@
         "生產力提升"
       ],
       "prompts": [],
-      "title_zh": "20 個驚人的 OpenClaw 機器人案例！20 種行業，200 項技能"
+      "title_zh": "20 個驚人的 OpenClaw 機器人案例！20 種行業，200 項技能",
+      "view_count": 1725
     },
     {
       "id": "P8FHMzjYR_g",
@@ -586,7 +613,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新技能更新太瘋狂了！"
+      "title_zh": "OpenClaw 全新技能更新太瘋狂了！",
+      "view_count": 12452
     },
     {
       "id": "GansiD6Mk5Y",
@@ -607,7 +635,8 @@
         "加密貨幣"
       ],
       "prompts": [],
-      "title_zh": "我給了 3 個 AI 代理各 1,000 美元 (OpenClaw)"
+      "title_zh": "我給了 3 個 AI 代理各 1,000 美元 (OpenClaw)",
+      "view_count": 97544
     },
     {
       "id": "0RvF4k0bt9w",
@@ -628,7 +657,8 @@
         "Telegram 機器人"
       ],
       "prompts": [],
-      "title_zh": "MaxClaw 完勝 OpenClaw？"
+      "title_zh": "MaxClaw 完勝 OpenClaw？",
+      "view_count": 30892
     },
     {
       "id": "5EuTQtlbodk",
@@ -649,7 +679,8 @@
         "人工智慧助手"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 馬尼拉 - 2026 年 2 月"
+      "title_zh": "OpenClaw 馬尼拉 - 2026 年 2 月",
+      "view_count": 612
     },
     {
       "id": "zPV7ivRoxpA",
@@ -669,7 +700,8 @@
         "Home Assistant"
       ],
       "prompts": [],
-      "title_zh": "在迷你 PC 上嘗試運用 OpenClaw 家庭伺服器 (N100 PC Home Assistant)"
+      "title_zh": "在迷你 PC 上嘗試運用 OpenClaw 家庭伺服器 (N100 PC Home Assistant)",
+      "view_count": 5669
     },
     {
       "id": "CFBZzLU3IQI",
@@ -690,7 +722,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "安全版 OpenClaw 來了：它到底能做什麼"
+      "title_zh": "安全版 OpenClaw 來了：它到底能做什麼",
+      "view_count": 20118
     },
     {
       "id": "L3saJMjMZAg",
@@ -709,7 +742,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：從「上帝模式」AI 變成惡意軟體帝國"
+      "title_zh": "OpenClaw：從「上帝模式」AI 變成惡意軟體帝國",
+      "view_count": 11238
     },
     {
       "id": "miJLo234L9s",
@@ -730,7 +764,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "336 種 OpenClaw 用法（這裡有真正有效的方法）"
+      "title_zh": "336 種 OpenClaw 用法（這裡有真正有效的方法）",
+      "view_count": 41815
     },
     {
       "id": "ooVwTXYoIHM",
@@ -751,7 +786,8 @@
         "Claude"
       ],
       "prompts": [],
-      "title_zh": "這個新 AI 代理剛幹掉了 Claude CoWork（超狂案例）"
+      "title_zh": "這個新 AI 代理剛幹掉了 Claude CoWork（超狂案例）",
+      "view_count": 44609
     },
     {
       "id": "ocQ7ZKhHU5Q",
@@ -775,7 +811,8 @@
         "npm install -g @anthropic-ai/claude-code",
         "claude"
       ],
-      "title_zh": "手機版 Claude Code 正式發佈（它改變了一切）"
+      "title_zh": "手機版 Claude Code 正式發佈（它改變了一切）",
+      "view_count": 208903
     },
     {
       "id": "AXZ3OxQbhiw",
@@ -798,7 +835,8 @@
       "prompts": [
         "npx @anthropic-ai/claude-code"
       ],
-      "title_zh": "Claude Code 剛剛擊敗了 OpenClaw（遠端控制 + 完整代理設定）"
+      "title_zh": "Claude Code 剛剛擊敗了 OpenClaw（遠端控制 + 完整代理設定）",
+      "view_count": 3670
     },
     {
       "id": "wstKGTm9EYg",
@@ -819,7 +857,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "SwitchBot AI Hub 展示"
+      "title_zh": "SwitchBot AI Hub 展示",
+      "view_count": 110826
     },
     {
       "id": "dmMDZQE8GuQ",
@@ -840,7 +879,8 @@
         "Smart Home Camera"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 存取了我的智慧家庭攝影機"
+      "title_zh": "OpenClaw 存取了我的智慧家庭攝影機",
+      "view_count": 801
     },
     {
       "id": "O1cyjMM7mP4",
@@ -861,7 +901,8 @@
         "AI自動化"
       ],
       "prompts": [],
-      "title_zh": "【免費 OpenClaw】18 分鐘搞定！免費用 Ollama 玩轉 OpenClaw + 常見玩法 + 飛書機器人"
+      "title_zh": "【免費 OpenClaw】18 分鐘搞定！免費用 Ollama 玩轉 OpenClaw + 常見玩法 + 飛書機器人",
+      "view_count": 1702
     },
     {
       "id": "kUzgjv01mRU",
@@ -882,7 +923,8 @@
         "數據抓取"
       ],
       "prompts": [],
-      "title_zh": "最強網頁爬蟲 Chrome 擴充功能 #webscraping #data #scraper #aiagents #openclaw #ecommerce"
+      "title_zh": "最強網頁爬蟲 Chrome 擴充功能 #webscraping #data #scraper #aiagents #openclaw #ecommerce",
+      "view_count": 7063
     },
     {
       "id": "ZXf5y14EbGM",
@@ -903,7 +945,8 @@
         "自動化增長"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw AI 代理在 5 天內獲得 50 萬次觀看和 700 美元 MRR"
+      "title_zh": "OpenClaw AI 代理在 5 天內獲得 50 萬次觀看和 700 美元 MRR",
+      "view_count": 18320
     },
     {
       "id": "KN2XuvhdZEo",
@@ -924,7 +967,8 @@
         "私人助理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Ollama + Qwen 3.5 太強了（免費！）"
+      "title_zh": "OpenClaw + Ollama + Qwen 3.5 太強了（免費！）",
+      "view_count": 17763
     },
     {
       "id": "D_YzcH0VsGY",
@@ -943,7 +987,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "我這輩子用過最強大的 AI 代理"
+      "title_zh": "我這輩子用過最強大的 AI 代理",
+      "view_count": 504820
     },
     {
       "id": "s0eMOuzJuTY",
@@ -963,7 +1008,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "我如何將 OpenClaw 用於 AI SEO（真實案例）"
+      "title_zh": "我如何將 OpenClaw 用於 AI SEO（真實案例）",
+      "view_count": 220
     },
     {
       "id": "D_YzcH0VsGY",
@@ -984,7 +1030,8 @@
         "Manus"
       ],
       "prompts": [],
-      "title_zh": "我這輩子用過最強大的 AI 代理"
+      "title_zh": "我這輩子用過最強大的 AI 代理",
+      "view_count": 504820
     },
     {
       "id": "0DBNwF_gP4Q",
@@ -1005,7 +1052,8 @@
         "AI 搜尋"
       ],
       "prompts": [],
-      "title_zh": "Perplexity Computer 完勝 OpenClaw？"
+      "title_zh": "Perplexity Computer 完勝 OpenClaw？",
+      "view_count": 23596
     },
     {
       "id": "s0eMOuzJuTY",
@@ -1025,7 +1073,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "我如何將 OpenClaw 用於 AI SEO（真實案例）"
+      "title_zh": "我如何將 OpenClaw 用於 AI SEO（真實案例）",
+      "view_count": 220
     },
     {
       "id": "C4fTWiOGXpM",
@@ -1046,7 +1095,8 @@
         "OpenClaw"
       ],
       "prompts": [],
-      "title_zh": "我用 AntiGravity 取代了 OpenClaw... 簡直太猛了"
+      "title_zh": "我用 AntiGravity 取代了 OpenClaw... 簡直太猛了",
+      "view_count": 45794
     },
     {
       "id": "9B3efFw6_HQ",
@@ -1067,7 +1117,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：打造一整支行銷團隊！（強大到離譜）🤯"
+      "title_zh": "OpenClaw：打造一整支行銷團隊！（強大到離譜）🤯",
+      "view_count": 4458
     },
     {
       "id": "WSata1-1IJQ",
@@ -1088,7 +1139,8 @@
         "Telegram"
       ],
       "prompts": [],
-      "title_zh": "15 分鐘從零到一打造首個 AI 助手 (OpenClaw)"
+      "title_zh": "15 分鐘從零到一打造首個 AI 助手 (OpenClaw)",
+      "view_count": 26597
     },
     {
       "id": "JiA4fvoeUfI",
@@ -1108,7 +1160,8 @@
         "收件匣清理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 刪除了整個收件匣"
+      "title_zh": "OpenClaw 刪除了整個收件匣",
+      "view_count": 255096
     },
     {
       "id": "5iZ8bdNiRno",
@@ -1129,7 +1182,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新更新強大到離譜！"
+      "title_zh": "OpenClaw 全新更新強大到離譜！",
+      "view_count": 9680
     },
     {
       "id": "eIKZ67ggW3s",
@@ -1149,7 +1203,8 @@
         "OpenAI"
       ],
       "prompts": [],
-      "title_zh": "醫療保健的代理式 AI 時代：來自 OpenClaw 的啟示"
+      "title_zh": "醫療保健的代理式 AI 時代：來自 OpenClaw 的啟示",
+      "view_count": 110
     },
     {
       "id": "dL03HfpM3X8",
@@ -1170,7 +1225,8 @@
         "AI 機器人"
       ],
       "prompts": [],
-      "title_zh": "每個電商品牌都需要的 Clawd Bot 自動化工具！(OpenClaw)"
+      "title_zh": "每個電商品牌都需要的 Clawd Bot 自動化工具！(OpenClaw)",
+      "view_count": 4349
     },
     {
       "id": "uUN1oy2PRHo",
@@ -1191,7 +1247,8 @@
         "任務管理"
       ],
       "prompts": [],
-      "title_zh": "如何為 OpenClaw 代理建立工作任務"
+      "title_zh": "如何為 OpenClaw 代理建立工作任務",
+      "view_count": 45645
     },
     {
       "id": "9f38h_GooA8",
@@ -1212,7 +1269,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果"
+      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果",
+      "view_count": 70377
     },
     {
       "id": "9f38h_GooA8",
@@ -1233,7 +1291,8 @@
         "軟體開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果"
+      "title_zh": "OpenClaw vs Claude Code | 設置、速度、安全性與真實結果",
+      "view_count": 70377
     },
     {
       "id": "VmEa3fVvZDw",
@@ -1254,7 +1313,8 @@
         "Matthew Berman"
       ],
       "prompts": [],
-      "title_zh": "他們被抓包了..."
+      "title_zh": "他們被抓包了...",
+      "view_count": 93581
     },
     {
       "id": "7uSiji1gwnA",
@@ -1275,7 +1335,8 @@
         "本地運行"
       ],
       "prompts": [],
-      "title_zh": "全新 OpenClaw + Ollama 組合強大到離譜！"
+      "title_zh": "全新 OpenClaw + Ollama 組合強大到離譜！",
+      "view_count": 10383
     },
     {
       "id": "yqi7JXC0tRE",
@@ -1300,7 +1361,8 @@
         "claude",
         "claude setup-token"
       ],
-      "title_zh": "10 分鐘將 OpenClaw/Clawdbot 從 API 切換至 OAuth（超簡單）"
+      "title_zh": "10 分鐘將 OpenClaw/Clawdbot 從 API 切換至 OAuth（超簡單）",
+      "view_count": 2885
     },
     {
       "id": "FbepQKTwcbA",
@@ -1321,7 +1383,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "21 分鐘掌握 6 個 OpenClaw 應用案例"
+      "title_zh": "21 分鐘掌握 6 個 OpenClaw 應用案例",
+      "view_count": 4525
     },
     {
       "id": "s1-2QISKmj8",
@@ -1342,7 +1405,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "關於 OpenClaw 你需要知道的一切"
+      "title_zh": "關於 OpenClaw 你需要知道的一切",
+      "view_count": 50191
     },
     {
       "id": "nZfIvjcFEw4",
@@ -1361,7 +1425,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：開箱並設置我的全新 24/7 Nvidia 驅動 #ai #代理 設備"
+      "title_zh": "OpenClaw：開箱並設置我的全新 24/7 Nvidia 驅動 #ai #代理 設備",
+      "view_count": 1258
     },
     {
       "id": "dVZha20VsE8",
@@ -1380,7 +1445,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 最新更新強大到離譜！"
+      "title_zh": "OpenClaw 最新更新強大到離譜！",
+      "view_count": 19573
     },
     {
       "id": "YCD2FSvj35I",
@@ -1401,7 +1467,8 @@
         "VPS"
       ],
       "prompts": [],
-      "title_zh": "安全的 OpenClaw 設置指南 (ClawdBot 教學)"
+      "title_zh": "安全的 OpenClaw 設置指南 (ClawdBot 教學)",
+      "view_count": 31577
     },
     {
       "id": "9Svv-n11Ysk",
@@ -1422,7 +1489,8 @@
         "程式自動化"
       ],
       "prompts": [],
-      "title_zh": "我在一天內用 Claude Code 取代了 OpenClaw"
+      "title_zh": "我在一天內用 Claude Code 取代了 OpenClaw",
+      "view_count": 65652
     },
     {
       "id": "gU5KDeTb1JY",
@@ -1443,7 +1511,8 @@
         "人工智慧"
       ],
       "prompts": [],
-      "title_zh": "14 個 AI 代理 24 小時為我工作 (OpenClaw 取代了我) | 100% AI 電商 #2"
+      "title_zh": "14 個 AI 代理 24 小時為我工作 (OpenClaw 取代了我) | 100% AI 電商 #2",
+      "view_count": 16342
     },
     {
       "id": "3110hx3ygp0",
@@ -1463,7 +1532,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "我花了 50 億個 Token 來完善 OpenClaw..."
+      "title_zh": "我花了 50 億個 Token 來完善 OpenClaw...",
+      "view_count": 78815
     },
     {
       "id": "aMQVcJHHRVM",
@@ -1484,7 +1554,8 @@
         "生產力自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 只用一個提示詞就建好了價值 25 萬美金的任務控制台"
+      "title_zh": "OpenClaw 只用一個提示詞就建好了價值 25 萬美金的任務控制台",
+      "view_count": 28045
     },
     {
       "id": "9jgcT0Fqt7U",
@@ -1503,7 +1574,8 @@
         "專案實作"
       ],
       "prompts": [],
-      "title_zh": "創作者對談：第一集 - OpenClaw 創始人 Peter Steinberger"
+      "title_zh": "創作者對談：第一集 - OpenClaw 創始人 Peter Steinberger",
+      "view_count": 235614
     },
     {
       "id": "vxpuLIA17q4",
@@ -1528,7 +1600,8 @@
         "Hey Openclaw I want channels for each one of my projects we are working on. please build out a channel in discord for every major project we are working on and make sure i can communicate with you from each",
         "Please build a new channel for me for stock research. Every morning at 7am please send me a research report that goes over important stocks involved with the AI buildout. These should be stocks that stand to benefit by AI being built ou"
       ],
-      "title_zh": "如果你不用 Discord，那你就用錯 OpenClaw 了"
+      "title_zh": "如果你不用 Discord，那你就用錯 OpenClaw 了",
+      "view_count": 48274
     },
     {
       "id": "3110hx3ygp0",
@@ -1547,7 +1620,8 @@
         "AI 程式開發"
       ],
       "prompts": [],
-      "title_zh": "我花了 50 億個 Token 來完善 OpenClaw..."
+      "title_zh": "我花了 50 億個 Token 來完善 OpenClaw...",
+      "view_count": 78815
     },
     {
       "id": "Bo4Shk2FCvk",
@@ -1568,7 +1642,8 @@
         "Agentic Loop"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 的運作原理 (以及為什麼你該建立自己的代理)"
+      "title_zh": "OpenClaw 的運作原理 (以及為什麼你該建立自己的代理)",
+      "view_count": 72436
     },
     {
       "id": "Bo4Shk2FCvk",
@@ -1589,7 +1664,8 @@
         "Agentic Workflow"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 的運作原理 (以及為什麼你該建立自己的代理)"
+      "title_zh": "OpenClaw 的運作原理 (以及為什麼你該建立自己的代理)",
+      "view_count": 72436
     },
     {
       "id": "PwPca_Xn53k",
@@ -1610,7 +1686,8 @@
         "Agent Swarms"
       ],
       "prompts": [],
-      "title_zh": "全新 NanoClaw 完勝 OpenClaw？"
+      "title_zh": "全新 NanoClaw 完勝 OpenClaw？",
+      "view_count": 8537
     },
     {
       "id": "TYvmwo9yYtg",
@@ -1630,7 +1707,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 最佳應用案例"
+      "title_zh": "OpenClaw 最佳應用案例",
+      "view_count": 18
     },
     {
       "id": "kvTYp6uB_zQ",
@@ -1651,7 +1729,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "關於 OpenClaw 技能你所需知道的一切 (從入門到精通)"
+      "title_zh": "關於 OpenClaw 技能你所需知道的一切 (從入門到精通)",
+      "view_count": 15117
     },
     {
       "id": "opMPct0lYDw",
@@ -1671,7 +1750,8 @@
         "營收優化"
       ],
       "prompts": [],
-      "title_zh": "如何讓 OpenClaw 帶動 10 倍營收"
+      "title_zh": "如何讓 OpenClaw 帶動 10 倍營收",
+      "view_count": 1571
     },
     {
       "id": "NO-bOryZoTE",
@@ -1692,7 +1772,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "專業開發者如何設置 OpenClaw (強大到不可思議)"
+      "title_zh": "專業開發者如何設置 OpenClaw (強大到不可思議)",
+      "view_count": 51838
     },
     {
       "id": "G6sjXjGilLQ",
@@ -1713,7 +1794,8 @@
         "獲利模式"
       ],
       "prompts": [],
-      "title_zh": "我如何利用 OpenClaw 賺錢 (+免費技能)"
+      "title_zh": "我如何利用 OpenClaw 賺錢 (+免費技能)",
+      "view_count": 9472
     },
     {
       "id": "Qo5RyE8FAvk",
@@ -1734,7 +1816,8 @@
         "自動化社群媒體"
       ],
       "prompts": [],
-      "title_zh": "我的 OpenClaw 賺了 2 千美金，還想複製自己！"
+      "title_zh": "我的 OpenClaw 賺了 2 千美金，還想複製自己！",
+      "view_count": 39043
     },
     {
       "id": "0soFIReWb1w",
@@ -1755,7 +1838,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "如何讓 OpenClaw 的威力提升 10 倍"
+      "title_zh": "如何讓 OpenClaw 的威力提升 10 倍",
+      "view_count": 105345
     },
     {
       "id": "Qtoum-9SJ9g",
@@ -1775,7 +1859,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "最完整的 OpenClaw 設置新手指南！"
+      "title_zh": "最完整的 OpenClaw 設置新手指南！",
+      "view_count": 16628
     },
     {
       "id": "sf9X-wypTQg",
@@ -1798,7 +1883,8 @@
       "prompts": [
         "Play music"
       ],
-      "title_zh": "使用 OpenClaw 與 Home Assistant 打造即時音樂律動燈光"
+      "title_zh": "使用 OpenClaw 與 Home Assistant 打造即時音樂律動燈光",
+      "view_count": 288
     },
     {
       "id": "X_ZNpiZsEbQ",
@@ -1819,7 +1905,8 @@
         "健身應用"
       ],
       "prompts": [],
-      "title_zh": "這是一個超棒的應用案例 #fyp #健身 #ai #clawd #機器人"
+      "title_zh": "這是一個超棒的應用案例 #fyp #健身 #ai #clawd #機器人",
+      "view_count": 568
     },
     {
       "id": "RDYsfsMdy0E",
@@ -1838,7 +1925,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "你可以用 OpenClaw 自動化的 10 件事 (真實案例)"
+      "title_zh": "你可以用 OpenClaw 自動化的 10 件事 (真實案例)",
+      "view_count": 152
     },
     {
       "id": "RDYsfsMdy0E",
@@ -1859,7 +1947,8 @@
         "2026 趨勢"
       ],
       "prompts": [],
-      "title_zh": "你可以用 OpenClaw 自動化的 10 件事 (真實案例)"
+      "title_zh": "你可以用 OpenClaw 自動化的 10 件事 (真實案例)",
+      "view_count": 152
     },
     {
       "id": "p_Zq0cWvU5k",
@@ -1880,7 +1969,8 @@
         "本地 AI"
       ],
       "prompts": [],
-      "title_zh": "這個 AI 代理 24 小時不間斷運行 (這將改變遊戲規則)"
+      "title_zh": "這個 AI 代理 24 小時不間斷運行 (這將改變遊戲規則)",
+      "view_count": 99
     },
     {
       "id": "p-1SkN9x55E",
@@ -1901,7 +1991,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "真正有幫助的 OpenClaw 應用案例！(5 個 AI 代理)"
+      "title_zh": "真正有幫助的 OpenClaw 應用案例！(5 個 AI 代理)",
+      "view_count": 5324
     },
     {
       "id": "GqQdLgcMQuo",
@@ -1922,7 +2013,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "13 個真正有效的 OpenClaw 商業應用案例"
+      "title_zh": "13 個真正有效的 OpenClaw 商業應用案例",
+      "view_count": 141
     },
     {
       "id": "jCEseK62DPs",
@@ -1943,7 +2035,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "這個 OpenClaw 新版本既簡單又安全 (目前最強大的版本)"
+      "title_zh": "這個 OpenClaw 新版本既簡單又安全 (目前最強大的版本)",
+      "view_count": 7096
     },
     {
       "id": "x5-yc6VpeM8",
@@ -1964,7 +2057,8 @@
         "人工智慧"
       ],
       "prompts": [],
-      "title_zh": "我最推薦的 4 個 OpenClaw 應用案例 | 這才是 AI 代理真正的實力！"
+      "title_zh": "我最推薦的 4 個 OpenClaw 應用案例 | 這才是 AI 代理真正的實力！",
+      "view_count": 66174
     },
     {
       "id": "BoC5MY_7aDk",
@@ -1985,7 +2079,8 @@
         "教學"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 新手完整教學：如何設置你的第一個 AI 代理 (ClawdBot)"
+      "title_zh": "OpenClaw 新手完整教學：如何設置你的第一個 AI 代理 (ClawdBot)",
+      "view_count": 97832
     },
     {
       "id": "nSBKCZQkmYw",
@@ -2008,7 +2103,8 @@
       "prompts": [
         "I’m going to sleep. Build a product that makes me money."
       ],
-      "title_zh": "完整教學：35 分鐘內用 OpenClaw 打造自動化運轉的事業 | Nat Eliason"
+      "title_zh": "完整教學：35 分鐘內用 OpenClaw 打造自動化運轉的事業 | Nat Eliason",
+      "view_count": 144584
     },
     {
       "id": "8uP2IrP3IG8",
@@ -2029,7 +2125,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "我打造了一個免費的 OpenClaw (不需 Mac Mini 或 API 費用)"
+      "title_zh": "我打造了一個免費的 OpenClaw (不需 Mac Mini 或 API 費用)",
+      "view_count": 113243
     },
     {
       "id": "1c_9tuQdkLY",
@@ -2050,7 +2147,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 設置教學與新案例 (2026 OpenClaw 應用案例)"
+      "title_zh": "OpenClaw 設置教學與新案例 (2026 OpenClaw 應用案例)",
+      "view_count": 6520
     },
     {
       "id": "hp7n45JqvIw",
@@ -2074,7 +2172,8 @@
         "Find the best selling laptop on Amazon and summarize its pros and cons.",
         "Search for the latest AI news and draft a short report."
       ],
-      "title_zh": "那些強大到離譜的 OpenClaw 應用案例"
+      "title_zh": "那些強大到離譜的 OpenClaw 應用案例",
+      "view_count": 52913
     },
     {
       "id": "XeTgMEapbag",
@@ -2094,7 +2193,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "5 個讓你變身生產力機器的 OpenClaw 應用案例"
+      "title_zh": "5 個讓你變身生產力機器的 OpenClaw 應用案例",
+      "view_count": 36834
     },
     {
       "id": "tIiO4I4QVaY",
@@ -2113,7 +2213,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "70 個 OpenClaw (Clawdbot) 驚人應用場景（印地語）#openclaw #aiagents"
+      "title_zh": "70 個 OpenClaw (Clawdbot) 驚人應用場景（印地語）#openclaw #aiagents",
+      "view_count": 1316
     },
     {
       "id": "PXk9gi50dlE",
@@ -2134,7 +2235,8 @@
         "內容創作"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新更新太強了！"
+      "title_zh": "OpenClaw 全新更新太強了！",
+      "view_count": 7424
     },
     {
       "id": "1MgQohGsxh0",
@@ -2155,7 +2257,8 @@
         "開源 AI"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot、Moltbot 與 OpenClaw 有何不同 | AI 社群網路內部解析 | 前沿 AI 技術"
+      "title_zh": "Clawdbot、Moltbot 與 OpenClaw 有何不同 | AI 社群網路內部解析 | 前沿 AI 技術",
+      "view_count": 48
     },
     {
       "id": "lcyJCULc8jk",
@@ -2176,7 +2279,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 必備的 5 個工具"
+      "title_zh": "OpenClaw 必備的 5 個工具",
+      "view_count": 19478
     },
     {
       "id": "7oxFkmo6zh4",
@@ -2199,7 +2303,8 @@
       "prompts": [
         "curl -fsSL https://openclaw.ai/install.sh | bash"
       ],
-      "title_zh": "在 5 分鐘內於任何 VPS 安裝 OpenClaw（無需 Mac Mini）"
+      "title_zh": "在 5 分鐘內於任何 VPS 安裝 OpenClaw（無需 Mac Mini）",
+      "view_count": 17368
     },
     {
       "id": "GpQcz_eKiNo",
@@ -2219,7 +2324,8 @@
         "Mission Control"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：指揮中心 + AI 代理團隊"
+      "title_zh": "OpenClaw：指揮中心 + AI 代理團隊",
+      "view_count": 15218
     },
     {
       "id": "SXy8auwPh9c",
@@ -2238,7 +2344,8 @@
         "替代方案"
       ],
       "prompts": [],
-      "title_zh": "5 個沒人討論的 OpenClaw 替代方案"
+      "title_zh": "5 個沒人討論的 OpenClaw 替代方案",
+      "view_count": 4057
     },
     {
       "id": "HNtHZkHGEFo",
@@ -2257,7 +2364,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "沒人討論過的 OpenClaw 應用場景"
+      "title_zh": "沒人討論過的 OpenClaw 應用場景",
+      "view_count": 30688
     },
     {
       "id": "8Tf1x-g5H7U",
@@ -2276,7 +2384,8 @@
         "AI爭議"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 騙局仍在持續"
+      "title_zh": "OpenClaw 騙局仍在持續",
+      "view_count": 6875
     },
     {
       "id": "6oj70RcXBk0",
@@ -2297,7 +2406,8 @@
         "Bitunix"
       ],
       "prompts": [],
-      "title_zh": "如何使用 OpenClaw 賺錢"
+      "title_zh": "如何使用 OpenClaw 賺錢",
+      "view_count": 1708
     },
     {
       "id": "Ay-OGNI0FnU",
@@ -2317,7 +2427,8 @@
         "2026趨勢"
       ],
       "prompts": [],
-      "title_zh": "用 OpenClaw 變現賺錢"
+      "title_zh": "用 OpenClaw 變現賺錢",
+      "view_count": 23242
     },
     {
       "id": "MSpiWmZW4Vk",
@@ -2338,7 +2449,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 是我用過最強悍的 AI 工具。安裝教學看這裡"
+      "title_zh": "OpenClaw 是我用過最強悍的 AI 工具。安裝教學看這裡",
+      "view_count": 95955
     },
     {
       "id": "Cx2oPWU8qjY",
@@ -2359,7 +2471,8 @@
         "AgentZero"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 如何運作我的整個事業（步驟教學）"
+      "title_zh": "OpenClaw 如何運作我的整個事業（步驟教學）",
+      "view_count": 31724
     },
     {
       "id": "Y8s4ZXvCZO0",
@@ -2380,7 +2493,8 @@
         "AI 代理人"
       ],
       "prompts": [],
-      "title_zh": "運作我電商事業的 AI 代理 (OpenClaw 深度解析)"
+      "title_zh": "運作我電商事業的 AI 代理 (OpenClaw 深度解析)",
+      "view_count": 15
     },
     {
       "id": "sO6NSSOWDO0",
@@ -2401,7 +2515,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整課程 | 設定並部署你自己的 AI 代理"
+      "title_zh": "OpenClaw 完整課程 | 設定並部署你自己的 AI 代理",
+      "view_count": 86052
     },
     {
       "id": "41XkShN1Vq8",
@@ -2422,7 +2537,8 @@
         "API 成本節省"
       ],
       "prompts": [],
-      "title_zh": "除非你做了這件事，否則 OpenClaw 毫無用處（真實案例）"
+      "title_zh": "除非你做了這件事，否則 OpenClaw 毫無用處（真實案例）",
+      "view_count": 192
     },
     {
       "id": "NZ1mKAWJPr4",
@@ -2441,7 +2557,8 @@
         "生產力自動化"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 50 天：炒作、現實與真正失效的地方"
+      "title_zh": "使用 OpenClaw 50 天：炒作、現實與真正失效的地方",
+      "view_count": 176768
     },
     {
       "id": "xfnVjrcxnyQ",
@@ -2461,7 +2578,8 @@
         "實戰案例"
       ],
       "prompts": [],
-      "title_zh": "7 個真實的 OpenClaw 應用場景（不只是噱頭）"
+      "title_zh": "7 個真實的 OpenClaw 應用場景（不只是噱頭）",
+      "view_count": 3802
     },
     {
       "id": "2IuPgBZsnaA",
@@ -2481,7 +2599,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "9 個沒人討論的 OpenClaw 應用場景"
+      "title_zh": "9 個沒人討論的 OpenClaw 應用場景",
+      "view_count": 3167
     },
     {
       "id": "WHtyjjDnTfM",
@@ -2500,7 +2619,8 @@
         "獲客技巧"
       ],
       "prompts": [],
-      "title_zh": "AI 網紅們都在騙你。"
+      "title_zh": "AI 網紅們都在騙你。",
+      "view_count": 34708
     },
     {
       "id": "2IuPgBZsnaA",
@@ -2520,7 +2640,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "9 個沒人討論的 OpenClaw 應用場景"
+      "title_zh": "9 個沒人討論的 OpenClaw 應用場景",
+      "view_count": 3167
     },
     {
       "id": "FcvIIApkaZA",
@@ -2541,7 +2662,8 @@
         "社交媒體分析"
       ],
       "prompts": [],
-      "title_zh": "我分析了 200 則 OpenClaw X 貼文，發現了令人不安的事實"
+      "title_zh": "我分析了 200 則 OpenClaw X 貼文，發現了令人不安的事實",
+      "view_count": 5542
     },
     {
       "id": "1k4iarzbeU8",
@@ -2562,7 +2684,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 應用案例 | 從 AI 助手到 AI 營運者"
+      "title_zh": "OpenClaw 應用案例 | 從 AI 助手到 AI 營運者",
+      "view_count": 71
     },
     {
       "id": "EULSQ5zSuhg",
@@ -2583,7 +2706,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：真實案例，拒絕炒作 - 部落格文章自動化"
+      "title_zh": "OpenClaw：真實案例，拒絕炒作 - 部落格文章自動化",
+      "view_count": 108
     },
     {
       "id": "ROPt15fBgM4",
@@ -2602,7 +2726,8 @@
         "HyperEdit"
       ],
       "prompts": [],
-      "title_zh": "我開發並開源了一個價值百萬美元的 AI 影片編輯 App，安裝教學看這裡"
+      "title_zh": "我開發並開源了一個價值百萬美元的 AI 影片編輯 App，安裝教學看這裡",
+      "view_count": 15407
     },
     {
       "id": "7UaQB325EqU",
@@ -2623,7 +2748,8 @@
         "數位行銷"
       ],
       "prompts": [],
-      "title_zh": "我用 Clawdbot 打造一支行銷團隊（內附免費模板與檔案）"
+      "title_zh": "我用 Clawdbot 打造一支行銷團隊（內附免費模板與檔案）",
+      "view_count": 63447
     },
     {
       "id": "GJxhBdEIdFs",
@@ -2644,7 +2770,8 @@
         "自動化收入"
       ],
       "prompts": [],
-      "title_zh": "5 個用 OpenClaw 賺錢的方法 (2026) Clawdbot"
+      "title_zh": "5 個用 OpenClaw 賺錢的方法 (2026) Clawdbot",
+      "view_count": 1501
     },
     {
       "id": "Ps3tONvchKA",
@@ -2663,7 +2790,8 @@
         "AI 互動"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 直接吐槽我的智慧家庭解決方案 #智慧家庭 #AI #OpenClaw #自建房"
+      "title_zh": "OpenClaw 直接吐槽我的智慧家庭解決方案 #智慧家庭 #AI #OpenClaw #自建房",
+      "view_count": 1190
     },
     {
       "id": "A0qHoaY11d8",
@@ -2683,7 +2811,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "我的 OpenClaw 內容系統"
+      "title_zh": "我的 OpenClaw 內容系統",
+      "view_count": 1978
     },
     {
       "id": "2HiHDIFStzg",
@@ -2704,7 +2833,8 @@
         "技術新聞"
       ],
       "prompts": [],
-      "title_zh": "Anthropic 剛剛封殺了 OpenClaw..."
+      "title_zh": "Anthropic 剛剛封殺了 OpenClaw...",
+      "view_count": 111625
     },
     {
       "id": "XRkJfxgdxzM",
@@ -2723,7 +2853,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "39 個自動化事業（與生活）的 OpenClaw 應用場景"
+      "title_zh": "39 個自動化事業（與生活）的 OpenClaw 應用場景",
+      "view_count": 9377
     },
     {
       "id": "Aj6hoC9JaLI",
@@ -2746,7 +2877,8 @@
       "prompts": [
         "You are my autonomous, proactive employee. I want you to do work for me that brings us closer to our mission statement. I want to wake up every morning, and be pleasantly surprised by the work you completed. Please schedule time for every night and afternoon to do a task that brings us closer to our mission statement"
       ],
-      "title_zh": "你必須立即對 OpenClaw 做的這件事！"
+      "title_zh": "你必須立即對 OpenClaw 做的這件事！",
+      "view_count": 53219
     },
     {
       "id": "90tvVH2yoE8",
@@ -2765,7 +2897,8 @@
         "創業工具"
       ],
       "prompts": [],
-      "title_zh": "多數創辦人未曾發現的隱藏版 OpenClaw 商業用途"
+      "title_zh": "多數創辦人未曾發現的隱藏版 OpenClaw 商業用途",
+      "view_count": 3117
     },
     {
       "id": "wctPAKyr0xw",
@@ -2786,7 +2919,8 @@
         "Telegram"
       ],
       "prompts": [],
-      "title_zh": "全新的 ZeroClaw 擊敗了 OpenClaw？"
+      "title_zh": "全新的 ZeroClaw 擊敗了 OpenClaw？",
+      "view_count": 18791
     },
     {
       "id": "XRkJfxgdxzM",
@@ -2806,7 +2940,8 @@
         "數位轉型"
       ],
       "prompts": [],
-      "title_zh": "39 個自動化事業（與生活）的 OpenClaw 應用場景"
+      "title_zh": "39 個自動化事業（與生活）的 OpenClaw 應用場景",
+      "view_count": 9377
     },
     {
       "id": "ssOu11Ya5r0",
@@ -2827,7 +2962,8 @@
         "開源模型"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + MiniMax M2.5 太強了！"
+      "title_zh": "OpenClaw + MiniMax M2.5 太強了！",
+      "view_count": 4715
     },
     {
       "id": "nK9AQxYhF6U",
@@ -2847,7 +2983,8 @@
         "被動收入"
       ],
       "prompts": [],
-      "title_zh": "6 個用 OpenClaw AI 賺取加密貨幣的簡單方法（步驟教學）"
+      "title_zh": "6 個用 OpenClaw AI 賺取加密貨幣的簡單方法（步驟教學）",
+      "view_count": 4558
     },
     {
       "id": "u4ydH-QvPeg",
@@ -2868,7 +3005,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 新手教學 - 速成課程"
+      "title_zh": "OpenClaw 新手教學 - 速成課程",
+      "view_count": 228040
     },
     {
       "id": "ii7WVJLjai8",
@@ -2889,7 +3027,8 @@
         "AI 代理人"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：你的個人 AI 助手"
+      "title_zh": "OpenClaw：你的個人 AI 助手",
+      "view_count": 11
     },
     {
       "id": "17UInyVaANU",
@@ -2910,7 +3049,8 @@
         "醫療 AI"
       ],
       "prompts": [],
-      "title_zh": "我們現在正用 OpenClaw 解決健康問題！🧅💨"
+      "title_zh": "我們現在正用 OpenClaw 解決健康問題！🧅💨",
+      "view_count": 5084
     },
     {
       "id": "llMJTRG3ZVU",
@@ -2929,7 +3069,8 @@
         "智慧醫療"
       ],
       "prompts": [],
-      "title_zh": "矽谷最熱門的 AI 工具是 OpenClaw - 這對醫療保健與醫學意味著什麼"
+      "title_zh": "矽谷最熱門的 AI 工具是 OpenClaw - 這對醫療保健與醫學意味著什麼",
+      "view_count": 520
     },
     {
       "id": "5hGy11LGGO4",
@@ -2950,7 +3091,8 @@
       "prompts": [
         "Run daily speed tests, analyze results, and send performance updates to Slack."
       ],
-      "title_zh": "我讓 OpenClaw 在一夜之間開發出一個 Shopify 工具 | 結果如下"
+      "title_zh": "我讓 OpenClaw 在一夜之間開發出一個 Shopify 工具 | 結果如下",
+      "view_count": 1900
     },
     {
       "id": "CreaIkyZAd4",
@@ -2971,7 +3113,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：AI 代理真的有用嗎？答案令人震驚！ (14:01)"
+      "title_zh": "OpenClaw：AI 代理真的有用嗎？答案令人震驚！ (14:01)",
+      "view_count": 85030
     },
     {
       "id": "wDL0zevEwDc",
@@ -2992,7 +3135,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 全新免費升級太驚人了 👀（新 Clawdbot 應用場景）"
+      "title_zh": "OpenClaw 全新免費升級太驚人了 👀（新 Clawdbot 應用場景）",
+      "view_count": 6291
     },
     {
       "id": "vte-fDoZczE",
@@ -3013,7 +3157,8 @@
         "Docker"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整課程：設定、技能、語音、記憶及更多內容"
+      "title_zh": "OpenClaw 完整課程：設定、技能、語音、記憶及更多內容",
+      "view_count": 102102
     },
     {
       "id": "i13XK-uUOLQ",
@@ -3032,7 +3177,8 @@
         "開源軟體"
       ],
       "prompts": [],
-      "title_zh": "用 OpenClaw 賺大錢"
+      "title_zh": "用 OpenClaw 賺大錢",
+      "view_count": 154968
     },
     {
       "id": "OstTqQGKh-M",
@@ -3054,7 +3200,8 @@
         "開源硬體"
       ],
       "prompts": [],
-      "title_zh": "中國版的 OpenClaw 來了...(PicoClaw)"
+      "title_zh": "中國版的 OpenClaw 來了...(PicoClaw)",
+      "view_count": 25650
     },
     {
       "id": "4xDc00EF_eY",
@@ -3075,7 +3222,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "我們試用了 OpenClaw 一週。這是残酷的真相。"
+      "title_zh": "我們試用了 OpenClaw 一週。這是残酷的真相。",
+      "view_count": 47839
     },
     {
       "id": "z0gkSW4ew9o",
@@ -3094,7 +3242,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "你今天就能嘗試的實用 OpenClaw 應用案例！"
+      "title_zh": "你今天就能嘗試的實用 OpenClaw 應用案例！",
+      "view_count": 12429
     },
     {
       "id": "1zBnsoXze0w",
@@ -3115,7 +3264,8 @@
         "網路創業"
       ],
       "prompts": [],
-      "title_zh": "5 個用 OpenClaw 賺錢的方法 (2026) Clawdbot"
+      "title_zh": "5 個用 OpenClaw 賺錢的方法 (2026) Clawdbot",
+      "view_count": 5776
     },
     {
       "id": "f02ycoBt6tQ",
@@ -3136,7 +3286,8 @@
         "生產力提升"
       ],
       "prompts": [],
-      "title_zh": "我用 44 美元的 OpenClaw 代理人取代了每月 2,000 美元的電商虛擬助理（而且功能更強）"
+      "title_zh": "我用 44 美元的 OpenClaw 代理人取代了每月 2,000 美元的電商虛擬助理（而且功能更強）",
+      "view_count": 7544
     },
     {
       "id": "HjQ5ty3_X_0",
@@ -3160,7 +3311,8 @@
         "Use the last30 skill to find use cases people are using with OpenClaw on X and Reddit. Draft 3 new skills we can implement that reflect good use cases you found. I'll choose a winning one to implement.",
         "Take a look at the Creator Buddy code base, find new feature to build and build a prototype. have this scheduled for every night."
       ],
-      "title_zh": "Claude Sonnet 4.6 剛發佈。是 OpenClaw 史上最強的模型嗎？"
+      "title_zh": "Claude Sonnet 4.6 剛發佈。是 OpenClaw 史上最強的模型嗎？",
+      "view_count": 36453
     },
     {
       "id": "OJEefVJeIwM",
@@ -3181,7 +3333,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "我用 OpenClaw 打造了這套 AI 內容套件"
+      "title_zh": "我用 OpenClaw 打造了這套 AI 內容套件",
+      "view_count": 6657
     },
     {
       "id": "8kNv3rjQaVA",
@@ -3203,7 +3356,8 @@
       "prompts": [
         "https://gist.github.com/mberman84/63163d6839053fbf15091238e5ada5c2"
       ],
-      "title_zh": "21 個瘋狂的 OpenClaw 應用案例..."
+      "title_zh": "21 個瘋狂的 OpenClaw 應用案例...",
+      "view_count": 262643
     },
     {
       "id": "V-Nl4_o7FtA",
@@ -3224,7 +3378,8 @@
         "初學者教學"
       ],
       "prompts": [],
-      "title_zh": "我如何利用 OpenClaw 賺錢（新手友善）"
+      "title_zh": "我如何利用 OpenClaw 賺錢（新手友善）",
+      "view_count": 1547
     },
     {
       "id": "nKVkkkMv0N4",
@@ -3244,7 +3399,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "詳解如何安裝 OpenClaw 建立 24/7 為你工作的 AI 機器人"
+      "title_zh": "詳解如何安裝 OpenClaw 建立 24/7 為你工作的 AI 機器人",
+      "view_count": 1032
     },
     {
       "id": "GNciBUkvQZI",
@@ -3269,7 +3425,8 @@
         "move forward",
         "perform a break dance"
       ],
-      "title_zh": "AI 透過 OpenClaw 與 Home Assistant 控制伺服馬達"
+      "title_zh": "AI 透過 OpenClaw 與 Home Assistant 控制伺服馬達",
+      "view_count": 638
     },
     {
       "id": "-Fz3SU3VqmM",
@@ -3293,7 +3450,8 @@
         "Summarize my unread emails",
         "Research this competitor"
       ],
-      "title_zh": "🦞 OpenClaw 教學：構建智能 WhatsApp 代理人的最簡單方法 (坦米爾語)"
+      "title_zh": "🦞 OpenClaw 教學：構建智能 WhatsApp 代理人的最簡單方法 (坦米爾語)",
+      "view_count": 21243
     },
     {
       "id": "bzWI3Dil9Ig",
@@ -3314,7 +3472,8 @@
         "Mac Mini"
       ],
       "prompts": [],
-      "title_zh": "我的 OpenClaw 多代理人團隊"
+      "title_zh": "我的 OpenClaw 多代理人團隊",
+      "view_count": 493826
     },
     {
       "id": "VTZLk2n9Bj0",
@@ -3335,7 +3494,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenAI 剛剛收購了 OpenClaw — 如何在為時已晚前每月賺取 10,000 美元"
+      "title_zh": "OpenAI 剛剛收購了 OpenClaw — 如何在為時已晚前每月賺取 10,000 美元",
+      "view_count": 28209
     },
     {
       "id": "ryhzpLe9O_U",
@@ -3356,7 +3516,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "7 個讓你的業務產出提升 10 倍的 OpenClaw 技能"
+      "title_zh": "7 個讓你的業務產出提升 10 倍的 OpenClaw 技能",
+      "view_count": 37683
     },
     {
       "id": "o7njSc-eJ8E",
@@ -3377,7 +3538,8 @@
         "Telegram Bot"
       ],
       "prompts": [],
-      "title_zh": "給產品經理的 OpenClaw（又名 ClawdBot）指南"
+      "title_zh": "給產品經理的 OpenClaw（又名 ClawdBot）指南",
+      "view_count": 4559
     },
     {
       "id": "LV6Juz0xcrY",
@@ -3398,7 +3560,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "真正實用的 OpenClaw 應用案例！（ClawdBot）"
+      "title_zh": "真正實用的 OpenClaw 應用案例！（ClawdBot）",
+      "view_count": 100115
     },
     {
       "id": "Q0KCJcn2wgg",
@@ -3419,7 +3582,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "如何實際使用 OpenClaw（最先要設置的 10 件事）"
+      "title_zh": "如何實際使用 OpenClaw（最先要設置的 10 件事）",
+      "view_count": 23675
     },
     {
       "id": "Tzk7DC92cAk",
@@ -3439,7 +3603,8 @@
         "金融投資"
       ],
       "prompts": [],
-      "title_zh": "我讓 AI 交易機器人互相競爭來賺錢...（瘋狂的結果）"
+      "title_zh": "我讓 AI 交易機器人互相競爭來賺錢...（瘋狂的結果）",
+      "view_count": 131835
     },
     {
       "id": "pLmEqL-UXLI",
@@ -3460,7 +3625,8 @@
         "自主代理人"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (OpenClaw) 完勝每月 497 美元的自動化工具 😱（用 7 美元打造 24/7 AI 助理）"
+      "title_zh": "Clawdbot (OpenClaw) 完勝每月 497 美元的自動化工具 😱（用 7 美元打造 24/7 AI 助理）",
+      "view_count": 2703
     },
     {
       "id": "_kZCoW-Qxnc",
@@ -3484,7 +3650,8 @@
         "Please schedule a morning brief for me every day at 8am. Send it to my Telegram. In this morning brief I want: 1. The weather in San Francisco 2. Top news stories in AI 3. Any tasks I have in my todo list on Things 3 4. Tasks you can complete for me today that bring me closer to my goals",
         "I want you to set up a Mission Control. This is a custom place for us to build out any tools we need to be more productive. Please build this using NextJS and host it locally."
       ],
-      "title_zh": "35 分鐘濃縮 100 小時的 OpenClaw 課程"
+      "title_zh": "35 分鐘濃縮 100 小時的 OpenClaw 課程",
+      "view_count": 200402
     },
     {
       "id": "F4w1sCvqtTU",
@@ -3503,7 +3670,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "AgentZero 剛發佈了 OpenClaw 殺手（這下結束了）"
+      "title_zh": "AgentZero 剛發佈了 OpenClaw 殺手（這下結束了）",
+      "view_count": 68291
     },
     {
       "id": "wAhRZavURMY",
@@ -3522,7 +3690,8 @@
         "AI 賺錢"
       ],
       "prompts": [],
-      "title_zh": "我如何利用 OpenClaw/Clawdbot 賺錢（你也可以）"
+      "title_zh": "我如何利用 OpenClaw/Clawdbot 賺錢（你也可以）",
+      "view_count": 917
     },
     {
       "id": "fbGF4qJI8co",
@@ -3542,7 +3711,8 @@
         "免費設定"
       ],
       "prompts": [],
-      "title_zh": "0 元設置 OpenClaw。#ai #emergentai #openclaw"
+      "title_zh": "0 元設置 OpenClaw。#ai #emergentai #openclaw",
+      "view_count": 0
     },
     {
       "id": "Z5aoaHQh26Q",
@@ -3563,7 +3733,8 @@
         "Ollama"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw Discord 設置 | 完整教學：100% 免費設置 | 在 AWS 上將 Discord 機器人連接到 OpenClaw"
+      "title_zh": "OpenClaw Discord 設置 | 完整教學：100% 免費設置 | 在 AWS 上將 Discord 機器人連接到 OpenClaw",
+      "view_count": 2921
     },
     {
       "id": "b773XfpS7fw",
@@ -3584,7 +3755,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "8 分鐘簡單解釋 OpenClaw vs Claude"
+      "title_zh": "8 分鐘簡單解釋 OpenClaw vs Claude",
+      "view_count": 23356
     },
     {
       "id": "i3ZlLmYn584",
@@ -3605,7 +3777,8 @@
         "加密貨幣"
       ],
       "prompts": [],
-      "title_zh": "如何建立 Polymarket 交易機器人（使用 OpenClaw）"
+      "title_zh": "如何建立 Polymarket 交易機器人（使用 OpenClaw）",
+      "view_count": 28600
     },
     {
       "id": "QJRKjuAXqMw",
@@ -3624,7 +3797,8 @@
         "獲利策略"
       ],
       "prompts": [],
-      "title_zh": "5 個使用 OpenClaw AI 賺取加密貨幣的天才策略...（2026 年 2 月）"
+      "title_zh": "5 個使用 OpenClaw AI 賺取加密貨幣的天才策略...（2026 年 2 月）",
+      "view_count": 10304
     },
     {
       "id": "v2cPHF5oXcI",
@@ -3645,7 +3819,8 @@
         "內容創作"
       ],
       "prompts": [],
-      "title_zh": "這些 OpenClaw 代理人賺得比你還多"
+      "title_zh": "這些 OpenClaw 代理人賺得比你還多",
+      "view_count": 18377
     },
     {
       "id": "4HzZMyTBFKA",
@@ -3666,7 +3841,8 @@
         "電商優化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbots：如何讓你的 Shopify 商店快速在 ChatGPT 排名第一"
+      "title_zh": "Clawdbots：如何讓你的 Shopify 商店快速在 ChatGPT 排名第一",
+      "view_count": 171
     },
     {
       "id": "uXkZ2d1VvYY",
@@ -3685,7 +3861,8 @@
         "量化交易"
       ],
       "prompts": [],
-      "title_zh": "真正能幫你印鈔的 OpenClaw 應用案例"
+      "title_zh": "真正能幫你印鈔的 OpenClaw 應用案例",
+      "view_count": 7606
     },
     {
       "id": "11sxky4vTcs",
@@ -3706,7 +3883,8 @@
         "Moltbook"
       ],
       "prompts": [],
-      "title_zh": "請不要安裝 Clawdbot"
+      "title_zh": "請不要安裝 Clawdbot",
+      "view_count": 577673
     },
     {
       "id": "9DxXDLhXnwU",
@@ -3727,7 +3905,8 @@
         "AGI"
       ],
       "prompts": [],
-      "title_zh": "AI 代理人 OpenClaw 如何接管你的電腦"
+      "title_zh": "AI 代理人 OpenClaw 如何接管你的電腦",
+      "view_count": 849564
     },
     {
       "id": "XkzM6hBdvIA",
@@ -3746,7 +3925,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "你不再需要 OpenClaw 了（用這個）"
+      "title_zh": "你不再需要 OpenClaw 了（用這個）",
+      "view_count": 19214
     },
     {
       "id": "JhJPeF8DGL0",
@@ -3767,7 +3947,8 @@
         "開源工具"
       ],
       "prompts": [],
-      "title_zh": "為什麼 OpenClaw 爆紅網路"
+      "title_zh": "為什麼 OpenClaw 爆紅網路",
+      "view_count": 79051
     },
     {
       "id": "kIWMLL0S8X8",
@@ -3786,7 +3967,8 @@
         "程式自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + OpenCode 將你的 AI 變成全自動工程團隊！自動化你的程式碼！"
+      "title_zh": "OpenClaw + OpenCode 將你的 AI 變成全自動工程團隊！自動化你的程式碼！",
+      "view_count": 51252
     },
     {
       "id": "lSNwO0M7Ik0",
@@ -3807,7 +3989,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "我終於搞懂 OpenClaw 了（你也應該搞懂）"
+      "title_zh": "我終於搞懂 OpenClaw 了（你也應該搞懂）",
+      "view_count": 23796
     },
     {
       "id": "XooiFwVBaxU",
@@ -3828,7 +4011,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "他是如何打造 OpenClaw (ClawdBot) 的"
+      "title_zh": "他是如何打造 OpenClaw (ClawdBot) 的",
+      "view_count": 90116
     },
     {
       "id": "QoQBzR1NIqI",
@@ -3848,7 +4032,8 @@
         "SaaS"
       ],
       "prompts": [],
-      "title_zh": "CLAUDE CODE 4 小時完整課程：構建與銷售（2026）"
+      "title_zh": "CLAUDE CODE 4 小時完整課程：構建與銷售（2026）",
+      "view_count": 576989
     },
     {
       "id": "-WVpD_g65Mg",
@@ -3869,7 +4054,8 @@
         "Cybersecurity"
       ],
       "prompts": [],
-      "title_zh": "如何避免 OpenClaw 的巨大安全漏洞 #openclaw #cybersecurity #ai"
+      "title_zh": "如何避免 OpenClaw 的巨大安全漏洞 #openclaw #cybersecurity #ai",
+      "view_count": 50755
     },
     {
       "id": "zpYLLVmWE94",
@@ -3888,7 +4074,8 @@
         "Lead Generation"
       ],
       "prompts": [],
-      "title_zh": "如何使用 Clawdbot 自動開發潛在客戶"
+      "title_zh": "如何使用 Clawdbot 自動開發潛在客戶",
+      "view_count": 6398
     },
     {
       "id": "tT6Klz9rejo",
@@ -3909,7 +4096,8 @@
         "位置追蹤"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw、Home Assistant 和 n8n 進行 24/7 即時位置追蹤"
+      "title_zh": "使用 OpenClaw、Home Assistant 和 n8n 進行 24/7 即時位置追蹤",
+      "view_count": 623
     },
     {
       "id": "lXC5zxYo8qc",
@@ -3930,7 +4118,8 @@
         "自動化投資"
       ],
       "prompts": [],
-      "title_zh": "我在 10 分鐘內打造了一個 AI 體育博彩助手（並贏得數千美元！）"
+      "title_zh": "我在 10 分鐘內打造了一個 AI 體育博彩助手（並贏得數千美元！）",
+      "view_count": 1597
     },
     {
       "id": "ev4iiGXlnh0",
@@ -3951,7 +4140,8 @@
         "AI 工具設定"
       ],
       "prompts": [],
-      "title_zh": "不要為 OpenClaw 使用 VPS（重大警告）"
+      "title_zh": "不要為 OpenClaw 使用 VPS（重大警告）",
+      "view_count": 35379
     },
     {
       "id": "Kyvh5G_BUxo",
@@ -3972,7 +4162,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 到底能做什麼（實際應用案例）"
+      "title_zh": "OpenClaw 到底能做什麼（實際應用案例）",
+      "view_count": 16887
     },
     {
       "id": "0LnLn2MK62A",
@@ -3993,7 +4184,8 @@
         "Jarvis"
       ],
       "prompts": [],
-      "title_zh": "我用 OpenClaw 打造了 AI 代理人大軍，每年賺取 100 萬美元"
+      "title_zh": "我用 OpenClaw 打造了 AI 代理人大軍，每年賺取 100 萬美元",
+      "view_count": 71553
     },
     {
       "id": "Pq3205RoOsI",
@@ -4016,7 +4208,8 @@
       "prompts": [
         "Act as a personal life assistant. Analyze my schedule and messages to provide a structured JSON summary for my dashboard."
       ],
-      "title_zh": "這個 50 美元的 AI 指揮中心主宰了我的生活"
+      "title_zh": "這個 50 美元的 AI 指揮中心主宰了我的生活",
+      "view_count": 67804
     },
     {
       "id": "YFjfBk8HI5o",
@@ -4037,7 +4230,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：爆紅網路的 AI 代理人 - Peter Steinberger | Lex Fridman 訪談 #491"
+      "title_zh": "OpenClaw：爆紅網路的 AI 代理人 - Peter Steinberger | Lex Fridman 訪談 #491",
+      "view_count": 983524
     },
     {
       "id": "5_JN4kfr-9o",
@@ -4058,7 +4252,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Obsidian：完美的協作系統"
+      "title_zh": "OpenClaw + Obsidian：完美的協作系統",
+      "view_count": 14386
     },
     {
       "id": "q-sClVMYY4w",
@@ -4077,7 +4272,8 @@
         "開源開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：16 萬名開發者正在打造 OpenAI 和 Google 無法阻擋的東西。你站在哪一邊？"
+      "title_zh": "OpenClaw：16 萬名開發者正在打造 OpenAI 和 Google 無法阻擋的東西。你站在哪一邊？",
+      "view_count": 248218
     },
     {
       "id": "yelcL_eALnQ",
@@ -4098,7 +4294,8 @@
         "Sandboxing"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 安全大師班（完整安全設置與安全性）Docker + 沙盒 + Bug 修復"
+      "title_zh": "OpenClaw 安全大師班（完整安全設置與安全性）Docker + 沙盒 + Bug 修復",
+      "view_count": 49783
     },
     {
       "id": "zwV5qC1wS6M",
@@ -4119,7 +4316,8 @@
         "開源工具"
       ],
       "prompts": [],
-      "title_zh": "我有 25 個 AI 代理人透過 OpenClaw 24/7 全天候工作"
+      "title_zh": "我有 25 個 AI 代理人透過 OpenClaw 24/7 全天候工作",
+      "view_count": 99054
     },
     {
       "id": "v0kklCoPCQU",
@@ -4142,7 +4340,8 @@
       "prompts": [
         "Figure It Out"
       ],
-      "title_zh": "5 個讓 OpenClaw 變強 10 倍的秘訣（很簡單）"
+      "title_zh": "5 個讓 OpenClaw 變強 10 倍的秘訣（很簡單）",
+      "view_count": 17233
     },
     {
       "id": "zwV5qC1wS6M",
@@ -4161,7 +4360,8 @@
         "工作流程自動化"
       ],
       "prompts": [],
-      "title_zh": "我有 25 個 AI 代理人透過 OpenClaw 24/7 全天候工作"
+      "title_zh": "我有 25 個 AI 代理人透過 OpenClaw 24/7 全天候工作",
+      "view_count": 99054
     },
     {
       "id": "XmweZ4fLkcI",
@@ -4181,7 +4381,8 @@
         "開源替代方案"
       ],
       "prompts": [],
-      "title_zh": "我用 Claude Code 打造了一個更安全的 OpenClaw 替代方案"
+      "title_zh": "我用 Claude Code 打造了一個更安全的 OpenClaw 替代方案",
+      "view_count": 66000
     },
     {
       "id": "41_TNGDDnfQ",
@@ -4206,7 +4407,8 @@
         "I want to set up a regular morning brief. Every morning I want you to send me a report through telegram. I want this report to include: 1. news stories relevant to my interests 2. Ideas for businesses I can create 3. Tasks I need to complete today 4. Recommendations for tasks we can complete together today",
         "I want you to build me a content factory inside of Discord. set up channels for different agents. have an agent that researches top trending stories, another agent that takes those stories a"
       ],
-      "title_zh": "6 個保證會改變你生活的 OpenClaw 使用案例"
+      "title_zh": "6 個保證會改變你生活的 OpenClaw 使用案例",
+      "view_count": 141568
     },
     {
       "id": "KHq8KkaXup0",
@@ -4225,7 +4427,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：最佳使用案例"
+      "title_zh": "OpenClaw：最佳使用案例",
+      "view_count": 3374
     },
     {
       "id": "Rzq4PG5Ja6M",
@@ -4246,7 +4449,8 @@
         "MKBHD"
       ],
       "prompts": [],
-      "title_zh": "那款讓 Mac Mini 全面賣斷貨的 AI 代理人 🤖📉"
+      "title_zh": "那款讓 Mac Mini 全面賣斷貨的 AI 代理人 🤖📉",
+      "view_count": 85879
     },
     {
       "id": "1Y_u0fY-AbA",
@@ -4267,7 +4471,8 @@
         "API 外洩"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 是安全方面的噩夢。"
+      "title_zh": "OpenClaw 是安全方面的噩夢。",
+      "view_count": 15628
     },
     {
       "id": "RhYkssi1rHU",
@@ -4291,7 +4496,8 @@
         "Give me the 5 most amazing and revenue generating ideas we could setup as cron jobs",
         "Based on your knowledge of my business, what MCPs or API's should I give you so you can setup your heartbeat and cron jobs to work for me proactively 24/7"
       ],
-      "title_zh": "如何讓你的 OpenClaw 24/7 全天候主動工作"
+      "title_zh": "如何讓你的 OpenClaw 24/7 全天候主動工作",
+      "view_count": 6591
     },
     {
       "id": "Qgtp_UI0Nlk",
@@ -4310,7 +4516,8 @@
         "工作流程自動化"
       ],
       "prompts": [],
-      "title_zh": "我測試了這款超強的 OpenClaw AI"
+      "title_zh": "我測試了這款超強的 OpenClaw AI",
+      "view_count": 206161
     },
     {
       "id": "dM0sZqO1A5A",
@@ -4333,7 +4540,8 @@
       "prompts": [
         "Go to Google, search for the latest news about OpenAI, and summarize the top 3 articles into a text file on my desktop."
       ],
-      "title_zh": "OpenClaw 太瘋狂了"
+      "title_zh": "OpenClaw 太瘋狂了",
+      "view_count": 190850
     },
     {
       "id": "omOCfGdx1uk",
@@ -4354,7 +4562,8 @@
         "輕量化AI"
       ],
       "prompts": [],
-      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？"
+      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？",
+      "view_count": 31097
     },
     {
       "id": "omOCfGdx1uk",
@@ -4375,7 +4584,8 @@
         "效能比較"
       ],
       "prompts": [],
-      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？"
+      "title_zh": "全新 PicoClaw 徹底擊敗 OpenClaw？",
+      "view_count": 31097
     },
     {
       "id": "4WLEcalKf8k",
@@ -4396,7 +4606,8 @@
       "prompts": [
         "Build a content idea pipeline that researches topics, prevents duplicates, and creates production-ready tasks."
       ],
-      "title_zh": "OpenClaw (Clawdbot) 的完美用途"
+      "title_zh": "OpenClaw (Clawdbot) 的完美用途",
+      "view_count": 25737
     },
     {
       "id": "Q7r--i9lLck",
@@ -4417,7 +4628,8 @@
         "Greptile"
       ],
       "prompts": [],
-      "title_zh": "真正有幫助的 OpenClaw 使用案例..."
+      "title_zh": "真正有幫助的 OpenClaw 使用案例...",
+      "view_count": 200075
     },
     {
       "id": "Fi4xuSYTxy4",
@@ -4438,7 +4650,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "Minimax M2.1 + OpenClaw/Clawdbot：使用 OPENCLAW 最棒且最便宜的方法！"
+      "title_zh": "Minimax M2.1 + OpenClaw/Clawdbot：使用 OPENCLAW 最棒且最便宜的方法！",
+      "view_count": 16253
     },
     {
       "id": "q2iLy90uRS8",
@@ -4459,7 +4672,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 永遠改變了我們的工作方式！（評價與教學）"
+      "title_zh": "Clawdbot 永遠改變了我們的工作方式！（評價與教學）",
+      "view_count": 186626
     },
     {
       "id": "T37g65946s0",
@@ -4480,7 +4694,8 @@
         "個人作業系統"
       ],
       "prompts": [],
-      "title_zh": "我打造了一個打理我整個生活的 Clawdbot（方法如下）"
+      "title_zh": "我打造了一個打理我整個生活的 Clawdbot（方法如下）",
+      "view_count": 26584
     },
     {
       "id": "a5cHXeZC2XI",
@@ -4501,7 +4716,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "簡單的 OpenClaw 設定"
+      "title_zh": "簡單的 OpenClaw 設定",
+      "view_count": 16913
     },
     {
       "id": "zeJ4whgLELE",
@@ -4522,7 +4738,8 @@
         "Open Source"
       ],
       "prompts": [],
-      "title_zh": "我打造了自己的 Clawdbot（它真的很安全）"
+      "title_zh": "我打造了自己的 Clawdbot（它真的很安全）",
+      "view_count": 40017
     },
     {
       "id": "nHiF_iGDZEM",
@@ -4543,7 +4760,8 @@
         "系統架構"
       ],
       "prompts": [],
-      "title_zh": "什麼是 OpenClaw - 它會取代 SaaS 嗎？ | 使用案例（僅供教學分享用途）#openclaw"
+      "title_zh": "什麼是 OpenClaw - 它會取代 SaaS 嗎？ | 使用案例（僅供教學分享用途）#openclaw",
+      "view_count": 264
     },
     {
       "id": "hM5LHJByJZk",
@@ -4564,7 +4782,8 @@
         "舊手機利用"
       ],
       "prompts": [],
-      "title_zh": "我將舊 Android 手機變成 24/7 全天候 AI 員工 (OpenClaw)"
+      "title_zh": "我將舊 Android 手機變成 24/7 全天候 AI 員工 (OpenClaw)",
+      "view_count": 41332
     },
     {
       "id": "YknxNkTgNWk",
@@ -4585,7 +4804,8 @@
         "加密貨幣"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 在 Polymarket 交易獲得 +1,560% 投報率（內含提示詞！）"
+      "title_zh": "使用 OpenClaw 在 Polymarket 交易獲得 +1,560% 投報率（內含提示詞！）",
+      "view_count": 50632
     },
     {
       "id": "ohgPI0NgvwQ",
@@ -4606,7 +4826,8 @@
         "AI 代理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Codex 是我身為設計師以來最大的工作流轉變。"
+      "title_zh": "OpenClaw + Codex 是我身為設計師以來最大的工作流轉變。",
+      "view_count": 32968
     },
     {
       "id": "5b2OCg-KBW8",
@@ -4627,7 +4848,8 @@
         "開源軟體"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：免費代理人團隊更新！"
+      "title_zh": "OpenClaw：免費代理人團隊更新！",
+      "view_count": 15236
     },
     {
       "id": "YknxNkTgNWk",
@@ -4648,7 +4870,8 @@
         "投資報酬率"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 在 Polymarket 交易獲得 +1,560% 投報率（內含提示詞！）"
+      "title_zh": "使用 OpenClaw 在 Polymarket 交易獲得 +1,560% 投報率（內含提示詞！）",
+      "view_count": 50632
     },
     {
       "id": "YpFIzLzr_UA",
@@ -4669,7 +4892,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "前 5 名 OpenClaw AI 使用案例 | 從檔案管理到寫程式，搞定你所有的工作！😱"
+      "title_zh": "前 5 名 OpenClaw AI 使用案例 | 從檔案管理到寫程式，搞定你所有的工作！😱",
+      "view_count": 7251
     },
     {
       "id": "LOwscgNHaXc",
@@ -4690,7 +4914,8 @@
         "風險評估"
       ],
       "prompts": [],
-      "title_zh": "在使用 OpenClaw (Clawdbot) 之前，請先看這個"
+      "title_zh": "在使用 OpenClaw (Clawdbot) 之前，請先看這個",
+      "view_count": 24005
     },
     {
       "id": "a9BHAjRSWOo",
@@ -4711,7 +4936,8 @@
         "網路賺錢"
       ],
       "prompts": [],
-      "title_zh": "用 OpenClaw 賺錢的 5 種方法（完整分析）"
+      "title_zh": "用 OpenClaw 賺錢的 5 種方法（完整分析）",
+      "view_count": 3300
     },
     {
       "id": "Ie75thX3C7I",
@@ -4732,7 +4958,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "我讓 OpenClaw 經營一整間會計公司 (2027)"
+      "title_zh": "我讓 OpenClaw 經營一整間會計公司 (2027)",
+      "view_count": 3135
     },
     {
       "id": "yxRdnOmriCo",
@@ -4751,7 +4978,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "什麼是 OpenClaw？"
+      "title_zh": "什麼是 OpenClaw？",
+      "view_count": 72821
     },
     {
       "id": "NA8C8jIQNeM",
@@ -4772,7 +5000,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "終極 Clawdbot 教學：初學者如何設定與使用 (OpenClaw)"
+      "title_zh": "終極 Clawdbot 教學：初學者如何設定與使用 (OpenClaw)",
+      "view_count": 148338
     },
     {
       "id": "cod50CWlZeU",
@@ -4793,7 +5022,8 @@
         "AI 工具設定"
       ],
       "prompts": [],
-      "title_zh": "我讓我的 OpenClaw 強大 10 倍（說真的）"
+      "title_zh": "我讓我的 OpenClaw 強大 10 倍（說真的）",
+      "view_count": 102408
     },
     {
       "id": "2KWhHY0KTMk",
@@ -4813,7 +5043,8 @@
         "AI 程式開發"
       ],
       "prompts": [],
-      "title_zh": "I just spent $20,000 on OpenClaw. Here's why..."
+      "title_zh": "I just spent $20,000 on OpenClaw. Here's why...",
+      "view_count": 63364
     },
     {
       "id": "2KWhHY0KTMk",
@@ -4832,7 +5063,8 @@
         "Claude Code"
       ],
       "prompts": [],
-      "title_zh": "I just spent $20,000 on OpenClaw. Here's why..."
+      "title_zh": "I just spent $20,000 on OpenClaw. Here's why...",
+      "view_count": 63364
     },
     {
       "id": "OdZj4NY2ibU",
@@ -4853,7 +5085,8 @@
         "銷售開發"
       ],
       "prompts": [],
-      "title_zh": "大家都用錯了 OpenClaw（這才是真正的賺錢方法）"
+      "title_zh": "大家都用錯了 OpenClaw（這才是真正的賺錢方法）",
+      "view_count": 22274
     },
     {
       "id": "58H8bWKk6cI",
@@ -4874,7 +5107,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "全新免費 OpenClaw 更新！"
+      "title_zh": "全新免費 OpenClaw 更新！",
+      "view_count": 8795
     },
     {
       "id": "RXBjzT8gQ2g",
@@ -4893,7 +5127,8 @@
         "商業策略"
       ],
       "prompts": [],
-      "title_zh": "我對 OpenClaw 熱潮的真實想法..."
+      "title_zh": "我對 OpenClaw 熱潮的真實想法...",
+      "view_count": 29837
     },
     {
       "id": "Lfvzbp103p0",
@@ -4912,7 +5147,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "我們正接近 AI 代理人的「iPhone 時刻」"
+      "title_zh": "我們正接近 AI 代理人的「iPhone 時刻」",
+      "view_count": 299
     },
     {
       "id": "eWsnF9ii3kI",
@@ -4933,7 +5169,8 @@
         "Digital Marketing"
       ],
       "prompts": [],
-      "title_zh": "我訓練 OpenClaw 來取代你的電子商務 SEO 代營運公司..."
+      "title_zh": "我訓練 OpenClaw 來取代你的電子商務 SEO 代營運公司...",
+      "view_count": 1081
     },
     {
       "id": "1ysqM2R4bTY",
@@ -4954,7 +5191,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "開始使用 OpenClaw 前唯一需要看的影片"
+      "title_zh": "開始使用 OpenClaw 前唯一需要看的影片",
+      "view_count": 11792
     },
     {
       "id": "gpHJh841As0",
@@ -4975,7 +5213,8 @@
         "n8n"
       ],
       "prompts": [],
-      "title_zh": "使用這款 AI 代理人自動化你的工作 (OpenClaw)"
+      "title_zh": "使用這款 AI 代理人自動化你的工作 (OpenClaw)",
+      "view_count": 10378
     },
     {
       "id": "Ns5QOKsqwGY",
@@ -4996,7 +5235,8 @@
         "macOS 權限"
       ],
       "prompts": [],
-      "title_zh": "Mac Mini M4 + OpenClaw 非常危險"
+      "title_zh": "Mac Mini M4 + OpenClaw 非常危險",
+      "view_count": 141661
     },
     {
       "id": "ewOpudu8Cjc",
@@ -5017,7 +5257,8 @@
         "No-code"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 和 Claude 打造 AI 交易機器人"
+      "title_zh": "使用 OpenClaw 和 Claude 打造 AI 交易機器人",
+      "view_count": 83315
     },
     {
       "id": "K_hN5ts3YvI",
@@ -5038,7 +5279,8 @@
         "AI 助理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整設定導覽 | 真實世界使用案例 (Clawdbot)"
+      "title_zh": "OpenClaw 完整設定導覽 | 真實世界使用案例 (Clawdbot)",
+      "view_count": 367
     },
     {
       "id": "K_hN5ts3YvI",
@@ -5059,7 +5301,8 @@
         "AI 助理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整設定導覽 | 真實世界使用案例 (Clawdbot)"
+      "title_zh": "OpenClaw 完整設定導覽 | 真實世界使用案例 (Clawdbot)",
+      "view_count": 367
     },
     {
       "id": "hXEKgSnD1Gs",
@@ -5080,7 +5323,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "如何安裝與使用 OpenClaw 技能（完整初學者指南）| 逐步解析 OpenClaw 技能"
+      "title_zh": "如何安裝與使用 OpenClaw 技能（完整初學者指南）| 逐步解析 OpenClaw 技能",
+      "view_count": 22249
     },
     {
       "id": "ceEUO_i7aW4",
@@ -5100,7 +5344,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "對 OpenClaw 來說不太妙"
+      "title_zh": "對 OpenClaw 來說不太妙",
+      "view_count": 121978
     },
     {
       "id": "L__qkva118c",
@@ -5120,7 +5365,8 @@
         "創業效率"
       ],
       "prompts": [],
-      "title_zh": "我們打造了 OpenClaw Ultron 來取代公司的 20 個人 | E2246"
+      "title_zh": "我們打造了 OpenClaw Ultron 來取代公司的 20 個人 | E2246",
+      "view_count": 52174
     },
     {
       "id": "6bBqno3tp-A",
@@ -5141,7 +5387,8 @@
         "Workflow Automation"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw：在你的基礎設施上自定義託管的 AI 代理人"
+      "title_zh": "OpenClaw：在你的基礎設施上自定義託管的 AI 代理人",
+      "view_count": 9493
     },
     {
       "id": "rQ8uJsIXez4",
@@ -5162,7 +5409,8 @@
         "Docker"
       ],
       "prompts": [],
-      "title_zh": "將 OpenClaw 變成智慧影片監控的 AI 監視器"
+      "title_zh": "將 OpenClaw 變成智慧影片監控的 AI 監視器",
+      "view_count": 643
     },
     {
       "id": "7xtWe3s_Tk8",
@@ -5183,7 +5431,8 @@
         "虛擬助理"
       ],
       "prompts": [],
-      "title_zh": "這個 AI 代理人取代了我的虛擬助理：醫用 OpenClaw（含安全設定）"
+      "title_zh": "這個 AI 代理人取代了我的虛擬助理：醫用 OpenClaw（含安全設定）",
+      "view_count": 1017
     },
     {
       "id": "H21AUjLUAKg",
@@ -5204,7 +5453,8 @@
         "VPS 管理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 進階指南：從 WebUI 安全加固到全技能插件體系，無需接入聊天工具也能打造你的最強私人 AI 助理"
+      "title_zh": "OpenClaw 進階指南：從 WebUI 安全加固到全技能插件體系，無需接入聊天工具也能打造你的最強私人 AI 助理",
+      "view_count": 3792
     },
     {
       "id": "Yc1zQ10HwS0",
@@ -5225,7 +5475,8 @@
         "POD"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot OpenClaw 亞馬遜 Merch on Demand 自動化工具來了！去背、放大、上傳一次搞定！"
+      "title_zh": "ClawdBot OpenClaw 亞馬遜 Merch on Demand 自動化工具來了！去背、放大、上傳一次搞定！",
+      "view_count": 3810
     },
     {
       "id": "ko_uSu-sXrI",
@@ -5246,7 +5497,8 @@
         "API 串接"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 安裝教學（簡單且安全）- Clawdbot"
+      "title_zh": "OpenClaw 安裝教學（簡單且安全）- Clawdbot",
+      "view_count": 20947
     },
     {
       "id": "aBYmq47-5oQ",
@@ -5267,7 +5519,8 @@
         "AI 自動化"
       ],
       "prompts": [],
-      "title_zh": "使用 Kimi K2.5 免費運行 OpenClaw"
+      "title_zh": "使用 Kimi K2.5 免費運行 OpenClaw",
+      "view_count": 54898
     },
     {
       "id": "tnsrnsy_Lus",
@@ -5290,7 +5543,8 @@
         "Hostinger"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 初學者完整教學：安全安裝指南"
+      "title_zh": "ClawdBot 初學者完整教學：安全安裝指南",
+      "view_count": 310284
     },
     {
       "id": "4uzGDAoNOZc",
@@ -5311,7 +5565,8 @@
         "軟體未來"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 開發者：為什麼 80% 的 App 將會消失"
+      "title_zh": "OpenClaw 開發者：為什麼 80% 的 App 將會消失",
+      "view_count": 779832
     },
     {
       "id": "Oh94XVXkZPM",
@@ -5331,7 +5586,8 @@
         "預測市場"
       ],
       "prompts": [],
-      "title_zh": "我如何使用 OpenClaw 進行自動化交易（加密貨幣與預測市場）"
+      "title_zh": "我如何使用 OpenClaw 進行自動化交易（加密貨幣與預測市場）",
+      "view_count": 58667
     },
     {
       "id": "NfEKycU5kso",
@@ -5352,7 +5608,8 @@
         "內容創作"
       ],
       "prompts": [],
-      "title_zh": "我用 Clawdbot 實現 YouTube 自動化 (OpenClaw)"
+      "title_zh": "我用 Clawdbot 實現 YouTube 自動化 (OpenClaw)",
+      "view_count": 22257
     },
     {
       "id": "idEmQ89pNfo",
@@ -5373,7 +5630,8 @@
         "AI 系統建置"
       ],
       "prompts": [],
-      "title_zh": "10 個瘋狂的 Openclaw 應用案例 - Openclaw 評測與 2026 安裝教學 🚀"
+      "title_zh": "10 個瘋狂的 Openclaw 應用案例 - Openclaw 評測與 2026 安裝教學 🚀",
+      "view_count": 2147
     },
     {
       "id": "XqaNp3PRT3w",
@@ -5394,7 +5652,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "內容創作者如何安裝 ClawdBot / OpenClaw #內容創作者"
+      "title_zh": "內容創作者如何安裝 ClawdBot / OpenClaw #內容創作者",
+      "view_count": 2035
     },
     {
       "id": "gVp8NArA7LE",
@@ -5413,7 +5672,8 @@
         "自動化獲利"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 與 AI 代理實現 15 個自主「獲利迴圈」"
+      "title_zh": "使用 OpenClaw 與 AI 代理實現 15 個自主「獲利迴圈」",
+      "view_count": 489
     },
     {
       "id": "JidX31wPGqQ",
@@ -5434,7 +5694,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 速成課程：從零打造 24/7 AI 助手 (Clawdbot/Moltbot)"
+      "title_zh": "OpenClaw 速成課程：從零打造 24/7 AI 助手 (Clawdbot/Moltbot)",
+      "view_count": 40663
     },
     {
       "id": "bSiMSSeno9g",
@@ -5453,7 +5714,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "什麼是 OpenClaw？運作原理為何？- 初學者教學"
+      "title_zh": "什麼是 OpenClaw？運作原理為何？- 初學者教學",
+      "view_count": 94076
     },
     {
       "id": "LyLamuBRfuU",
@@ -5472,7 +5734,8 @@
         "電子商務自動化"
       ],
       "prompts": [],
-      "title_zh": "解鎖 Shopify：Openclaw 如何徹底改變電子商務！"
+      "title_zh": "解鎖 Shopify：Openclaw 如何徹底改變電子商務！",
+      "view_count": 2293
     },
     {
       "id": "FIqt0x96uHw",
@@ -5491,7 +5754,8 @@
         "AI Execution"
       ],
       "prompts": [],
-      "title_zh": "利用 OpenClaw 變革電子商務：讓 AI 執行變得更簡單"
+      "title_zh": "利用 OpenClaw 變革電子商務：讓 AI 執行變得更簡單",
+      "view_count": 9
     },
     {
       "id": "axCreWC6AHw",
@@ -5512,7 +5776,8 @@
         "工作流自動化"
       ],
       "prompts": [],
-      "title_zh": "30 分鐘內精通 Clawdbot！"
+      "title_zh": "30 分鐘內精通 Clawdbot！",
+      "view_count": 222631
     },
     {
       "id": "840jcS_8lqs",
@@ -5531,7 +5796,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "Openclaw 技能展示！Reddit 研究自動化！"
+      "title_zh": "Openclaw 技能展示！Reddit 研究自動化！",
+      "view_count": 28752
     },
     {
       "id": "KTW___i9EzQ",
@@ -5550,7 +5816,8 @@
         "Agentic AI"
       ],
       "prompts": [],
-      "title_zh": "個人程式開發代理 #openclaw #clawdbot #ai #ai寫程式"
+      "title_zh": "個人程式開發代理 #openclaw #clawdbot #ai #ai寫程式",
+      "view_count": 13984
     },
     {
       "id": "h9i1caTcJxw",
@@ -5569,7 +5836,8 @@
         "應用程式開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 與構建虛擬 App"
+      "title_zh": "OpenClaw 與構建虛擬 App",
+      "view_count": 230
     },
     {
       "id": "840jcS_8lqs",
@@ -5590,7 +5858,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "Openclaw 技能展示！Reddit 研究自動化！"
+      "title_zh": "Openclaw 技能展示！Reddit 研究自動化！",
+      "view_count": 28752
     },
     {
       "id": "KTW___i9EzQ",
@@ -5609,7 +5878,8 @@
         "Agentic AI"
       ],
       "prompts": [],
-      "title_zh": "個人程式開發代理 #openclaw #clawdbot #ai #ai寫程式"
+      "title_zh": "個人程式開發代理 #openclaw #clawdbot #ai #ai寫程式",
+      "view_count": 13984
     },
     {
       "id": "bVQuHrJqvVM",
@@ -5630,7 +5900,8 @@
         "生產力提升"
       ],
       "prompts": [],
-      "title_zh": "完整 OpenClaw (原 ClawBot) 初學者教學"
+      "title_zh": "完整 OpenClaw (原 ClawBot) 初學者教學",
+      "view_count": 163
     },
     {
       "id": "W96vTvdiq84",
@@ -5653,7 +5924,8 @@
       "prompts": [
         "{\n  \"channels\": {\n    \"whatsapp\": {\n      \"dmPolicy\": \"allowList\",\n      \"allowFrom\": [\n        \"INSERT-YOUR-PHONE-NUMBER-HERE\"\n      ],\n      \"groupPolicy\": \"allowList\",\n      \"mediaMaxMb\": 50,\n      \"debounceMs\": 0\n    }\n  }\n}"
       ],
-      "title_zh": "如何在沒有 Mac Mini 的情況下安裝並使用 OpenClaw (ClawdBot)"
+      "title_zh": "如何在沒有 Mac Mini 的情況下安裝並使用 OpenClaw (ClawdBot)",
+      "view_count": 74978
     },
     {
       "id": "_ISs5FavbJ4",
@@ -5672,7 +5944,8 @@
         "自動化行銷"
       ],
       "prompts": [],
-      "title_zh": "如何運行多個 Clawdbots (即 Openclaw 代理)"
+      "title_zh": "如何運行多個 Clawdbots (即 Openclaw 代理)",
+      "view_count": 81875
     },
     {
       "id": "nGTJIZki9Ck",
@@ -5693,7 +5966,8 @@
         "Lead Generation"
       ],
       "prompts": [],
-      "title_zh": "我讓 OpenClaw 持續 24 小時發送開發信"
+      "title_zh": "我讓 OpenClaw 持續 24 小時發送開發信",
+      "view_count": 6812
     },
     {
       "id": "VLD8FyA9rQs",
@@ -5714,7 +5988,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "當我睡覺時，OpenClaw 幫我建立了 SEO 工作流"
+      "title_zh": "當我睡覺時，OpenClaw 幫我建立了 SEO 工作流",
+      "view_count": 705
     },
     {
       "id": "1QQbX9o2xXs",
@@ -5733,7 +6008,8 @@
         "AI 影片生成"
       ],
       "prompts": [],
-      "title_zh": "如何利用 Clawd Bot 賺到「財富自由」"
+      "title_zh": "如何利用 Clawd Bot 賺到「財富自由」",
+      "view_count": 10207
     },
     {
       "id": "vfyQU-nx1u0",
@@ -5754,7 +6030,8 @@
         "被動收入"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 代替我工作了 24 小時（而且還賺了錢）"
+      "title_zh": "Clawdbot 代替我工作了 24 小時（而且還賺了錢）",
+      "view_count": 3257
     },
     {
       "id": "eQBCH81FI8U",
@@ -5774,7 +6051,8 @@
         "自動化交易"
       ],
       "prompts": [],
-      "title_zh": "我用「Clawdbot」做了一個交易機器人，獲利 2000%！最強 Polymarket 交易機器人！"
+      "title_zh": "我用「Clawdbot」做了一個交易機器人，獲利 2000%！最強 Polymarket 交易機器人！",
+      "view_count": 4002
     },
     {
       "id": "zfqDHb8HUIA",
@@ -5795,7 +6073,8 @@
         "業務自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 代理 + Conway Research 簡直瘋狂！"
+      "title_zh": "OpenClaw 代理 + Conway Research 簡直瘋狂！",
+      "view_count": 3410
     },
     {
       "id": "GrS3hYomqJ8",
@@ -5816,7 +6095,8 @@
         "自動化工具"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot/OpenClaw 安裝教學：從下載到配置，解決所有報錯問題"
+      "title_zh": "ClawdBot/OpenClaw 安裝教學：從下載到配置，解決所有報錯問題",
+      "view_count": 959
     },
     {
       "id": "VpVloEhssyY",
@@ -5837,7 +6117,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw - 2026 AI 自動化 | 搭配 Telegram 的安裝與使用 (ClawdBot / MoltBot)"
+      "title_zh": "OpenClaw - 2026 AI 自動化 | 搭配 Telegram 的安裝與使用 (ClawdBot / MoltBot)",
+      "view_count": 2138
     },
     {
       "id": "JYWD8Bd2Ois",
@@ -5858,7 +6139,8 @@
         "自動化助手"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw/ClawdBot/MoltBot：口袋裡的 AI 代理完整指南"
+      "title_zh": "OpenClaw/ClawdBot/MoltBot：口袋裡的 AI 代理完整指南",
+      "view_count": 41834
     },
     {
       "id": "knH6Jms4vSY",
@@ -5879,7 +6161,8 @@
         "生活管理"
       ],
       "prompts": [],
-      "title_zh": "12 分鐘了解 OpenClaw (初學者必看)"
+      "title_zh": "12 分鐘了解 OpenClaw (初學者必看)",
+      "view_count": 119891
     },
     {
       "id": "Zo7Putdga_4",
@@ -5900,7 +6183,8 @@
         "AI 助理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 初學者教學：如何安裝與使用 OpenClaw (ClawdBot)"
+      "title_zh": "OpenClaw 初學者教學：如何安裝與使用 OpenClaw (ClawdBot)",
+      "view_count": 145557
     },
     {
       "id": "3GrG-dOmrLU",
@@ -5921,7 +6205,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "我找到了運行 OpenClaw 的最佳方法"
+      "title_zh": "我找到了運行 OpenClaw 的最佳方法",
+      "view_count": 150307
     },
     {
       "id": "_06XyyVHA0Q",
@@ -5940,7 +6225,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 前 5 大應用案例與 5 個絕對不要讓它做的事 #openclaw"
+      "title_zh": "OpenClaw 前 5 大應用案例與 5 個絕對不要讓它做的事 #openclaw",
+      "view_count": 85799
     },
     {
       "id": "AQ5uiLyr8bQ",
@@ -5961,7 +6247,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "NanoClaw：這才是 OpenClaw 該有的輕量、安全 AI 助手"
+      "title_zh": "NanoClaw：這才是 OpenClaw 該有的輕量、安全 AI 助手",
+      "view_count": 56175
     },
     {
       "id": "0S2bqBGv_qA",
@@ -5982,7 +6269,8 @@
         "輕量化架構"
       ],
       "prompts": [],
-      "title_zh": "Nanobot vs OpenClaw：誰勝出？"
+      "title_zh": "Nanobot vs OpenClaw：誰勝出？",
+      "view_count": 18793
     },
     {
       "id": "eOGvX0SPqCQ",
@@ -6003,7 +6291,8 @@
         "工作流程"
       ],
       "prompts": [],
-      "title_zh": "3 分鐘看完新版 OpenClaw 的 3 個應用案例"
+      "title_zh": "3 分鐘看完新版 OpenClaw 的 3 個應用案例",
+      "view_count": 35
     },
     {
       "id": "qTzzX_0Rwlg",
@@ -6024,7 +6313,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "如何用 OpenClaw 賺錢 - 初學者的副業首選！"
+      "title_zh": "如何用 OpenClaw 賺錢 - 初學者的副業首選！",
+      "view_count": 19618
     },
     {
       "id": "qTzzX_0Rwlg",
@@ -6045,7 +6335,8 @@
         "Side Hustle"
       ],
       "prompts": [],
-      "title_zh": "如何用 OpenClaw 賺錢 - 初學者的副業首選！"
+      "title_zh": "如何用 OpenClaw 賺錢 - 初學者的副業首選！",
+      "view_count": 19618
     },
     {
       "id": "40SnEd1RWUU",
@@ -6066,7 +6357,8 @@
         "Claude"
       ],
       "prompts": [],
-      "title_zh": "專訪「用 VPS 就好」哥 (OpenClaw 版)"
+      "title_zh": "專訪「用 VPS 就好」哥 (OpenClaw 版)",
+      "view_count": 349855
     },
     {
       "id": "CAbrRTu5xcw",
@@ -6086,7 +6378,8 @@
         "自主 AI"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 如何運作：「魔法」背後的架構設計"
+      "title_zh": "OpenClaw 如何運作：「魔法」背後的架構設計",
+      "view_count": 175037
     },
     {
       "id": "TAQ9fUfWBDU",
@@ -6107,7 +6400,8 @@
         "AI 奇異點"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 簡直太狂了……"
+      "title_zh": "Clawdbot 簡直太狂了……",
+      "view_count": 3049
     },
     {
       "id": "fcZMmP5dsl4",
@@ -6128,7 +6422,8 @@
         "個人助理"
       ],
       "prompts": [],
-      "title_zh": "完整 OpenClaw 安裝教學：逐步引導指南 (Clawdbot)"
+      "title_zh": "完整 OpenClaw 安裝教學：逐步引導指南 (Clawdbot)",
+      "view_count": 150214
     },
     {
       "id": "oSI5FE1NeTQ",
@@ -6149,7 +6444,8 @@
         "安全性"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 正在爆紅！照著這樣做來獲利"
+      "title_zh": "OpenClaw 正在爆紅！照著這樣做來獲利",
+      "view_count": 57615
     },
     {
       "id": "XJoqsxB2mbI",
@@ -6170,7 +6466,8 @@
         "自動化交易"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 讓大家都在買 Mac Mini（省下你的錢，改做這件事）"
+      "title_zh": "Clawdbot 讓大家都在買 Mac Mini（省下你的錢，改做這件事）",
+      "view_count": 2666
     },
     {
       "id": "M3P0hQMQtq0",
@@ -6191,7 +6488,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "安裝 OpenClaw 前你必須知道的事"
+      "title_zh": "安裝 OpenClaw 前你必須知道的事",
+      "view_count": 19236
     },
     {
       "id": "6y-CXrvzdT0",
@@ -6211,7 +6509,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "我在 36 小時內花了 20 美金測試 ClawdBot（值得嗎？）"
+      "title_zh": "我在 36 小時內花了 20 美金測試 ClawdBot（值得嗎？）",
+      "view_count": 2309
     },
     {
       "id": "CE4T_VGNdjc",
@@ -6232,7 +6531,8 @@
         "待辦清單管理"
       ],
       "prompts": [],
-      "title_zh": "電商領導者必看 OpenClaw：將數據分析與稽核轉化為可執行的待辦清單"
+      "title_zh": "電商領導者必看 OpenClaw：將數據分析與稽核轉化為可執行的待辦清單",
+      "view_count": 248
     },
     {
       "id": "TU770K7eWAQ",
@@ -6253,7 +6553,8 @@
         "OpenAI"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 太強了（簡單設定教學）"
+      "title_zh": "OpenClaw 太強了（簡單設定教學）",
+      "view_count": 4007
     },
     {
       "id": "t5y34iJlSfg",
@@ -6274,7 +6575,8 @@
         "Hostinger"
       ],
       "prompts": [],
-      "title_zh": "如何設定 OpenClaw (Clawdbot, Moltbot) 且不被駭客入侵：HTTPS + 隔離環境"
+      "title_zh": "如何設定 OpenClaw (Clawdbot, Moltbot) 且不被駭客入侵：HTTPS + 隔離環境",
+      "view_count": 5833
     },
     {
       "id": "n1sfrc-RjyM",
@@ -6295,7 +6597,8 @@
         "環境配置"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 新手完整教學 – 如何設定與使用 OpenClaw (ClawdBot / MoltBot)"
+      "title_zh": "OpenClaw 新手完整教學 – 如何設定與使用 OpenClaw (ClawdBot / MoltBot)",
+      "view_count": 329697
     },
     {
       "id": "fy6QJ0nee7E",
@@ -6314,7 +6617,8 @@
         "AI 代理人"
       ],
       "prompts": [],
-      "title_zh": "我如何將 ClawdBot 用於 SEO（OpenClaw 應用案例）"
+      "title_zh": "我如何將 ClawdBot 用於 SEO（OpenClaw 應用案例）",
+      "view_count": 714
     },
     {
       "id": "MDM1rzEFDXg",
@@ -6335,7 +6639,8 @@
         "開源工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw AI 詳解：真正能執行任務的自主 AI 代理（而不只是聊天）"
+      "title_zh": "OpenClaw AI 詳解：真正能執行任務的自主 AI 代理（而不只是聊天）",
+      "view_count": 12035
     },
     {
       "id": "MbCnAnnSVnQ",
@@ -6356,7 +6661,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 代理新技能更新太強了！ 🤯"
+      "title_zh": "OpenClaw 代理新技能更新太強了！ 🤯",
+      "view_count": 9878
     },
     {
       "id": "pjiuQnEVges",
@@ -6377,7 +6683,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw VPS 指南 - 在 VPS 上完成設定與最佳工作流"
+      "title_zh": "OpenClaw VPS 指南 - 在 VPS 上完成設定與最佳工作流",
+      "view_count": 25593
     },
     {
       "id": "Mw8712CRnmo",
@@ -6396,7 +6703,8 @@
         "安全設定"
       ],
       "prompts": [],
-      "title_zh": "你絕對需要的 OpenClaw 安全提示"
+      "title_zh": "你絕對需要的 OpenClaw 安全提示",
+      "view_count": 16563
     },
     {
       "id": "CEJ_R5226xE",
@@ -6417,7 +6725,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "新的 OpenClaw AI 適合交易策略嗎？（必看）（Clawdbot / Moltbot）"
+      "title_zh": "新的 OpenClaw AI 適合交易策略嗎？（必看）（Clawdbot / Moltbot）",
+      "view_count": 132462
     },
     {
       "id": "ocWEdfhaZCA",
@@ -6438,7 +6747,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "如何設定 OpenClaw – 完整步驟指南 | Manu Arora"
+      "title_zh": "如何設定 OpenClaw – 完整步驟指南 | Manu Arora",
+      "view_count": 7322
     },
     {
       "id": "TKc7sDPKl2Y",
@@ -6459,7 +6769,8 @@
         "實測心得"
       ],
       "prompts": [],
-      "title_zh": "使用 Clawdbot / OpenClaw 一週的心得！我學到的 3 個教訓！"
+      "title_zh": "使用 Clawdbot / OpenClaw 一週的心得！我學到的 3 個教訓！",
+      "view_count": 98460
     },
     {
       "id": "CEJ_R5226xE",
@@ -6480,7 +6791,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "新的 OpenClaw AI 適合交易策略嗎？（必看）（Clawdbot / Moltbot）"
+      "title_zh": "新的 OpenClaw AI 適合交易策略嗎？（必看）（Clawdbot / Moltbot）",
+      "view_count": 132462
     },
     {
       "id": "Mw8712CRnmo",
@@ -6501,7 +6813,8 @@
         "自動化工具"
       ],
       "prompts": [],
-      "title_zh": "你絕對需要的 OpenClaw 安全提示"
+      "title_zh": "你絕對需要的 OpenClaw 安全提示",
+      "view_count": 16563
     },
     {
       "id": "1j8oCpLlS00",
@@ -6521,7 +6834,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "什麼是 OpenClaw？"
+      "title_zh": "什麼是 OpenClaw？",
+      "view_count": 18839
     },
     {
       "id": "j9eRyAnr4c0",
@@ -6540,7 +6854,8 @@
         "自動化收入"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 賺錢術"
+      "title_zh": "ClawdBot 賺錢術",
+      "view_count": 80759
     },
     {
       "id": "ji_Sd4si7jo",
@@ -6561,7 +6876,8 @@
         "Google Workspace"
       ],
       "prompts": [],
-      "title_zh": "30 分鐘掌握 OpenClaw（5 個真實案例 + 設定 + 記憶功能）"
+      "title_zh": "30 分鐘掌握 OpenClaw（5 個真實案例 + 設定 + 記憶功能）",
+      "view_count": 88169
     },
     {
       "id": "mVzLp4DsqmM",
@@ -6582,7 +6898,8 @@
         "Claude 3.5"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Antigravity：使用免費 Claude Opus & Sonnet 4.5 和 Gemini 模型自動化一切 🤯"
+      "title_zh": "OpenClaw + Antigravity：使用免費 Claude Opus & Sonnet 4.5 和 Gemini 模型自動化一切 🤯",
+      "view_count": 26938
     },
     {
       "id": "1Jqaj1KN5vA",
@@ -6603,7 +6920,8 @@
         "軟體工程"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Antigravity 讓你的 AI 變成全自動工程團隊！自動化你的程式碼！"
+      "title_zh": "OpenClaw + Antigravity 讓你的 AI 變成全自動工程團隊！自動化你的程式碼！",
+      "view_count": 78159
     },
     {
       "id": "-lC4UY3xcxw",
@@ -6624,7 +6942,8 @@
         "SEO"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + WordPress 太強了！（完全免費！）"
+      "title_zh": "OpenClaw + WordPress 太強了！（完全免費！）",
+      "view_count": 14579
     },
     {
       "id": "YIE_vIPyeGI",
@@ -6645,7 +6964,8 @@
         "潛在客戶開發"
       ],
       "prompts": [],
-      "title_zh": "5 個用 OpenClaw 賺錢的方法（超驚人）"
+      "title_zh": "5 個用 OpenClaw 賺錢的方法（超驚人）",
+      "view_count": 387
     },
     {
       "id": "O7g31T1X4Ko",
@@ -6667,7 +6987,8 @@
         "本地AI"
       ],
       "prompts": [],
-      "title_zh": "零成本！用 OpenClaw 與本地 AI 模型控制智慧家庭"
+      "title_zh": "零成本！用 OpenClaw 與本地 AI 模型控制智慧家庭",
+      "view_count": 2230
     },
     {
       "id": "P47qqILR6fA",
@@ -6686,7 +7007,8 @@
         "AI Civilization"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 在 72 小時內搞砸了一切..."
+      "title_zh": "ClawdBot 在 72 小時內搞砸了一切...",
+      "view_count": 78359
     },
     {
       "id": "EXuHXC2RamM",
@@ -6707,7 +7029,8 @@
         "Automation"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 逐步教學：100% 安全地設定你的 AI 助理 (泰米爾語)"
+      "title_zh": "OpenClaw 逐步教學：100% 安全地設定你的 AI 助理 (泰米爾語)",
+      "view_count": 23023
     },
     {
       "id": "N2w0vSSju4c",
@@ -6726,7 +7049,8 @@
         "GitHub"
       ],
       "prompts": [],
-      "title_zh": "沒人討論的 Clawdbot 災難（AI 代理接管）"
+      "title_zh": "沒人討論的 Clawdbot 災難（AI 代理接管）",
+      "view_count": 12132
     },
     {
       "id": "5KHYe0duywA",
@@ -6747,7 +7071,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "我如何將 OpenClaw 用於 SEO（真實案例分享）"
+      "title_zh": "我如何將 OpenClaw 用於 SEO（真實案例分享）",
+      "view_count": 2565
     },
     {
       "id": "Q9wdf2zG_wo",
@@ -6768,7 +7093,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 教學：新手如何在 15 分鐘內完成設定 (Clawdbot)"
+      "title_zh": "OpenClaw 教學：新手如何在 15 分鐘內完成設定 (Clawdbot)",
+      "view_count": 25212
     },
     {
       "id": "RX-fQTW2To8",
@@ -6789,7 +7115,8 @@
         "成本管理"
       ],
       "prompts": [],
-      "title_zh": "我將 OpenClaw 的成本降低了 97%"
+      "title_zh": "我將 OpenClaw 的成本降低了 97%",
+      "view_count": 133549
     },
     {
       "id": "C2yyURbo8RE",
@@ -6810,7 +7137,8 @@
         "CRM"
       ],
       "prompts": [],
-      "title_zh": "如何利用 OpenClaw 賺錢（全面解析）"
+      "title_zh": "如何利用 OpenClaw 賺錢（全面解析）",
+      "view_count": 9346
     },
     {
       "id": "C2yyURbo8RE",
@@ -6831,7 +7159,8 @@
         "業務流程自動化"
       ],
       "prompts": [],
-      "title_zh": "如何利用 OpenClaw 賺錢（全面解析）"
+      "title_zh": "如何利用 OpenClaw 賺錢（全面解析）",
+      "view_count": 9346
     },
     {
       "id": "72BdaZlB1R0",
@@ -6851,7 +7180,8 @@
         "商務管理"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 代理正在幫我運作公司！"
+      "title_zh": "OpenClaw 代理正在幫我運作公司！",
+      "view_count": 172580
     },
     {
       "id": "eDIDysgEHUU",
@@ -6872,7 +7202,8 @@
         "本地部署"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 逐步教學：100% 本地化設定你的 AI 助理 (Telegram + Ollama)"
+      "title_zh": "OpenClaw 逐步教學：100% 本地化設定你的 AI 助理 (Telegram + Ollama)",
+      "view_count": 65389
     },
     {
       "id": "ER5v_PT74lk",
@@ -6892,7 +7223,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "新的 Memubot 會擊敗 OpenClaw 嗎？"
+      "title_zh": "新的 Memubot 會擊敗 OpenClaw 嗎？",
+      "view_count": 20246
     },
     {
       "id": "gej2RO55zxQ",
@@ -6911,7 +7243,8 @@
         "投資報酬率"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 用於交易簡直無敵（71,057% 投資報酬率）"
+      "title_zh": "Clawdbot 用於交易簡直無敵（71,057% 投資報酬率）",
+      "view_count": 20366
     },
     {
       "id": "kb3jY9yzY9c",
@@ -6930,7 +7263,8 @@
         "工作自動化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 在沒動滑鼠的情況下完成了我整天的工作 ⚡️ #開源AI #自動化"
+      "title_zh": "Clawdbot 在沒動滑鼠的情況下完成了我整天的工作 ⚡️ #開源AI #自動化",
+      "view_count": 34287
     },
     {
       "id": "qIJXGLfoxyg",
@@ -6952,7 +7286,8 @@
         "VPS部署"
       ],
       "prompts": [],
-      "title_zh": "說真的，安裝 OpenClaw (Clawdbot) 之前請先看這部影片"
+      "title_zh": "說真的，安裝 OpenClaw (Clawdbot) 之前請先看這部影片",
+      "view_count": 9247
     },
     {
       "id": "49QY6-RHbGo",
@@ -6973,7 +7308,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "我將 Clawdbot AI（現為 OpenClaw）連接到我的整個事業 | Mac Mini"
+      "title_zh": "我將 Clawdbot AI（現為 OpenClaw）連接到我的整個事業 | Mac Mini",
+      "view_count": 49509
     },
     {
       "id": "255mUjY-a-k",
@@ -6992,7 +7328,8 @@
         "電子商務"
       ],
       "prompts": [],
-      "title_zh": "為什麼 2026 年每個直運電商都需要 OpenClaw"
+      "title_zh": "為什麼 2026 年每個直運電商都需要 OpenClaw",
+      "view_count": 563
     },
     {
       "id": "rsyMrEyx8oA",
@@ -7013,7 +7350,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "我在 5 天內用 Clawdbot (OpenClaw) 建立的一切，用來自動化我的生活與事業"
+      "title_zh": "我在 5 天內用 Clawdbot (OpenClaw) 建立的一切，用來自動化我的生活與事業",
+      "view_count": 5157
     },
     {
       "id": "6OSEZx8v4so",
@@ -7034,7 +7372,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 終於變得既簡單又安全了... (Clawdbot)"
+      "title_zh": "OpenClaw 終於變得既簡單又安全了... (Clawdbot)",
+      "view_count": 60803
     },
     {
       "id": "iCrnTLRGGsQ",
@@ -7055,7 +7394,8 @@
         "Telegram Bot"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Minimax：免費 AI 語音代理太強了！"
+      "title_zh": "OpenClaw + Minimax：免費 AI 語音代理太強了！",
+      "view_count": 13650
     },
     {
       "id": "mXRIDQIsfE8",
@@ -7076,7 +7416,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw + Ollama + Kimi K2.5 太強了（完全免費！）"
+      "title_zh": "OpenClaw + Ollama + Kimi K2.5 太強了（完全免費！）",
+      "view_count": 62043
     },
     {
       "id": "1E8dG80sLLw",
@@ -7097,7 +7438,8 @@
         "硬體配置"
       ],
       "prompts": [],
-      "title_zh": "在為了 OpenClaw 購買 Mac mini 之前，請先看這個"
+      "title_zh": "在為了 OpenClaw 購買 Mac mini 之前，請先看這個",
+      "view_count": 34374
     },
     {
       "id": "lxfakTpdz1Y",
@@ -7118,7 +7460,8 @@
         "ClawdBot"
       ],
       "prompts": [],
-      "title_zh": "如何以超低成本運行 ClawdBot"
+      "title_zh": "如何以超低成本運行 ClawdBot",
+      "view_count": 83340
     },
     {
       "id": "p9acrso71KU",
@@ -7137,7 +7480,8 @@
         "開源項目"
       ],
       "prompts": [],
-      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）"
+      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）",
+      "view_count": 289926
     },
     {
       "id": "l51qziR8lLA",
@@ -7158,7 +7502,8 @@
         "開源軟體"
       ],
       "prompts": [],
-      "title_zh": "Openclaw AI 詳解 - OpenClaw 是什麼以及它是如何運作的？"
+      "title_zh": "Openclaw AI 詳解 - OpenClaw 是什麼以及它是如何運作的？",
+      "view_count": 34186
     },
     {
       "id": "p9acrso71KU",
@@ -7179,7 +7524,8 @@
         "AI 編程"
       ],
       "prompts": [],
-      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）"
+      "title_zh": "從 Clawdbot 到 Moltbot 再到 OpenClaw：搞砸一切的 72 小時（全面解析）",
+      "view_count": 289926
     },
     {
       "id": "mH8Kqb03qW4",
@@ -7198,7 +7544,8 @@
         "開源專案"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 上線了！"
+      "title_zh": "OpenClaw 上線了！",
+      "view_count": 46726
     },
     {
       "id": "V6Mp0fUh-OM",
@@ -7219,7 +7566,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "使用 OpenClaw 與 Ollama 在本地運行 AI CoWork（完整安裝教學）"
+      "title_zh": "使用 OpenClaw 與 Ollama 在本地運行 AI CoWork（完整安裝教學）",
+      "view_count": 72600
     },
     {
       "id": "fnLAg6UPSns",
@@ -7238,7 +7586,8 @@
         "內容策略"
       ],
       "prompts": [],
-      "title_zh": "我如何使用 OpenClaw (Clawdbot) 自動化我的整個行銷系統"
+      "title_zh": "我如何使用 OpenClaw (Clawdbot) 自動化我的整個行銷系統",
+      "view_count": 549
     },
     {
       "id": "CENnPXxVUAc",
@@ -7259,7 +7608,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 技能教學 - 建立本地 AI 代理技能 + MoltBook 整合"
+      "title_zh": "OpenClaw 技能教學 - 建立本地 AI 代理技能 + MoltBook 整合",
+      "view_count": 18248
     },
     {
       "id": "GgbeLD7knXo",
@@ -7280,7 +7630,8 @@
         "Google 排名"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw AI SEO：每天從 0 到 700+ 的 SEO 流量！"
+      "title_zh": "OpenClaw AI SEO：每天從 0 到 700+ 的 SEO 流量！",
+      "view_count": 10497
     },
     {
       "id": "NDJCam-oHU4",
@@ -7301,7 +7652,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 創作者危險的 AI 程式碼工作流"
+      "title_zh": "OpenClaw 創作者危險的 AI 程式碼工作流",
+      "view_count": 54599
     },
     {
       "id": "csffyf9e30k",
@@ -7322,7 +7674,8 @@
         "MCP server"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：適用於智慧家庭的免費 AI 助手 #homeassistant #clawdbot #ai"
+      "title_zh": "Clawdbot：適用於智慧家庭的免費 AI 助手 #homeassistant #clawdbot #ai",
+      "view_count": 1139
     },
     {
       "id": "9iotTtgS0Ws",
@@ -7343,7 +7696,8 @@
         "Linux"
       ],
       "prompts": [],
-      "title_zh": "在 AWS 上免費安裝 OpenClaw (Clawdbot → Moltbot → OpenClaw)"
+      "title_zh": "在 AWS 上免費安裝 OpenClaw (Clawdbot → Moltbot → OpenClaw)",
+      "view_count": 25106
     },
     {
       "id": "Ry8J5yUab-k",
@@ -7364,7 +7718,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "我討厭 OpenClaw... 但我停不下來 (Clawdbot)"
+      "title_zh": "我討厭 OpenClaw... 但我停不下來 (Clawdbot)",
+      "view_count": 71267
     },
     {
       "id": "fBwLOl_pLF8",
@@ -7384,7 +7739,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw (原名 Clawdbot) 是真正能處理事務的 AI 助手"
+      "title_zh": "OpenClaw (原名 Clawdbot) 是真正能處理事務的 AI 助手",
+      "view_count": 1306
     },
     {
       "id": "AcwK1Uuwc0U",
@@ -7403,7 +7759,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 創作者如何用 AI 在 40 分鐘內打理生活 | Peter Steinberger"
+      "title_zh": "OpenClaw 創作者如何用 AI 在 40 分鐘內打理生活 | Peter Steinberger",
+      "view_count": 285357
     },
     {
       "id": "C-_ngZTKmGs",
@@ -7424,7 +7781,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "這款開源 AI 助手讓網路沸騰了 | OpenClaw"
+      "title_zh": "這款開源 AI 助手讓網路沸騰了 | OpenClaw",
+      "view_count": 23725
     },
     {
       "id": "XulRkTy7xCE",
@@ -7443,7 +7801,8 @@
         "自動化安裝"
       ],
       "prompts": [],
-      "title_zh": "我解決了 OpenClaw 的一個大問題..."
+      "title_zh": "我解決了 OpenClaw 的一個大問題...",
+      "view_count": 16229
     },
     {
       "id": "XulRkTy7xCE",
@@ -7464,7 +7823,8 @@
         "Telegram Bot"
       ],
       "prompts": [],
-      "title_zh": "我解決了 OpenClaw 的一個大問題..."
+      "title_zh": "我解決了 OpenClaw 的一個大問題...",
+      "view_count": 16229
     },
     {
       "id": "P6XWQ_CcAt0",
@@ -7485,7 +7845,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整教學：安裝、設定與實際自動化應用（循序漸進）😮"
+      "title_zh": "OpenClaw 完整教學：安裝、設定與實際自動化應用（循序漸進）😮",
+      "view_count": 42986
     },
     {
       "id": "ocTzXXTaakY",
@@ -7506,7 +7867,8 @@
         "初學者教學"
       ],
       "prompts": [],
-      "title_zh": "為初學者解釋 OpenClaw AI 代理，包含安全問題，讓你聽起來專業又聰明"
+      "title_zh": "為初學者解釋 OpenClaw AI 代理，包含安全問題，讓你聽起來專業又聰明",
+      "view_count": 51251
     },
     {
       "id": "hIFj12pImko",
@@ -7527,7 +7889,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "10 分鐘搞懂 Clawdbot/Moltbot..."
+      "title_zh": "10 分鐘搞懂 Clawdbot/Moltbot...",
+      "view_count": 19196
     },
     {
       "id": "HTu1OGWAn5w",
@@ -7547,7 +7910,8 @@
         "工作流程"
       ],
       "prompts": [],
-      "title_zh": "如何比 99% 的人更會用 Claude Cowork (完整指南)"
+      "title_zh": "如何比 99% 的人更會用 Claude Cowork (完整指南)",
+      "view_count": 229746
     },
     {
       "id": "UTCi_q6iuCM",
@@ -7572,7 +7936,8 @@
         "Based on what you know about me and my goals, what are some tasks you can do to get us closer to our missions?",
         "What other information can I provide you to improve our productivity"
       ],
-      "title_zh": "如何讓 ClawdBot 強大 10 倍 (5 個簡單步驟)"
+      "title_zh": "如何讓 ClawdBot 強大 10 倍 (5 個簡單步驟)",
+      "view_count": 92317
     },
     {
       "id": "EhPH2Uwd09o",
@@ -7593,7 +7958,8 @@
         "Dashboard"
       ],
       "prompts": [],
-      "title_zh": "如何使用 Clawdbot (OpenClaw) 自動部署 Home Assistant 儀表板"
+      "title_zh": "如何使用 Clawdbot (OpenClaw) 自動部署 Home Assistant 儀表板",
+      "view_count": 3739
     },
     {
       "id": "4tDbUaKof8Q",
@@ -7615,7 +7981,8 @@
         "免費模型"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 完整教學：100% 免費設定 (AWS + OpenRouter + 免費 GLM 模型) - 每月 0 元成本"
+      "title_zh": "OpenClaw 完整教學：100% 免費設定 (AWS + OpenRouter + 免費 GLM 模型) - 每月 0 元成本",
+      "view_count": 100297
     },
     {
       "id": "-fmNzXCp7zA",
@@ -7636,7 +8003,8 @@
         "隱私安全"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 變得強大到令人恐懼 (Moltbook)"
+      "title_zh": "Clawdbot 變得強大到令人恐懼 (Moltbook)",
+      "view_count": 294636
     },
     {
       "id": "sNj9vWp8d7w",
@@ -7655,7 +8023,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "ClawdBOT 啟動 Claude Code，在我健身時幫我工作"
+      "title_zh": "ClawdBOT 啟動 Claude Code，在我健身時幫我工作",
+      "view_count": 923
     },
     {
       "id": "zwjMkI4Usd8",
@@ -7676,7 +8045,8 @@
         "內容創作"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot/Moltbot 熱潮詳解 🦞 #clawbot #moltbot #openclaw #ai"
+      "title_zh": "Clawdbot/Moltbot 熱潮詳解 🦞 #clawbot #moltbot #openclaw #ai",
+      "view_count": 33207
     },
     {
       "id": "PCJXKrdwEsE",
@@ -7697,7 +8067,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "4 分鐘內學會 OpenClaw 完整教學"
+      "title_zh": "4 分鐘內學會 OpenClaw 完整教學",
+      "view_count": 18902
     },
     {
       "id": "52kOmSQGt_E",
@@ -7718,7 +8089,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw (Clawdbot) 使用案例：9 個自動化 + 4 個真正實用的狂野建置"
+      "title_zh": "OpenClaw (Clawdbot) 使用案例：9 個自動化 + 4 個真正實用的狂野建置",
+      "view_count": 94151
     },
     {
       "id": "QW-PFjF2aEo",
@@ -7739,7 +8111,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw x MiniMax 的超狂應用案例 (如何像專家一樣使用 OpenClaw)"
+      "title_zh": "OpenClaw x MiniMax 的超狂應用案例 (如何像專家一樣使用 OpenClaw)",
+      "view_count": 37813
     },
     {
       "id": "a63dUwXUgDo",
@@ -7760,7 +8133,8 @@
         "AI 教學"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 初學者完整教學：如何使用與設定 ClawdBot (OpenClaw)"
+      "title_zh": "ClawdBot 初學者完整教學：如何使用與設定 ClawdBot (OpenClaw)",
+      "view_count": 431407
     },
     {
       "id": "o2ytEBw-rDA",
@@ -7781,7 +8155,8 @@
         "AI Agent Setup"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw / Moltbot / Clawdbot + 超級外掛：這個簡單的小技巧讓 Clawdbot 表現得更像真人！"
+      "title_zh": "OpenClaw / Moltbot / Clawdbot + 超級外掛：這個簡單的小技巧讓 Clawdbot 表現得更像真人！",
+      "view_count": 23826
     },
     {
       "id": "KjxYpRkPT48",
@@ -7802,7 +8177,8 @@
         "個人助理"
       ],
       "prompts": [],
-      "title_zh": "只需 75 美元就能擁有 AI 管家？Raspberry Pi 上的 OpenClaw+Kimi K-2.5 [完整教學]"
+      "title_zh": "只需 75 美元就能擁有 AI 管家？Raspberry Pi 上的 OpenClaw+Kimi K-2.5 [完整教學]",
+      "view_count": 45093
     },
     {
       "id": "KjxYpRkPT48",
@@ -7823,7 +8199,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "只需 75 美元就能擁有 AI 管家？Raspberry Pi 上的 OpenClaw+Kimi K-2.5 [完整教學]"
+      "title_zh": "只需 75 美元就能擁有 AI 管家？Raspberry Pi 上的 OpenClaw+Kimi K-2.5 [完整教學]",
+      "view_count": 45093
     },
     {
       "id": "4evf5YqVzOM",
@@ -7844,7 +8221,8 @@
         "工作流"
       ],
       "prompts": [],
-      "title_zh": "35 分鐘精通 OpenClaw/Clawdbot"
+      "title_zh": "35 分鐘精通 OpenClaw/Clawdbot",
+      "view_count": 100411
     },
     {
       "id": "fooZAZsBmpg",
@@ -7865,7 +8243,8 @@
         "網路安全"
       ],
       "prompts": [],
-      "title_zh": "如何在不被駭的情況下設定 OpenClaw (Clawdbot)：隔離 + 最小權限 + 防火牆"
+      "title_zh": "如何在不被駭的情況下設定 OpenClaw (Clawdbot)：隔離 + 最小權限 + 防火牆",
+      "view_count": 102007
     },
     {
       "id": "FbA7H9TwdYo",
@@ -7886,7 +8265,8 @@
         "開源軟體"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot + Kimi 2.5 太瘋狂了！😱"
+      "title_zh": "Clawdbot + Kimi 2.5 太瘋狂了！😱",
+      "view_count": 36062
     },
     {
       "id": "68i8etCBKwE",
@@ -7905,7 +8285,8 @@
         "應用開發"
       ],
       "prompts": [],
-      "title_zh": "用 Clawdbot 打造任何東西：這就是方法！"
+      "title_zh": "用 Clawdbot 打造任何東西：這就是方法！",
+      "view_count": 2832
     },
     {
       "id": "x9gHaJ1UAdU",
@@ -7926,7 +8307,8 @@
         "節省軟體開支"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot/OpenClaw 讓我的所有軟體應用程式都變成了免費"
+      "title_zh": "Clawdbot/OpenClaw 讓我的所有軟體應用程式都變成了免費",
+      "view_count": 18139
     },
     {
       "id": "AhcN5kLeX2k",
@@ -7946,7 +8328,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "我把 Clawdbot 變成了終極個人助理"
+      "title_zh": "我把 Clawdbot 變成了終極個人助理",
+      "view_count": 54050
     },
     {
       "id": "EMsmucNSb6I",
@@ -7967,7 +8350,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：自動化一切！(Moltbot 免費 AI 課程)"
+      "title_zh": "Clawdbot：自動化一切！(Moltbot 免費 AI 課程)",
+      "view_count": 3199
     },
     {
       "id": "egofv8c7oEk",
@@ -7988,7 +8372,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 搭配本地 Ollama 模型 - 完整簡易設定指南"
+      "title_zh": "OpenClaw 搭配本地 Ollama 模型 - 完整簡易設定指南",
+      "view_count": 164610
     },
     {
       "id": "LJiYybrMmC0",
@@ -8009,7 +8394,8 @@
       "prompts": [
         "Build a complete, functional web application for [App Idea] using React and Tailwind CSS. Ensure all components are integrated and the application is ready for deployment without further human intervention."
       ],
-      "title_zh": "Clawdbot 在我睡覺時開發了這個應用程式..."
+      "title_zh": "Clawdbot 在我睡覺時開發了這個應用程式...",
+      "view_count": 22411
     },
     {
       "id": "ssYt09bCgUY",
@@ -8030,7 +8416,8 @@
         "ClawdBot"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 的狂野崛起..."
+      "title_zh": "OpenClaw 的狂野崛起...",
+      "view_count": 1798116
     },
     {
       "id": "zX-9xXlBTtA",
@@ -8051,7 +8438,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "10 個可以立即使用的超狂 ClawdBot/OpenClaw 應用案例 [OpenClaw 教學]"
+      "title_zh": "10 個可以立即使用的超狂 ClawdBot/OpenClaw 應用案例 [OpenClaw 教學]",
+      "view_count": 46358
     },
     {
       "id": "-5ym_hGHp0U",
@@ -8070,7 +8458,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "直播：展示超棒的 ClawdBot/OpenClaw 應用案例"
+      "title_zh": "直播：展示超棒的 ClawdBot/OpenClaw 應用案例",
+      "view_count": 21149
     },
     {
       "id": "ZdZUNwUwHIs",
@@ -8091,7 +8480,8 @@
         "個人助理"
       ],
       "prompts": [],
-      "title_zh": "沒人討論過的 OpenClaw 設定方法"
+      "title_zh": "沒人討論過的 OpenClaw 設定方法",
+      "view_count": 21515
     },
     {
       "id": "fuaPsRPA3Cw",
@@ -8110,7 +8500,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "如何比 99% 的人更會用 ClawdBot"
+      "title_zh": "如何比 99% 的人更會用 ClawdBot",
+      "view_count": 44253
     },
     {
       "id": "qePhufA1hSE",
@@ -8131,7 +8522,8 @@
         "硬體部署"
       ],
       "prompts": [],
-      "title_zh": "我在 Raspberry Pi 上使用 Clawdbot (OpenClaw) - 效果好到驚人！"
+      "title_zh": "我在 Raspberry Pi 上使用 Clawdbot (OpenClaw) - 效果好到驚人！",
+      "view_count": 91983
     },
     {
       "id": "rlJovzVhlIo",
@@ -8152,7 +8544,8 @@
         "個人助理"
       ],
       "prompts": [],
-      "title_zh": "我把 Clawdbot 變成了終極個人助理"
+      "title_zh": "我把 Clawdbot 變成了終極個人助理",
+      "view_count": 76209
     },
     {
       "id": "ZdZUNwUwHIs",
@@ -8173,7 +8566,8 @@
         "AI 助理"
       ],
       "prompts": [],
-      "title_zh": "沒人討論過的 OpenClaw 設定方法"
+      "title_zh": "沒人討論過的 OpenClaw 設定方法",
+      "view_count": 21515
     },
     {
       "id": "qePhufA1hSE",
@@ -8194,7 +8588,8 @@
         "全天候運行"
       ],
       "prompts": [],
-      "title_zh": "我在 Raspberry Pi 上使用 Clawdbot (OpenClaw) - 效果好到驚人！"
+      "title_zh": "我在 Raspberry Pi 上使用 Clawdbot (OpenClaw) - 效果好到驚人！",
+      "view_count": 91983
     },
     {
       "id": "fuaPsRPA3Cw",
@@ -8214,7 +8609,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "如何比 99% 的人更會用 ClawdBot"
+      "title_zh": "如何比 99% 的人更會用 ClawdBot",
+      "view_count": 44253
     },
     {
       "id": "rlJovzVhlIo",
@@ -8235,7 +8631,8 @@
         "生產力提升"
       ],
       "prompts": [],
-      "title_zh": "我把 Clawdbot 變成了終極個人助理"
+      "title_zh": "我把 Clawdbot 變成了終極個人助理",
+      "view_count": 76209
     },
     {
       "id": "YRhGtHfs1Lw",
@@ -8254,7 +8651,8 @@
         "個人作業系統"
       ],
       "prompts": [],
-      "title_zh": "我如何使用 Clawdbot 24/7 全天候打理業務與生活"
+      "title_zh": "我如何使用 Clawdbot 24/7 全天候打理業務與生活",
+      "view_count": 97518
     },
     {
       "id": "rPAKq2oQVBs",
@@ -8273,7 +8671,8 @@
         "Anthropic"
       ],
       "prompts": [],
-      "title_zh": "情況變得更糟了 (Clawdbot)"
+      "title_zh": "情況變得更糟了 (Clawdbot)",
+      "view_count": 64220
     },
     {
       "id": "Orn3X0Nf5eQ",
@@ -8294,7 +8693,8 @@
         "WordPress"
       ],
       "prompts": [],
-      "title_zh": "Moltbot (Clawdbot)：構建與自動化任何事物！"
+      "title_zh": "Moltbot (Clawdbot)：構建與自動化任何事物！",
+      "view_count": 5590
     },
     {
       "id": "CnMlXwyA288",
@@ -8315,7 +8715,8 @@
         "工作流程"
       ],
       "prompts": [],
-      "title_zh": "這款爆紅 AI 機器人能免費幫你工作 | 設定教學"
+      "title_zh": "這款爆紅 AI 機器人能免費幫你工作 | 設定教學",
+      "view_count": 216407
     },
     {
       "id": "o0ZDDkNd1Ns",
@@ -8336,7 +8737,8 @@
         "創業策略"
       ],
       "prompts": [],
-      "title_zh": "如何利用 Clawdbot/Moltbot/Openclaw 每週賺進 3700 美元（完整課程）"
+      "title_zh": "如何利用 Clawdbot/Moltbot/Openclaw 每週賺進 3700 美元（完整課程）",
+      "view_count": 11743
     },
     {
       "id": "_6h_4XQUV3g",
@@ -8355,7 +8757,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "3 分鐘看懂 Clawdbot/Moltbot"
+      "title_zh": "3 分鐘看懂 Clawdbot/Moltbot",
+      "view_count": 26423
     },
     {
       "id": "n1AFCGVfaO8",
@@ -8376,7 +8779,8 @@
         "Smart Home"
       ],
       "prompts": [],
-      "title_zh": "實測 Home Assistant 2026.2 Beta：這些改動太驚人了"
+      "title_zh": "實測 Home Assistant 2026.2 Beta：這些改動太驚人了",
+      "view_count": 42744
     },
     {
       "id": "zvYH8csGNWA",
@@ -8399,7 +8803,8 @@
       "prompts": [
         "I want to create a Home Assistant automation that [describe your idea], please write the code and deploy it directly to my instance."
       ],
-      "title_zh": "如何使用 Clawdbot (Openclaw) 部署自動化流程"
+      "title_zh": "如何使用 Clawdbot (Openclaw) 部署自動化流程",
+      "view_count": 646
     },
     {
       "id": "VMa2LUjEH7E",
@@ -8420,7 +8825,8 @@
         "AI Agents"
       ],
       "prompts": [],
-      "title_zh": "搭配 Ollama 執行 Clawdbot：簡單快速的本地 LLM 完整指南 [A-Z]"
+      "title_zh": "搭配 Ollama 執行 Clawdbot：簡單快速的本地 LLM 完整指南 [A-Z]",
+      "view_count": 31548
     },
     {
       "id": "IH2_CzDDh6c",
@@ -8441,7 +8847,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "我用 Clawdbot 打造了一個 AI 團隊，效果太驚人了"
+      "title_zh": "我用 Clawdbot 打造了一個 AI 團隊，效果太驚人了",
+      "view_count": 2649
     },
     {
       "id": "yEsA00plChs",
@@ -8461,7 +8868,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 拯救了我的事業"
+      "title_zh": "ClawdBot 拯救了我的事業",
+      "view_count": 1529
     },
     {
       "id": "s-dpN0zEUjk",
@@ -8482,7 +8890,8 @@
         "數位行銷"
       ],
       "prompts": [],
-      "title_zh": "你必須立刻嘗試的 63 個瘋狂 ClawdBot 應用案例！"
+      "title_zh": "你必須立刻嘗試的 63 個瘋狂 ClawdBot 應用案例！",
+      "view_count": 64779
     },
     {
       "id": "kairgvzdUpo",
@@ -8503,7 +8912,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "我討厭 OpenClaw……但我停不下來 (Clawdbot)"
+      "title_zh": "我討厭 OpenClaw……但我停不下來 (Clawdbot)",
+      "view_count": 4866
     },
     {
       "id": "k6mMvEIqlH4",
@@ -8522,7 +8932,8 @@
         "AI工具"
       ],
       "prompts": [],
-      "title_zh": "大幅提升生產力的 16 個 OpenClaw 頂級技能"
+      "title_zh": "大幅提升生產力的 16 個 OpenClaw 頂級技能",
+      "view_count": 18566
     },
     {
       "id": "KH1YCMWC3t4",
@@ -8543,7 +8954,8 @@
         "Syntax.fm"
       ],
       "prompts": [],
-      "title_zh": "我讓 OpenClaw 完全掌控了我的電腦"
+      "title_zh": "我讓 OpenClaw 完全掌控了我的電腦",
+      "view_count": 15928
     },
     {
       "id": "XC5oeZnMvcg",
@@ -8564,7 +8976,8 @@
         "Liam Ottley"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 太強了：這裡有 3 種用它賺錢的方法"
+      "title_zh": "ClawdBot 太強了：這裡有 3 種用它賺錢的方法",
+      "view_count": 197463
     },
     {
       "id": "_b6mk9S2pBw",
@@ -8584,7 +8997,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：解析它為何爆紅"
+      "title_zh": "Clawdbot：解析它為何爆紅",
+      "view_count": 115199
     },
     {
       "id": "kFwzPJZoZoc",
@@ -8605,7 +9019,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "8 個實用的 Clawdbot 應用案例（完整教學）"
+      "title_zh": "8 個實用的 Clawdbot 應用案例（完整教學）",
+      "view_count": 136972
     },
     {
       "id": "pxxr4yNlQZ4",
@@ -8626,7 +9041,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "如何使用 Moltbot (Clawdbot) 技能產生器快速構建自動化"
+      "title_zh": "如何使用 Moltbot (Clawdbot) 技能產生器快速構建自動化",
+      "view_count": 857
     },
     {
       "id": "5p8-K-nsQsc",
@@ -8647,7 +9063,8 @@
         "VPS Setup"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：那些沒人告訴你的真相"
+      "title_zh": "Clawdbot：那些沒人告訴你的真相",
+      "view_count": 10630
     },
     {
       "id": "2VqCZp_ffaE",
@@ -8668,7 +9085,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "用 Clawdbot 真的能賺錢嗎？我親自測試了"
+      "title_zh": "用 Clawdbot 真的能賺錢嗎？我親自測試了",
+      "view_count": 7612
     },
     {
       "id": "CB6Ysb_BLcM",
@@ -8690,7 +9108,8 @@
         "網路安全"
       ],
       "prompts": [],
-      "title_zh": "為什麼我看完這個之後決定刪除 Clawdbot (Moltbot)"
+      "title_zh": "為什麼我看完這個之後決定刪除 Clawdbot (Moltbot)",
+      "view_count": 40464
     },
     {
       "id": "fcFOYzMeG7U",
@@ -8711,7 +9130,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (現為 Moltbot) 真實使用心得：優點與缺點全解析"
+      "title_zh": "Clawdbot (現為 Moltbot) 真實使用心得：優點與缺點全解析",
+      "view_count": 44032
     },
     {
       "id": "rvdL6q3j5ZA",
@@ -8732,7 +9152,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "Openclaw (前身為 Clawdbot 與 Moltbot) 詳解"
+      "title_zh": "Openclaw (前身為 Clawdbot 與 Moltbot) 詳解",
+      "view_count": 62215
     },
     {
       "id": "KShA22Crumc",
@@ -8752,7 +9173,8 @@
         "Home Automation"
       ],
       "prompts": [],
-      "title_zh": "這款 AI 代理能接管你整個開發流程"
+      "title_zh": "這款 AI 代理能接管你整個開發流程",
+      "view_count": 13560
     },
     {
       "id": "7Cducyu5Dd0",
@@ -8773,7 +9195,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (又名 Moltbot) — 拋開炒作，看看它到底有什麼用"
+      "title_zh": "Clawdbot (又名 Moltbot) — 拋開炒作，看看它到底有什麼用",
+      "view_count": 12785
     },
     {
       "id": "0KUYLdjqG2k",
@@ -8796,7 +9219,8 @@
       "prompts": [
         "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
       ],
-      "title_zh": "適合初學者的 Windows 版 Clawdbot / OpenClaw / Moltbot 安裝指南"
+      "title_zh": "適合初學者的 Windows 版 Clawdbot / OpenClaw / Moltbot 安裝指南",
+      "view_count": 63474
     },
     {
       "id": "Mv_J8mvYTgg",
@@ -8818,7 +9242,8 @@
         "AI 自動化"
       ],
       "prompts": [],
-      "title_zh": "我在 10 分鐘內用 Clawdbot (OpenClaw) 打造了終極 AI 語音助理"
+      "title_zh": "我在 10 分鐘內用 Clawdbot (OpenClaw) 打造了終極 AI 語音助理",
+      "view_count": 11721
     },
     {
       "id": "4zXQyswXj7U",
@@ -8839,7 +9264,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "完整教學：20 分鐘設定好你的 24/7 全天候 AI 員工 (OpenClaw)"
+      "title_zh": "完整教學：20 分鐘設定好你的 24/7 全天候 AI 員工 (OpenClaw)",
+      "view_count": 54293
     },
     {
       "id": "9-FKn1WzKuI",
@@ -8858,7 +9284,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 簡直瘋了"
+      "title_zh": "Clawdbot 簡直瘋了",
+      "view_count": 1374
     },
     {
       "id": "zv29i6gAFa4",
@@ -8879,7 +9306,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "Moltbot 是我的初級開發者，Claude Code 則是資深前輩"
+      "title_zh": "Moltbot 是我的初級開發者，Claude Code 則是資深前輩",
+      "view_count": 910
     },
     {
       "id": "Mo25-W4k1wI",
@@ -8900,7 +9328,8 @@
         "GitHub"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot / Moltbot 到底是何方神聖？"
+      "title_zh": "Clawdbot / Moltbot 到底是何方神聖？",
+      "view_count": 47
     },
     {
       "id": "InH0S9QHlbY",
@@ -8919,7 +9348,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：既昂貴又不安全且沒用的 AI 代理"
+      "title_zh": "Clawdbot：既昂貴又不安全且沒用的 AI 代理",
+      "view_count": 6646
     },
     {
       "id": "g39les0HViY",
@@ -8940,7 +9370,8 @@
         "技術評估"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 簡直是一場災難"
+      "title_zh": "ClawdBot 簡直是一場災難",
+      "view_count": 236
     },
     {
       "id": "e3EVP2-X3PU",
@@ -8961,7 +9392,8 @@
         "工具解析"
       ],
       "prompts": [],
-      "title_zh": "5 分鐘看懂 Clawd Bot（無炒作版）"
+      "title_zh": "5 分鐘看懂 Clawd Bot（無炒作版）",
+      "view_count": 8645
     },
     {
       "id": "c2nAKH8BIdo",
@@ -8987,7 +9419,8 @@
         "clawdbot security audit",
         "clawdbot doctor"
       ],
-      "title_zh": "OpenClaw 正在接管 AI 領域"
+      "title_zh": "OpenClaw 正在接管 AI 領域",
+      "view_count": 123375
     },
     {
       "id": "CBNbcbMs_Lc",
@@ -9008,7 +9441,8 @@
         "Anthropic"
       ],
       "prompts": [],
-      "title_zh": "100 小時實測 Clawdbot vs Claude Code（真實結果）"
+      "title_zh": "100 小時實測 Clawdbot vs Claude Code（真實結果）",
+      "view_count": 236939
     },
     {
       "id": "9mWOU14yGcQ",
@@ -9029,7 +9463,8 @@
         "Claude Code"
       ],
       "prompts": [],
-      "title_zh": "Openclaw (原 Moltbot) 是我用過最強大的 AI 助手"
+      "title_zh": "Openclaw (原 Moltbot) 是我用過最強大的 AI 助手",
+      "view_count": 3662
     },
     {
       "id": "9mWOU14yGcQ",
@@ -9050,7 +9485,8 @@
         "Claude Code"
       ],
       "prompts": [],
-      "title_zh": "Openclaw (原 Moltbot) 是我用過最強大的 AI 助手"
+      "title_zh": "Openclaw (原 Moltbot) 是我用過最強大的 AI 助手",
+      "view_count": 3662
     },
     {
       "id": "b-l9sGh1-UY",
@@ -9069,7 +9505,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "你必須立刻嘗試的 5 個瘋狂 ClawdBot 應用案例"
+      "title_zh": "你必須立刻嘗試的 5 個瘋狂 ClawdBot 應用案例",
+      "view_count": 74260
     },
     {
       "id": "fH40X1CK9NM",
@@ -9090,7 +9527,8 @@
         "商務自動化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：構建並自動化處理任何事物！"
+      "title_zh": "Clawdbot：構建並自動化處理任何事物！",
+      "view_count": 7734
     },
     {
       "id": "esXXuejofgk",
@@ -9109,7 +9547,8 @@
         "Anthropic"
       ],
       "prompts": [],
-      "title_zh": "事實上，Clawdbot 很爛"
+      "title_zh": "事實上，Clawdbot 很爛",
+      "view_count": 186775
     },
     {
       "id": "x5tBofRpxgc",
@@ -9128,7 +9567,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "Openclaw (前身為 Clawdbot 與 Moltbot) 太瘋狂了"
+      "title_zh": "Openclaw (前身為 Clawdbot 與 Moltbot) 太瘋狂了",
+      "view_count": 28965
     },
     {
       "id": "04wh2Hlgbds",
@@ -9151,7 +9591,8 @@
       "prompts": [
         "I want you to create a morning brief that you text me every day. Please let me know any news going on in the world that us relevant to me. The weather in Mountain View, tasks you can do today that will be helpful, and tasks I should do that will advance my career"
       ],
-      "title_zh": "這是設定 ClawdBot 最便宜且最簡單的方法"
+      "title_zh": "這是設定 ClawdBot 最便宜且最簡單的方法",
+      "view_count": 114792
     },
     {
       "id": "D85rx_KnUs4",
@@ -9172,7 +9613,8 @@
         "自動化工具"
       ],
       "prompts": [],
-      "title_zh": "Moltbot/Clawdbot AI SEO：我如何在 12 小時內衝上排名第一"
+      "title_zh": "Moltbot/Clawdbot AI SEO：我如何在 12 小時內衝上排名第一",
+      "view_count": 3112
     },
     {
       "id": "iNw7eaQRh0o",
@@ -9193,7 +9635,8 @@
         "Moltbot"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot (Moltbot) 可以同時運行 100 個帳號"
+      "title_zh": "ClawdBot (Moltbot) 可以同時運行 100 個帳號",
+      "view_count": 5483
     },
     {
       "id": "V-v8haFVfKo",
@@ -9214,7 +9657,8 @@
         "本地 AI"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot + Mac Mini AI 配置太強大了！😱"
+      "title_zh": "Clawdbot + Mac Mini AI 配置太強大了！😱",
+      "view_count": 54386
     },
     {
       "id": "UDMI0Dfxluo",
@@ -9235,7 +9679,8 @@
         "Moltbot"
       ],
       "prompts": [],
-      "title_zh": "Ollama + Clawdbot/Moltbot 太狂了！（免費本地 AI 編程）🤯"
+      "title_zh": "Ollama + Clawdbot/Moltbot 太狂了！（免費本地 AI 編程）🤯",
+      "view_count": 23871
     },
     {
       "id": "3IzXSm7QFig",
@@ -9257,7 +9702,8 @@
         "虛擬機"
       ],
       "prompts": [],
-      "title_zh": "我如何為團隊設定 Openclaw (Moltbot)（無需 Mac mini）- 20 分鐘"
+      "title_zh": "我如何為團隊設定 Openclaw (Moltbot)（無需 Mac mini）- 20 分鐘",
+      "view_count": 10591
     },
     {
       "id": "VQiGJRBkkSQ",
@@ -9278,7 +9724,8 @@
         "開源工具"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：完整新手指南！（2026 版）"
+      "title_zh": "Clawdbot：完整新手指南！（2026 版）",
+      "view_count": 46341
     },
     {
       "id": "DnWzi8DKDQE",
@@ -9299,7 +9746,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "免費 Clawdbot/Moltbot 大師班（完整設定 + 疑難排解）"
+      "title_zh": "免費 Clawdbot/Moltbot 大師班（完整設定 + 疑難排解）",
+      "view_count": 1501
     },
     {
       "id": "e8Zt6Lxz9o8",
@@ -9320,7 +9768,8 @@
         "AGI"
       ],
       "prompts": [],
-      "title_zh": "如果 Clawdbot 不是 AGI，那為什麼每個人都對它感到瘋狂？"
+      "title_zh": "如果 Clawdbot 不是 AGI，那為什麼每個人都對它感到瘋狂？",
+      "view_count": 9795
     },
     {
       "id": "StunNWxdZO0",
@@ -9341,7 +9790,8 @@
         "工作流自動化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 的技能太驚人了 — 看看這款 AI 能做什麼"
+      "title_zh": "Clawdbot 的技能太驚人了 — 看看這款 AI 能做什麼",
+      "view_count": 4878
     },
     {
       "id": "BhjK2Gr0Ryc",
@@ -9362,7 +9812,8 @@
         "伺服器安裝"
       ],
       "prompts": [],
-      "title_zh": "幾分鐘內在 VPS 上設置 Clawdbot（不需要 Mac mini）"
+      "title_zh": "幾分鐘內在 VPS 上設置 Clawdbot（不需要 Mac mini）",
+      "view_count": 121808
     },
     {
       "id": "9GBLQVYo9qM",
@@ -9383,7 +9834,8 @@
         "MCP server"
       ],
       "prompts": [],
-      "title_zh": "如何使用 Clawdbot 和 AI 控制您的智慧家居"
+      "title_zh": "如何使用 Clawdbot 和 AI 控制您的智慧家居",
+      "view_count": 8025
     },
     {
       "id": "7ffF3fumhcQ",
@@ -9402,7 +9854,8 @@
         "隱私保護"
       ],
       "prompts": [],
-      "title_zh": "我打造了一個本地 AI 助手：100% 免費且無需訂閱！"
+      "title_zh": "我打造了一個本地 AI 助手：100% 免費且無需訂閱！",
+      "view_count": 63745
     },
     {
       "id": "ocEoCYs_upA",
@@ -9424,7 +9877,8 @@
         "WhatsApp"
       ],
       "prompts": [],
-      "title_zh": "我用 Clawdbot 打造了一個 AI 機器人 - 這是之後發生的事"
+      "title_zh": "我用 Clawdbot 打造了一個 AI 機器人 - 這是之後發生的事",
+      "view_count": 179
     },
     {
       "id": "DTCJAcbL2Gw",
@@ -9447,7 +9901,8 @@
       "prompts": [
         "My name is Raman, you are Molt"
       ],
-      "title_zh": "Moltbot (ClawdBot) 如何將我的 WhatsApp 變成個人 AI 助手"
+      "title_zh": "Moltbot (ClawdBot) 如何將我的 WhatsApp 變成個人 AI 助手",
+      "view_count": 13631
     },
     {
       "id": "06oLpdFLkVA",
@@ -9468,7 +9923,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 剛讓賈維斯 (JARVIS) 對每個人來說都成為現實"
+      "title_zh": "OpenClaw 剛讓賈維斯 (JARVIS) 對每個人來說都成為現實",
+      "view_count": 18261
     },
     {
       "id": "9wmiXD04uE8",
@@ -9489,7 +9945,8 @@
         "Productivity"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (moltbot) 詳盡解析..."
+      "title_zh": "Clawdbot (moltbot) 詳盡解析...",
+      "view_count": 14186
     },
     {
       "id": "CFahwp0biWM",
@@ -9510,7 +9967,8 @@
         "無代碼開發"
       ],
       "prompts": [],
-      "title_zh": "用 Clawdbot + AntiGravity 打造任何東西：教學看這裡！"
+      "title_zh": "用 Clawdbot + AntiGravity 打造任何東西：教學看這裡！",
+      "view_count": 31418
     },
     {
       "id": "X-Ew43uaktc",
@@ -9531,7 +9989,8 @@
         "省錢技巧"
       ],
       "prompts": [],
-      "title_zh": "別為了 ClawdBot 買 Mac Mini。你不需要它。改用 VPS 或閒置電腦！"
+      "title_zh": "別為了 ClawdBot 買 Mac Mini。你不需要它。改用 VPS 或閒置電腦！",
+      "view_count": 41904
     },
     {
       "id": "U8kXfk8enrY",
@@ -9552,7 +10011,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot/OpenClaw 詳盡解析（以及如何使用）"
+      "title_zh": "Clawdbot/OpenClaw 詳盡解析（以及如何使用）",
+      "view_count": 324191
     },
     {
       "id": "kSno1-xOjwI",
@@ -9573,7 +10033,8 @@
         "低階開發"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂"
+      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂",
+      "view_count": 383006
     },
     {
       "id": "kSno1-xOjwI",
@@ -9592,7 +10053,8 @@
         "漏洞分析"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂"
+      "title_zh": "OpenClaw 的安全性狀況簡集瘋狂",
+      "view_count": 383006
     },
     {
       "id": "MUDvwqJWWIw",
@@ -9613,7 +10075,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "我玩了一整週末的 Clawdbot - 真的太神了。"
+      "title_zh": "我玩了一整週末的 Clawdbot - 真的太神了。",
+      "view_count": 405080
     },
     {
       "id": "mciKUCvAPIQ",
@@ -9632,7 +10095,8 @@
         "內容行銷"
       ],
       "prompts": [],
-      "title_zh": "新的 Clawdbot AI SEO 太驚人了！"
+      "title_zh": "新的 Clawdbot AI SEO 太驚人了！",
+      "view_count": 2440
     },
     {
       "id": "tEjg56ZYKJo",
@@ -9652,7 +10116,8 @@
         "初學者指南"
       ],
       "prompts": [],
-      "title_zh": "6 分鐘詳解 Clawdbot（新手指南）"
+      "title_zh": "6 分鐘詳解 Clawdbot（新手指南）",
+      "view_count": 67225
     },
     {
       "id": "ht7otKWrZD0",
@@ -9673,7 +10138,8 @@
         "賺錢"
       ],
       "prompts": [],
-      "title_zh": "OpenClaw/Clawdbot/Moltbot 完整課程 3 小時（建置與自動化任何事物）"
+      "title_zh": "OpenClaw/Clawdbot/Moltbot 完整課程 3 小時（建置與自動化任何事物）",
+      "view_count": 9457
     },
     {
       "id": "PrWZe0VmnGg",
@@ -9694,7 +10160,8 @@
         "OpenClaw"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 將在 2026 年造就新的百萬富翁，解析如何達成（太狂了）"
+      "title_zh": "Clawdbot 將在 2026 年造就新的百萬富翁，解析如何達成（太狂了）",
+      "view_count": 75861
     },
     {
       "id": "NlE-6NC3elE",
@@ -9715,7 +10182,8 @@
         "Vibe Coding"
       ],
       "prompts": [],
-      "title_zh": "🦞 運行 Clawdbot：私人交易代理（每月不到 20 美元）"
+      "title_zh": "🦞 運行 Clawdbot：私人交易代理（每月不到 20 美元）",
+      "view_count": 19959
     },
     {
       "id": "9fcoCwQkFSM",
@@ -9736,7 +10204,8 @@
         "加密貨幣"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 拿著我的錢包..."
+      "title_zh": "Clawdbot 拿著我的錢包...",
+      "view_count": 132150
     },
     {
       "id": "JNA55IqntNo",
@@ -9757,7 +10226,8 @@
         "被動收入"
       ],
       "prompts": [],
-      "title_zh": "我的 ClawdBot 設置全天候自動賺錢"
+      "title_zh": "我的 ClawdBot 設置全天候自動賺錢",
+      "view_count": 6776
     },
     {
       "id": "P9sK62PznS4",
@@ -9779,7 +10249,8 @@
         "初學者教學"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot/Moltbot/Openclaw 太強了 - 完整新手設置與免費 24/7 託管"
+      "title_zh": "Clawdbot/Moltbot/Openclaw 太強了 - 完整新手設置與免費 24/7 託管",
+      "view_count": 21594
     },
     {
       "id": "W15UztbGEJw",
@@ -9800,7 +10271,8 @@
         "任務管理"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot：全天候自動化你生活的 AI 代理員工！"
+      "title_zh": "ClawdBot：全天候自動化你生活的 AI 代理員工！",
+      "view_count": 36622
     },
     {
       "id": "NhJxxv3f7lI",
@@ -9821,7 +10293,8 @@
         "OpenAI"
       ],
       "prompts": [],
-      "title_zh": "新手如何使用 Clawdbot"
+      "title_zh": "新手如何使用 Clawdbot",
+      "view_count": 90529
     },
     {
       "id": "2zWGFLrTVmI",
@@ -9842,7 +10315,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "我剛用 Clawdbot 取代了自己... 教學在此"
+      "title_zh": "我剛用 Clawdbot 取代了自己... 教學在此",
+      "view_count": 90117
     },
     {
       "id": "DAmhPd21ZHo",
@@ -9863,7 +10337,8 @@
         "AI 助理"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 太瘋狂了！"
+      "title_zh": "Clawdbot 太瘋狂了！",
+      "view_count": 2430
     },
     {
       "id": "VsgL6YMP5xg",
@@ -9885,7 +10360,8 @@
         "Home Lab"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (現為 OpenClaw) 設置：用於交易、Gmail、日曆和 Home Lab 管理的 AI 助手"
+      "title_zh": "Clawdbot (現為 OpenClaw) 設置：用於交易、Gmail、日曆和 Home Lab 管理的 AI 助手",
+      "view_count": 9039
     },
     {
       "id": "Idkkl6InPbU",
@@ -9906,7 +10382,8 @@
         "安裝教學"
       ],
       "prompts": [],
-      "title_zh": "搭配本地 Ollama 模型的 Clawdbot - 完整設置指南"
+      "title_zh": "搭配本地 Ollama 模型的 Clawdbot - 完整設置指南",
+      "view_count": 37388
     },
     {
       "id": "slneUsTh554",
@@ -9927,7 +10404,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (Moltbot) (OpenClaw) 改變了我的工作方式，這有 10 個原因"
+      "title_zh": "Clawdbot (Moltbot) (OpenClaw) 改變了我的工作方式，這有 10 個原因",
+      "view_count": 270
     },
     {
       "id": "iisdjSyuQnI",
@@ -9948,7 +10426,8 @@
         "自託管 AI"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (OpenClaw) 是什麼？2 分鐘詳解"
+      "title_zh": "Clawdbot (OpenClaw) 是什麼？2 分鐘詳解",
+      "view_count": 10104
     },
     {
       "id": "D07SE4r7AgI",
@@ -9967,7 +10446,8 @@
         "自動化工作流"
       ],
       "prompts": [],
-      "title_zh": "Claude Cowork vs Clawdbot：AI 代理如何每週幫你省下 10+ 小時"
+      "title_zh": "Claude Cowork vs Clawdbot：AI 代理如何每週幫你省下 10+ 小時",
+      "view_count": 358
     },
     {
       "id": "dNQYkYqhrAg",
@@ -9989,7 +10469,8 @@
         "安全配置"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot/OpenClaw：不需要買 Mac mini。在 macOS 虛擬機中安全運行（免費）"
+      "title_zh": "Clawdbot/OpenClaw：不需要買 Mac mini。在 macOS 虛擬機中安全運行（免費）",
+      "view_count": 2430
     },
     {
       "id": "I66_awb3F9A",
@@ -10010,7 +10491,8 @@
         "OpenClaw"
       ],
       "prompts": [],
-      "title_zh": "這款爆紅的 AI 代理 Clawdbot 讓你透過手機控制電腦"
+      "title_zh": "這款爆紅的 AI 代理 Clawdbot 讓你透過手機控制電腦",
+      "view_count": 412519
     },
     {
       "id": "3quprszR1eI",
@@ -10031,7 +10513,8 @@
         "AI 員工"
       ],
       "prompts": [],
-      "title_zh": "我在 17 分鐘內用 Clawdbot/OpenClaw 打造了終極 AI 員工"
+      "title_zh": "我在 17 分鐘內用 Clawdbot/OpenClaw 打造了終極 AI 員工",
+      "view_count": 23538
     },
     {
       "id": "3quprszR1eI",
@@ -10052,7 +10535,8 @@
         "本地 AI"
       ],
       "prompts": [],
-      "title_zh": "我在 17 分鐘內用 Clawdbot/OpenClaw 打造了終極 AI 員工"
+      "title_zh": "我在 17 分鐘內用 Clawdbot/OpenClaw 打造了終極 AI 員工",
+      "view_count": 23538
     },
     {
       "id": "-1aE9tEPgvk",
@@ -10072,7 +10556,8 @@
         "GitHub 教學"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 絕對太強了！"
+      "title_zh": "ClawdBot 絕對太強了！",
+      "view_count": 51945
     },
     {
       "id": "noSZusDie58",
@@ -10093,7 +10578,8 @@
         "AI 代理人"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 太神了！"
+      "title_zh": "Clawdbot 太神了！",
+      "view_count": 10297
     },
     {
       "id": "c4vsJZiwlfw",
@@ -10115,7 +10601,8 @@
         "工作流自動化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 是我打造過最強的 AI 代理，這裡是 0 元運行教學！"
+      "title_zh": "Clawdbot 是我打造過最強的 AI 代理，這裡是 0 元運行教學！",
+      "view_count": 90813
     },
     {
       "id": "ktU0ABfrfM8",
@@ -10136,7 +10623,8 @@
         "工作流優化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot 評論：它真的值得嗎？"
+      "title_zh": "Clawdbot 評論：它真的值得嗎？",
+      "view_count": 34840
     },
     {
       "id": "AO5aW01DKHo",
@@ -10160,7 +10648,8 @@
         "npm install -g @anthropic-ai/claude-code",
         "claude"
       ],
-      "title_zh": "Agentic 工作流永遠改變了 AI 自動化！（Claude Code）"
+      "title_zh": "Agentic 工作流永遠改變了 AI 自動化！（Claude Code）",
+      "view_count": 198958
     },
     {
       "id": "7yM9PIloOnQ",
@@ -10179,7 +10668,8 @@
         "生產力自動化"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (Moltbot) (OpenClaw) 本地運行並完勝所有雲端 AI 助手"
+      "title_zh": "Clawdbot (Moltbot) (OpenClaw) 本地運行並完勝所有雲端 AI 助手",
+      "view_count": 456
     },
     {
       "id": "ikDNH4aG-lI",
@@ -10198,7 +10688,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot + Mac Mini / VPS：終極本地 AI 助手代理登場！"
+      "title_zh": "Clawdbot + Mac Mini / VPS：終極本地 AI 助手代理登場！",
+      "view_count": 45554
     },
     {
       "id": "KNDJzPoXZhg",
@@ -10219,7 +10710,8 @@
         "自動化助理"
       ],
       "prompts": [],
-      "title_zh": "為什麼大家都在為 Clawdbot 買 Mac Mini（購買與安裝前必看）"
+      "title_zh": "為什麼大家都在為 Clawdbot 買 Mac Mini（購買與安裝前必看）",
+      "view_count": 122236
     },
     {
       "id": "Z-FXHuiUJSU",
@@ -10240,7 +10732,8 @@
         "Clawdbot"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot (OpenClaw) 符合我對 AI 的所有期待"
+      "title_zh": "Clawdbot (OpenClaw) 符合我對 AI 的所有期待",
+      "view_count": 160065
     },
     {
       "id": "3DBpfB0ao50",
@@ -10259,7 +10752,8 @@
         "AI Agent"
       ],
       "prompts": [],
-      "title_zh": "2 分鐘內搞定 Clawdbot（免費 24/7 託管）"
+      "title_zh": "2 分鐘內搞定 Clawdbot（免費 24/7 託管）",
+      "view_count": 142294
     },
     {
       "id": "Qkqe-uRhQJE",
@@ -10280,7 +10774,8 @@
         "OpenClaw"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot 是我這輩子用過最強大的 AI 工具。以下是設置教學"
+      "title_zh": "ClawdBot 是我這輩子用過最強大的 AI 工具。以下是設置教學",
+      "view_count": 930701
     },
     {
       "id": "sjMbL1Z6pCs",
@@ -10301,7 +10796,8 @@
         "快速教學"
       ],
       "prompts": [],
-      "title_zh": "2 分鐘了解 Clawdbot"
+      "title_zh": "2 分鐘了解 Clawdbot",
+      "view_count": 36906
     },
     {
       "id": "pSnTKR2Phyo",
@@ -10322,7 +10818,8 @@
         "Anthropic"
       ],
       "prompts": [],
-      "title_zh": "Claude 永遠改變了內容創作！（教學）"
+      "title_zh": "Claude 永遠改變了內容創作！（教學）",
+      "view_count": 223238
     },
     {
       "id": "d9UcE0nfu_A",
@@ -10343,7 +10840,8 @@
         "Clawd Bot"
       ],
       "prompts": [],
-      "title_zh": "我雇用了第一位員工（就是 OpenClaw AI）"
+      "title_zh": "我雇用了第一位員工（就是 OpenClaw AI）",
+      "view_count": 16045
     },
     {
       "id": "mMSKQvlmFuQ",
@@ -10363,7 +10861,8 @@
         "生活管理"
       ],
       "prompts": [],
-      "title_zh": "Clawdbot：手機上的強大 AI 助手"
+      "title_zh": "Clawdbot：手機上的強大 AI 助手",
+      "view_count": 25544
     },
     {
       "id": "SaWSPZoPX34",
@@ -10385,7 +10884,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "ClawdBot (OpenClaw)：Siri 本該有的樣子，自託管 AI（完整設置）"
+      "title_zh": "ClawdBot (OpenClaw)：Siri 本該有的樣子，自託管 AI（完整設置）",
+      "view_count": 76149
     },
     {
       "id": "w6VAFmyfbU0",
@@ -10406,7 +10906,8 @@
         "資訊安全"
       ],
       "prompts": [],
-      "title_zh": "將 OpenClaw 作為 Home Assistant 使用"
+      "title_zh": "將 OpenClaw 作為 Home Assistant 使用",
+      "view_count": 24626
     },
     {
       "id": "qz23zld5oX4",
@@ -10425,7 +10926,8 @@
         "Obsidian"
       ],
       "prompts": [],
-      "title_zh": "個人 AI 基礎架構：打造 24/7 全天候助手 (Clawdbot)"
+      "title_zh": "個人 AI 基礎架構：打造 24/7 全天候助手 (Clawdbot)",
+      "view_count": 27532
     },
     {
       "id": "1gDZtt-iKFE",
@@ -10444,7 +10946,8 @@
         "自我改進系統"
       ],
       "prompts": [],
-      "title_zh": "如何在 Claude Code 中建立「自我完善」系統"
+      "title_zh": "如何在 Claude Code 中建立「自我完善」系統",
+      "view_count": 8539
     },
     {
       "id": "s96JeuuwLzc",
@@ -10464,7 +10967,8 @@
         "Hostinger"
       ],
       "prompts": [],
-      "title_zh": "我再也不會像以前那樣使用 n8n 了……"
+      "title_zh": "我再也不會像以前那樣使用 n8n 了……",
+      "view_count": 514441
     },
     {
       "id": "tkxKnPklJhY",
@@ -10485,7 +10989,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "停止學習 n8n？在 2026 年打造全新 AI 系統"
+      "title_zh": "停止學習 n8n？在 2026 年打造全新 AI 系統",
+      "view_count": 84436
     },
     {
       "id": "7SrT8SEAO8s",
@@ -10504,7 +11009,8 @@
         "AI 效率"
       ],
       "prompts": [],
-      "title_zh": "現在立刻停止學習 n8n（改做這件事）"
+      "title_zh": "現在立刻停止學習 n8n（改做這件事）",
+      "view_count": 66579
     },
     {
       "id": "g1t_hmndPdo",
@@ -10524,7 +11030,8 @@
         "開發工具"
       ],
       "prompts": [],
-      "title_zh": "如何在一分鐘內建立你的第一個 AI 代理 (AI Agent)"
+      "title_zh": "如何在一分鐘內建立你的第一個 AI 代理 (AI Agent)",
+      "view_count": 115467
     },
     {
       "id": "MsQACpcuTkU",
@@ -10548,7 +11055,8 @@
         "pip install aider-chat",
         "aider --model gpt-4o"
       ],
-      "title_zh": "你一直都在用最笨的方法使用 AI（改用這個吧）"
+      "title_zh": "你一直都在用最笨的方法使用 AI（改用這個吧）",
+      "view_count": 1720567
     },
     {
       "id": "b9J1jVOa0kA",
@@ -10569,7 +11077,8 @@
       "prompts": [
         "Build a fully functional Shopify store"
       ],
-      "title_zh": "我在幾分鐘內就開好了一家 Shopify 商店……只需與 AI 對話"
+      "title_zh": "我在幾分鐘內就開好了一家 Shopify 商店……只需與 AI 對話",
+      "view_count": 5851
     },
     {
       "id": "o0VU6aQg7IM",
@@ -10588,7 +11097,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "別再付錢買 AI API 了！現在免費取用超過 10 萬個模型 #AI #API #創業 #免費 #科技 #LLM"
+      "title_zh": "別再付錢買 AI API 了！現在免費取用超過 10 萬個模型 #AI #API #創業 #免費 #科技 #LLM",
+      "view_count": 215381
     },
     {
       "id": "VhggkpZRlVA",
@@ -10607,7 +11117,8 @@
         "MCP"
       ],
       "prompts": [],
-      "title_zh": "如何在 Home Assistant 中使用 Claude Code"
+      "title_zh": "如何在 Home Assistant 中使用 Claude Code",
+      "view_count": 38359
     },
     {
       "id": "bS9R6aCVEzw",
@@ -10628,7 +11139,8 @@
         "自我代管"
       ],
       "prompts": [],
-      "title_zh": "n8n 將改變你身為開發者的生活……"
+      "title_zh": "n8n 將改變你身為開發者的生活……",
+      "view_count": 1106219
     },
     {
       "id": "gEElEzKazYA",
@@ -10648,7 +11160,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "n8n 的 AI 代理太強大了！！"
+      "title_zh": "n8n 的 AI 代理太強大了！！",
+      "view_count": 670818
     },
     {
       "id": "ofC4OeNjDx8",
@@ -10667,7 +11180,8 @@
         "工作流程"
       ],
       "prompts": [],
-      "title_zh": "說真的，在開始學習 n8n 之前請務必看這段影片"
+      "title_zh": "說真的，在開始學習 n8n 之前請務必看這段影片",
+      "view_count": 188901
     },
     {
       "id": "e7umi6iC58o",
@@ -10688,7 +11202,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "aimlapi.com - 免費取得 OpenAI、Anthropic、Grok、Deepseek 等多家 API 金鑰"
+      "title_zh": "aimlapi.com - 免費取得 OpenAI、Anthropic、Grok、Deepseek 等多家 API 金鑰",
+      "view_count": 67456
     },
     {
       "id": "HIHxDqGauJU",
@@ -10709,7 +11224,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "Claude Code 與 Cursor 之間的最大區別 #ai #claudecode #cursor #claude"
+      "title_zh": "Claude Code 與 Cursor 之間的最大區別 #ai #claudecode #cursor #claude",
+      "view_count": 285120
     },
     {
       "id": "4F3JeO4hxwg",
@@ -10730,7 +11246,8 @@
         "AI Automation"
       ],
       "prompts": [],
-      "title_zh": "僅用 WhatsApp 和 ChatGPT 在 n8n 中建立你的第一個 Google 試算表代理 #n8n #AI自動化 (無程式碼)"
+      "title_zh": "僅用 WhatsApp 和 ChatGPT 在 n8n 中建立你的第一個 Google 試算表代理 #n8n #AI自動化 (無程式碼)",
+      "view_count": 126133
     },
     {
       "id": "kJDp6pgP_8o",
@@ -10751,7 +11268,8 @@
         "No-code"
       ],
       "prompts": [],
-      "title_zh": "用 AI 自動回覆 WhatsApp 訊息。無需技術背景 #ai #自動化 #生產力 #n8n #whatsapp"
+      "title_zh": "用 AI 自動回覆 WhatsApp 訊息。無需技術背景 #ai #自動化 #生產力 #n8n #whatsapp",
+      "view_count": 8260
     },
     {
       "id": "g2I5SaGTn4w",
@@ -10770,7 +11288,8 @@
         "GitHub"
       ],
       "prompts": [],
-      "title_zh": "GitHub 上超過 2000 個免費 n8n 工作流 👨‍💻 | 立即提升你的生產力！#shorts"
+      "title_zh": "GitHub 上超過 2000 個免費 n8n 工作流 👨‍💻 | 立即提升你的生產力！#shorts",
+      "view_count": 397353
     },
     {
       "id": "hbr8oH2jyGs",
@@ -10791,7 +11310,8 @@
         "生產力工具"
       ],
       "prompts": [],
-      "title_zh": "免費使用 n8n 進階功能 #n8n #進階版 #免費 #ai #AI代理 #openai #claude #deepseek #科技"
+      "title_zh": "免費使用 n8n 進階功能 #n8n #進階版 #免費 #ai #AI代理 #openai #claude #deepseek #科技",
+      "view_count": 310042
     },
     {
       "id": "cgD-bTTe20I",
@@ -10812,7 +11332,8 @@
         "Cursor"
       ],
       "prompts": [],
-      "title_zh": "別再「憑感覺寫程式」(Vibe Coding) 了！！ #ai #vibecoding"
+      "title_zh": "別再「憑感覺寫程式」(Vibe Coding) 了！！ #ai #vibecoding",
+      "view_count": 584472
     },
     {
       "id": "7CHr0qwTcJw",
@@ -10831,7 +11352,8 @@
         "LLM"
       ],
       "prompts": [],
-      "title_zh": "MCP 協定正在改變一切 | 可擴展 AI 代理背後的祕密 #MCP #AI代理 #LLM"
+      "title_zh": "MCP 協定正在改變一切 | 可擴展 AI 代理背後的祕密 #MCP #AI代理 #LLM",
+      "view_count": 577915
     },
     {
       "id": "_y3DtZmZYpc",
@@ -10852,7 +11374,8 @@
         "教學"
       ],
       "prompts": [],
-      "title_zh": "永久免費 AI API！🔥 OpenRouter 教學"
+      "title_zh": "永久免費 AI API！🔥 OpenRouter 教學",
+      "view_count": 312867
     },
     {
       "id": "BcFtozm7UUo",
@@ -10871,7 +11394,8 @@
         "專案實作"
       ],
       "prompts": [],
-      "title_zh": "5 個能強化履歷的 DevOps 專案💪"
+      "title_zh": "5 個能強化履歷的 DevOps 專案💪",
+      "view_count": 204814
     },
     {
       "id": "tZjmK4qdpe0",
@@ -10890,7 +11414,8 @@
         "AI 效能測試"
       ],
       "prompts": [],
-      "title_zh": "NVIDIA RTX 5080 Ollama 測試"
+      "title_zh": "NVIDIA RTX 5080 Ollama 測試",
+      "view_count": 171660
     },
     {
       "id": "2aC2ly7vKtM",
@@ -10910,7 +11435,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "我在 n8n 中建立了終極 AI 代理團隊 #人工智慧 #n8n #agentgpt #科技 #寫程式"
+      "title_zh": "我在 n8n 中建立了終極 AI 代理團隊 #人工智慧 #n8n #agentgpt #科技 #寫程式",
+      "view_count": 1170731
     },
     {
       "id": "0nprdL9-C1k",
@@ -10930,7 +11456,8 @@
         "電腦設定"
       ],
       "prompts": [],
-      "title_zh": "M4 Mac Mini 設定 - 快大功告成了！！"
+      "title_zh": "M4 Mac Mini 設定 - 快大功告成了！！",
+      "view_count": 189407
     },
     {
       "id": "coFz9CvKnZE",
@@ -10952,7 +11479,8 @@
         "Perplexity"
       ],
       "prompts": [],
-      "title_zh": "你的自動化求職與投遞履歷 AI 代理 [使用 n8n, LinkedIn, Deepseek & Perplexity，無程式碼]"
+      "title_zh": "你的自動化求職與投遞履歷 AI 代理 [使用 n8n, LinkedIn, Deepseek & Perplexity，無程式碼]",
+      "view_count": 74867
     },
     {
       "id": "qVwo2P4uCZM",
@@ -10973,7 +11501,8 @@
         "程式開發"
       ],
       "prompts": [],
-      "title_zh": "我如何獲得 100% 永久免費伺服器（你也可以！）"
+      "title_zh": "我如何獲得 100% 永久免費伺服器（你也可以！）",
+      "view_count": 658371
     },
     {
       "id": "x8GMoBkcTQM",
@@ -10992,7 +11521,8 @@
         "軟體開發"
       ],
       "prompts": [],
-      "title_zh": "我如何僅使用 AI 工具開發出整個 SaaS"
+      "title_zh": "我如何僅使用 AI 工具開發出整個 SaaS",
+      "view_count": 354260
     },
     {
       "id": "FEYiBbJmH0k",
@@ -11011,7 +11541,8 @@
         "產品評測"
       ],
       "prompts": [],
-      "title_zh": "Apple Mac Mini M4：一個大問題！"
+      "title_zh": "Apple Mac Mini M4：一個大問題！",
+      "view_count": 946575
     },
     {
       "id": "XvbVePuP7NY",
@@ -11032,7 +11563,8 @@
         "Home Automation"
       ],
       "prompts": [],
-      "title_zh": "我的本地 AI 語音助手（我把 Alexa 換掉了！！）"
+      "title_zh": "我的本地 AI 語音助手（我把 Alexa 換掉了！！）",
+      "view_count": 1364490
     },
     {
       "id": "8Jkj8sgzEGE",
@@ -11052,7 +11584,8 @@
         "Coding Interview"
       ],
       "prompts": [],
-      "title_zh": "沒問題 👌 #ai #面試 #lockedinai #寫程式 #熱門短片"
+      "title_zh": "沒問題 👌 #ai #面試 #lockedinai #寫程式 #熱門短片",
+      "view_count": 284132
     },
     {
       "id": "hJw34RCyEcE",
@@ -11071,7 +11604,8 @@
         "電話自動化"
       ],
       "prompts": [],
-      "title_zh": "AI 電話：如何自動化你的商業溝通"
+      "title_zh": "AI 電話：如何自動化你的商業溝通",
+      "view_count": 122631
     },
     {
       "id": "CpThDlFn7H4",
@@ -11091,7 +11625,8 @@
         "電子商務"
       ],
       "prompts": [],
-      "title_zh": "看看我用 AI 建立一個 Shopify 直運商店需要多久 👀"
+      "title_zh": "看看我用 AI 建立一個 Shopify 直運商店需要多久 👀",
+      "view_count": 341156
     },
     {
       "id": "Ncv48xNDeDw",
@@ -11110,7 +11645,8 @@
         "內容策略"
       ],
       "prompts": [],
-      "title_zh": "我們分析了 6,000 個 LinkedIn 帳號，以確定多久發文一次才能獲得最佳成長。"
+      "title_zh": "我們分析了 6,000 個 LinkedIn 帳號，以確定多久發文一次才能獲得最佳成長。",
+      "view_count": 269310
     },
     {
       "id": "2uqlJ88tZLY",
@@ -11129,7 +11665,8 @@
         "生產力"
       ],
       "prompts": [],
-      "title_zh": "我如何使用 Python 自動化我的生活！🐍💻 #程式設計 #寫程式 #python"
+      "title_zh": "我如何使用 Python 自動化我的生活！🐍💻 #程式設計 #寫程式 #python",
+      "view_count": 106856
     },
     {
       "id": "WqjOW3mY4PA",
@@ -11148,7 +11685,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "這就是為什麼 Home Assistant 是智慧家庭之王 👑"
+      "title_zh": "這就是為什麼 Home Assistant 是智慧家庭之王 👑",
+      "view_count": 424025
     },
     {
       "id": "TGzc1ouvrrM",
@@ -11168,7 +11706,8 @@
         "照明自動化"
       ],
       "prompts": [],
-      "title_zh": "超瘋狂的家庭自動化點子 🤯"
+      "title_zh": "超瘋狂的家庭自動化點子 🤯",
+      "view_count": 379120
     },
     {
       "id": "QC3w7kfeM1s",
@@ -11188,7 +11727,8 @@
         "創業誤區"
       ],
       "prompts": [],
-      "title_zh": "為什麼如果你這麼做，你的 AI 事業就不會成功…… #shorts #商業 #創業"
+      "title_zh": "為什麼如果你這麼做，你的 AI 事業就不會成功…… #shorts #商業 #創業",
+      "view_count": 130516
     },
     {
       "id": "4wlTzmcDOrs",
@@ -11208,7 +11748,8 @@
         "知識管理"
       ],
       "prompts": [],
-      "title_zh": "學習如何建立「第二大腦」。#notion #生產力 #第二大腦 #生產力技巧"
+      "title_zh": "學習如何建立「第二大腦」。#notion #生產力 #第二大腦 #生產力技巧",
+      "view_count": 334057
     },
     {
       "id": "SbGL6p7FSJU",
@@ -11229,7 +11770,8 @@
         "自動化"
       ],
       "prompts": [],
-      "title_zh": "真實版賈維斯 🤯"
+      "title_zh": "真實版賈維斯 🤯",
+      "view_count": 354977
     },
     {
       "id": "eTigh24z8_E",
@@ -11248,7 +11790,8 @@
         "智慧居家"
       ],
       "prompts": [],
-      "title_zh": "ChatGPT + Home Assistant + Siri 讓智慧家庭升級。#chatgpt #ai #智慧家庭 #homeassistant #科技"
+      "title_zh": "ChatGPT + Home Assistant + Siri 讓智慧家庭升級。#chatgpt #ai #智慧家庭 #homeassistant #科技",
+      "view_count": 271332
     },
     {
       "id": "tmI2Qd89L9U",
@@ -11267,7 +11810,8 @@
         "電子商務"
       ],
       "prompts": [],
-      "title_zh": "Shopify 商店機器人 #珠寶設計師 #珠寶控 #珠寶設計 #shopify #機器人"
+      "title_zh": "Shopify 商店機器人 #珠寶設計師 #珠寶控 #珠寶設計 #shopify #機器人",
+      "view_count": 870
     }
   ]
 }

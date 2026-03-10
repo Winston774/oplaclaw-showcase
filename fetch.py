@@ -54,19 +54,21 @@ def search_videos(youtube, query: str, max_results: int = 200) -> list[dict]:
     return videos[:max_results]
 
 
-def fetch_video_durations(youtube, video_ids: list[str]) -> dict[str, str]:
-    """Fetch duration for a list of video IDs. Returns {id: 'MM:SS'}."""
-    durations = {}
+def fetch_video_details(youtube, video_ids: list[str]) -> dict[str, dict]:
+    """Fetch duration and view count for a list of video IDs."""
+    details = {}
     for i in range(0, len(video_ids), 50):
         batch = video_ids[i:i+50]
         response = youtube.videos().list(
-            part="contentDetails",
+            part="contentDetails,statistics",
             id=",".join(batch),
         ).execute()
         for item in response.get("items", []):
-            raw = item["contentDetails"]["duration"]
-            durations[item["id"]] = _parse_duration(raw)
-    return durations
+            details[item["id"]] = {
+                "duration": _parse_duration(item["contentDetails"]["duration"]),
+                "view_count": int(item["statistics"].get("viewCount", 0)),
+            }
+    return details
 
 
 def _parse_duration(iso: str) -> str:
@@ -184,9 +186,9 @@ if __name__ == "__main__":
     if not new_videos:
         print("✅ Nothing to update.")
     else:
-        # Fetch durations for new videos
+        # Fetch durations and view counts for new videos
         new_ids = [v["id"] for v in new_videos]
-        durations = fetch_video_durations(youtube, new_ids)
+        details = fetch_video_details(youtube, new_ids)
 
         # Enrich with Gemini
         enriched = []
@@ -201,7 +203,8 @@ if __name__ == "__main__":
                     "url": video["url"],
                     "thumbnail": video["thumbnail"],
                     "published_at": video["published_at"],
-                    "duration": durations.get(video["id"], ""),
+                    "duration": details.get(video["id"], {}).get("duration", ""),
+                    "view_count": details.get(video["id"], {}).get("view_count", 0),
                     "category": ai_data["category"],
                     "category_icon": ai_data["category_icon"],
                     "summary": ai_data.get("summary", ""),

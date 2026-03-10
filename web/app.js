@@ -3,6 +3,14 @@ let allVideos = [];
 let activeCategory = 'All';
 let searchQuery = '';
 
+// ── Helpers ──
+function formatViews(n) {
+  if (!n) return '';
+  if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+  if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'K';
+  return n.toString();
+}
+
 // ── Chart ──
 function renderChart(videos) {
   const counts = {};
@@ -222,6 +230,7 @@ function renderCard(v) {
           <span class="cat-icon">${v.category_icon || '📌'}</span>
           ${v.category}
         </div>
+        ${v.view_count ? `<span class="view-count">👁 ${formatViews(v.view_count)}</span>` : ''}
         <a href="${v.url}" target="_blank" class="card-play-icon" title="在 YouTube 觀看">▶</a>
       </div>
       <div class="card-title">${titleHtml}</div>
@@ -245,7 +254,7 @@ async function init() {
     const res = await fetch('./data/videos.json');
     if (!res.ok) throw new Error('Failed to load videos.json');
     const data = await res.json();
-    allVideos = data.videos || [];
+    allVideos = (data.videos || []).filter(v => (v.view_count || 0) >= 10000);
     renderStats(data);
     renderChart(data.videos);
     renderFilters();
