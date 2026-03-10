@@ -162,6 +162,84 @@ function buildFallbackPrompt(v) {
 影片來源：${v.url}`;
 }
 
+// ── Copy Prompt ──
+function copyPrompt(video, btn) {
+  const parts = [];
+  if (video.prompts?.length) parts.push(video.prompts.join('\n\n'));
+  parts.push(buildFallbackPrompt(video));
+  navigator.clipboard.writeText(parts.join('\n\n---\n\n')).then(() => {
+    btn.textContent = '✓ 已複製';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.innerHTML = '📋 Copy Prompt'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+
+// ── Popover ──
+let hideTimer = null;
+
+function buildPopoverContent(v) {
+  const tagsHtml = (v.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+  const meta = [
+    v.view_count ? `👁 ${formatViews(v.view_count)}` : '',
+    v.duration || ''
+  ].filter(Boolean).join(' · ');
+  return `
+    <img class="pop-thumb" src="${v.thumbnail}" alt="">
+    <div class="pop-meta">
+      <span class="cat-icon">${v.category_icon || '📌'}</span>${v.category}
+      <span class="pop-stats">${meta}</span>
+    </div>
+    <div class="pop-title">${v.title_zh || v.title}</div>
+    ${v.title_zh ? `<div class="pop-title-en">${v.title}</div>` : ''}
+    <div class="pop-label">📝 影片摘要</div>
+    <div class="pop-summary">${v.summary || '—'}</div>
+    ${tagsHtml ? `<div class="pop-label">🏷️ 標籤</div><div class="card-tags">${tagsHtml}</div>` : ''}
+    <div class="pop-label">📚 深度摘要</div>
+    <div class="pop-placeholder">深度摘要功能即將推出 — 此區塊將顯示 500–1000 字的影片重點整理</div>
+    <div class="pop-actions">
+      <button class="btn-copy pop-btn-copy" data-id="${v.id}">📋 Copy Prompt</button>
+      <a href="${v.url}" target="_blank" class="btn-watch">▶ 前往 YouTube</a>
+    </div>
+  `;
+}
+
+function openPopover(v, cardEl) {
+  cancelClose();
+  const popEl = document.getElementById('popover');
+  popEl.innerHTML = buildPopoverContent(v);
+
+  popEl.querySelector('.pop-btn-copy').addEventListener('click', e => {
+    copyPrompt(v, e.currentTarget);
+  });
+
+  popEl.style.display = 'block';
+
+  const rect = cardEl.getBoundingClientRect();
+  const popW = 360;
+  const popH = popEl.offsetHeight;
+  const vW = window.innerWidth;
+  const vH = window.innerHeight;
+
+  const left = (rect.right + popW + 12 <= vW)
+    ? rect.right + 12
+    : rect.left - popW - 12;
+  const top = Math.max(10, Math.min(rect.top, vH - popH - 10));
+
+  popEl.style.left = left + 'px';
+  popEl.style.top = top + 'px';
+
+  popEl.onmouseenter = cancelClose;
+  popEl.onmouseleave = scheduleClose;
+}
+
+function scheduleClose() {
+  hideTimer = setTimeout(() => {
+    document.getElementById('popover').style.display = 'none';
+  }, 200);
+}
+
+function cancelClose() { clearTimeout(hideTimer); }
+
 // ── Cards ──
 function getFiltered() {
   const filtered = allVideos.filter(v => {
@@ -196,22 +274,17 @@ function renderCards() {
   // Bind copy buttons
   grid.querySelectorAll('.btn-copy').forEach(btn => {
     btn.addEventListener('click', () => {
-      const id = btn.dataset.id;
-      const video = allVideos.find(v => v.id === id);
-      if (!video) return;
-      const parts = [];
-      if (video.prompts?.length) parts.push(video.prompts.join('\n\n'));
-      parts.push(buildFallbackPrompt(video));
-      const text = parts.join('\n\n---\n\n');
-      navigator.clipboard.writeText(text).then(() => {
-        btn.textContent = '✓ 已複製';
-        btn.classList.add('copied');
-        setTimeout(() => {
-          btn.innerHTML = '📋 Copy Prompt';
-          btn.classList.remove('copied');
-        }, 2000);
-      });
+      const video = allVideos.find(v => v.id === btn.dataset.id);
+      if (video) copyPrompt(video, btn);
     });
+  });
+
+  // Bind hover popover
+  grid.querySelectorAll('.card').forEach(cardEl => {
+    const video = allVideos.find(v => v.id === cardEl.dataset.id);
+    if (!video) return;
+    cardEl.addEventListener('mouseenter', () => openPopover(video, cardEl));
+    cardEl.addEventListener('mouseleave', scheduleClose);
   });
 }
 
@@ -230,7 +303,7 @@ function renderCard(v) {
   const tagsHtml = (v.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
 
   return `
-    <div class="card">
+    <div class="card" data-id="${v.id}">
       <div class="card-top">
         <div class="card-category">
           <span class="cat-icon">${v.category_icon || '📌'}</span>
