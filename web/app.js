@@ -230,8 +230,7 @@ function renderCard(v) {
           <span class="cat-icon">${v.category_icon || '📌'}</span>
           ${v.category}
         </div>
-        ${v.view_count ? `<span class="view-count">👁 ${formatViews(v.view_count)}</span>` : ''}
-        <a href="${v.url}" target="_blank" class="card-play-icon" title="在 YouTube 觀看">▶</a>
+        <span class="view-count">👁 ${formatViews(v.view_count) || '—'}</span>
       </div>
       <div class="card-title">${titleHtml}</div>
       <div class="card-summary">${v.summary || ''}</div>
