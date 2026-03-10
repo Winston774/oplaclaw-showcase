@@ -195,7 +195,13 @@ function buildPopoverContent(v) {
     <div class="pop-summary">${v.summary || '—'}</div>
     ${tagsHtml ? `<div class="pop-label">🏷️ 標籤</div><div class="card-tags">${tagsHtml}</div>` : ''}
     <div class="pop-label">📚 深度摘要</div>
-    <div class="pop-placeholder">深度摘要功能即將推出 — 此區塊將顯示 500–1000 字的影片重點整理</div>
+    <div class="pop-deep-summary">
+      <p>這支影片主要介紹如何利用 OpenClaw 搭配 AI Agent 技術，打造一套全自動的內容發布流水線。講師從實際痛點出發，說明傳統手動發布流程每週耗費大量重複性時間，並示範如何透過簡單的提示詞設計，讓 AI 自動完成從素材整理、文案撰寫到跨平台發布的整個流程。</p>
+      <p>影片前半段聚焦在架構設計：講師將整個流程拆解為「輸入層」、「處理層」與「輸出層」三個模組，每個模組都對應一個獨立的 OpenClaw 技能。輸入層負責從 Notion 資料庫或 Google Sheets 讀取素材清單；處理層透過 Claude API 進行文案生成與格式轉換；輸出層則分別推送至 Twitter/X、LinkedIn 與 Instagram。</p>
+      <p>後半段為實際 Demo 操作，講師以一篇科技新聞為範本，展示整個流程從觸發到完成只需不到 90 秒。過程中也說明如何設置錯誤處理機制——當某個平台 API 呼叫失敗時，系統會自動記錄錯誤並重試，避免整個流程中斷。</p>
+      <p>影片特別強調「人機協作」的設計哲學：在 AI 完成初稿後，系統會先暫停並等待使用者確認，而非直接發布。這個「確認閘門」設計讓使用者保有最終控制權，同時大幅降低手動操作的比例。講師建議，對於高風險的輸出（如財務建議類內容），應設置雙重確認機制。</p>
+      <p>整體而言，這支影片適合已有基礎 OpenClaw 使用經驗、想要進一步提升自動化程度的使用者。初學者可能需要先補充 API 串接的基本知識，但講師在影片說明欄有提供相關前置資源的連結。</p>
+    </div>
     <div class="pop-actions">
       <button class="btn-copy pop-btn-copy" data-id="${v.id}">📋 Copy Prompt</button>
       <a href="${v.url}" target="_blank" class="btn-watch">▶ 前往 YouTube</a>

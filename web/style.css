@@ -308,6 +308,11 @@ body {
   background: #161616; border: 1px dashed #333;
   border-radius: 6px; padding: 10px; line-height: 1.6;
 }
+.pop-deep-summary {
+  font-size: 13px; color: var(--muted); line-height: 1.8;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.pop-deep-summary p { margin: 0; }
 .pop-actions { display: flex; gap: 8px; margin-top: 14px; }
 .pop-actions .btn-copy { flex: 1; }
 
