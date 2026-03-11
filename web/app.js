@@ -195,9 +195,9 @@ function buildPopoverContent(v) {
     <div class="pop-summary">${v.summary || '—'}</div>
     ${tagsHtml ? `<div class="pop-label">🏷️ 標籤</div><div class="card-tags">${tagsHtml}</div>` : ''}
     <div class="pop-label">📚 深度摘要</div>
-    ${v.summary_long
+    ${v.summary_long && v.summary_long !== 'NO_TRANSCRIPT'
       ? `<div class="pop-deep-summary">${v.summary_long.split(/\n\n+/).map(p => `<p>${p}</p>`).join('')}</div>`
-      : v.summary_long === ''
+      : v.summary_long === 'NO_TRANSCRIPT'
         ? `<div class="pop-placeholder">此影片無字幕，深度摘要暫不提供</div>`
         : `<div class="pop-placeholder">深度摘要生成中，請稍後...</div>`
     }

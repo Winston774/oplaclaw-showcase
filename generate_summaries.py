@@ -6,27 +6,42 @@ from datetime import datetime
 
 from google import genai
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import (
+    TranscriptsDisabled, NoTranscriptFound, VideoUnavailable,
+    IpBlocked, RequestBlocked,
+)
 
 from config import GEMINI_API_KEY, GEMINI_MODEL, DATA_FILE
 from fetch import load_existing, save_data
 
+# Sentinel stored in JSON to avoid retrying
+NO_TRANSCRIPT = "NO_TRANSCRIPT"
 
-def get_transcript(video_id: str) -> str | None:
-    """Fetch YouTube transcript. Prefer English, fallback to any language."""
+_yt_api = YouTubeTranscriptApi()
+
+
+def get_transcript(video_id: str):
+    """Fetch YouTube transcript.
+    Returns: text string, NO_TRANSCRIPT sentinel, or raises IpBlocked."""
     try:
-        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
-        try:
-            t = transcript_list.find_transcript(['en'])
-        except Exception:
-            try:
-                t = transcript_list.find_generated_transcript(['en'])
-            except Exception:
-                t = next(iter(transcript_list))
-        entries = t.fetch()
-        text = ' '.join(e.get('text', '') for e in entries)
-        return text[:6000]  # Limit tokens
+        transcript_list = _yt_api.list(video_id)
+        t = None
+        for candidate in transcript_list:
+            if candidate.language_code.startswith('en'):
+                t = candidate
+                break
+        if t is None:
+            tlist2 = _yt_api.list(video_id)
+            t = next(iter(tlist2))
+        fetched = t.fetch()
+        text = ' '.join(s.text for s in fetched)
+        return text[:6000]
+    except (IpBlocked, RequestBlocked):
+        raise  # Propagate so caller can pause and retry
+    except (TranscriptsDisabled, NoTranscriptFound, VideoUnavailable):
+        return NO_TRANSCRIPT
     except Exception:
-        return None
+        return NO_TRANSCRIPT
 
 
 def generate_deep_summary(client, title: str, transcript: str) -> str:
@@ -63,46 +78,56 @@ if __name__ == "__main__":
     print(f"📦 Total: {total} | Already done: {already_done} | To process: {to_process}")
     print()
 
-    processed = 0
+    generated = 0
     no_transcript = 0
     errors = 0
+    ip_blocked_count = 0
 
     for i, v in enumerate(videos, 1):
-        # Skip if already processed (None = no transcript, string = has summary)
+        # Skip already processed (None key = not yet attempted)
         if v.get('summary_long') is not None:
             continue
 
         title_short = v['title'][:60]
         print(f"  [{i:3d}/{total}] {title_short}...")
 
-        transcript = get_transcript(v['id'])
-        if not transcript:
-            v['summary_long'] = ""  # Empty string = no transcript (won't retry)
+        # Fetch transcript with IP-block handling
+        transcript = None
+        for attempt in range(3):
+            try:
+                transcript = get_transcript(v['id'])
+                break
+            except (IpBlocked, RequestBlocked):
+                ip_blocked_count += 1
+                wait = 30 * (attempt + 1)
+                print(f"           🚫 IP blocked, waiting {wait}s...")
+                time.sleep(wait)
+        else:
+            print(f"           ❌ Still blocked after 3 attempts, skipping batch")
+            break
+
+        if transcript == NO_TRANSCRIPT:
+            v['summary_long'] = NO_TRANSCRIPT
             no_transcript += 1
             print(f"           ⚠️  No transcript")
-            # Save periodically
-            if (processed + no_transcript) % 10 == 0:
-                save_data(data)
-            continue
-
-        try:
-            v['summary_long'] = generate_deep_summary(ai_client, v['title'], transcript)
-            processed += 1
-            words = len(v['summary_long'])
-            print(f"           ✅ {words} chars")
-        except Exception as e:
-            print(f"           ❌ Gemini error: {e}")
-            errors += 1
-            time.sleep(2)
-            continue
+        else:
+            try:
+                v['summary_long'] = generate_deep_summary(ai_client, v['title'], transcript)
+                generated += 1
+                print(f"           ✅ {len(v['summary_long'])} chars")
+            except Exception as e:
+                print(f"           ❌ Gemini error: {e}")
+                errors += 1
+                time.sleep(2)
+                continue
 
         # Save every 10 videos
-        if (processed + no_transcript) % 10 == 0:
+        if (generated + no_transcript) % 10 == 0:
             data["last_updated"] = datetime.utcnow().isoformat()
             save_data(data)
-            print(f"  💾 Saved progress ({processed} done, {no_transcript} no-transcript)")
+            print(f"  💾 Saved ({generated} summaries, {no_transcript} no-transcript)")
 
-        time.sleep(0.3)  # Gentle rate limiting
+        time.sleep(2)  # 2s delay between requests to avoid IP block
 
     # Final save
     data["last_updated"] = datetime.utcnow().isoformat()
@@ -110,7 +135,8 @@ if __name__ == "__main__":
 
     print()
     print("=" * 50)
-    print(f"✅ Generated: {processed}")
+    print(f"✅ Generated: {generated}")
     print(f"⚠️  No transcript: {no_transcript}")
     print(f"❌ Errors: {errors}")
+    print(f"🚫 IP blocks encountered: {ip_blocked_count}")
     print(f"💾 Saved to {DATA_FILE}")
